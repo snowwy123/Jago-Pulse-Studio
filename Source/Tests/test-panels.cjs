@@ -1,0 +1,3 @@
+// SPDX-License-Identifier: MIT
+// Control regressions expand panels; workspace-browser.cjs tests real navigation.
+exports.expand=async page=>{await page.waitForFunction(()=>window.pulseUxReady);await page.addStyleTag({content:'.taskPane[hidden]{display:block!important}.generationDock[hidden]{display:block!important}'});await page.evaluate(()=>{new MutationObserver(()=>{let d=document.getElementById('songLengthDialog');if(d?.open)document.getElementById('keepSongLength').click();}).observe(document.body,{subtree:true,attributes:true,attributeFilter:['open']});for(let d of document.querySelectorAll('details')){d.open=true;d.addEventListener('toggle',()=>{if(!d.open)d.open=true;});}});};

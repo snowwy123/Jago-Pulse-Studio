@@ -1,0 +1,9 @@
+/Jago-Pulse.exe
+/*.dll
+/Test-output/
+/Source.zip
+/node_modules/
+
+/Dependencies/Mediabunny/package/
+
+/Dependencies/Mediabunny/*.tgz
