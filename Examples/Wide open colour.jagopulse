@@ -96,9 +96,9 @@
           "end": 1,
           "keys": null,
           "coverage": "frame",
-          "density": 0.6692549999999999,
+          "density": 0.684255,
           "detail": 0.618725,
-          "flow": 0.5093165,
+          "flow": 0.5408164999999999,
           "reactTarget": "flow",
           "release": 0.3,
           "anticipation": 0,
@@ -135,7 +135,7 @@
           "morphRate": 0.08,
           "localMusic": true,
           "musicBoost": 1,
-          "responseReason": "Gentle bass-led changes preserve the organic movement."
+          "responseReason": "The family supplies its own characteristic animation. Add drift separately if wanted."
         }
       ],
       "recipe": "Ribbon helix",
@@ -256,9 +256,9 @@
           "end": 1,
           "keys": null,
           "coverage": "frame",
-          "density": 0.586993,
+          "density": 0.603493,
           "detail": 0.7008749999999999,
-          "flow": 0.9847334999999999,
+          "flow": 1.0364835,
           "reactTarget": "flow",
           "release": 0.3,
           "anticipation": 0,
@@ -295,7 +295,7 @@
           "morphRate": 0.08,
           "localMusic": true,
           "musicBoost": 1,
-          "responseReason": "Gentle bass-led changes preserve the organic movement."
+          "responseReason": "The family supplies its own characteristic animation. Add drift separately if wanted."
         }
       ],
       "recipe": "Chromatic blobs",

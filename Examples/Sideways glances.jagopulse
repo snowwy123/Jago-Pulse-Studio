@@ -136,6 +136,9 @@
             "amount": 0.15,
             "continuous": true
           },
+          "aboveVisual": false,
+          "imageSampling": "smooth",
+          "cellTreatment": "faceted",
           "substyle": "auto",
           "gradient": 0,
           "depth": 0.5,
@@ -159,10 +162,20 @@
           "textOut": 0.15,
           "textStyle": "original"
         }
-      ]
+      ],
+      "overlays": []
     }
   ],
+  "grade": {
+    "enabled": true,
+    "exposure": 0,
+    "brightness": 1,
+    "contrast": 1,
+    "saturation": 1,
+    "highlights": 0
+  },
   "gain": 0.8,
+  "overlays": [],
   "markers": [],
   "cycleMode": "off",
   "cycleTarget": "artwork",

@@ -1,0 +1,5 @@
+// SPDX-License-Identifier: MIT
+(function(root){'use strict';const node=typeof module!=='undefined',P=node?require('./core.js'):root.Pulse,E=node?require('./experimental.js'):root.PulseExperimental,L=node?require('./light-chambers.js'):root.PulseLightChambers;
+function make(){const result={};for(let look=0;look<L.looks.length;look++){const name='Light chambers / '+L.looks[look],p=P.generate(P.create(),'chamber-'+look);Object.assign(p,{name,duration:24,count:1,textMode:'none',loop:true,transition:'cut',generateVisualSelection:{mode:'selection',entries:[{family:'chamber',looks:[String(look)]}],variety:'close'}});p.scenes=[{...p.scenes[0],duration:24,layers:[],experimental:E.normalise({engine:'chamber',look,speed:.5,reaction:.3,drift:.08,glow:.65,chamber:{fixtures:look===1||look===4?'bulbs':'strips'},musical:{structure:0,travel:.35}})}];result[name]=P.validate(p);}return result;}
+if(node)module.exports={make};else Object.assign(root.PulseExamples,make());
+})(typeof globalThis!=='undefined'?globalThis:this);

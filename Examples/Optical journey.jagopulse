@@ -92,8 +92,8 @@
           "opacity": 1,
           "motion": "still",
           "amount": 0.22133249370381236,
-          "react": "accent",
-          "reactAmount": 0.22749999999999998,
+          "react": "bass",
+          "reactAmount": 0.26,
           "blend": "source-over",
           "mask": "none",
           "fit": "contain",
@@ -101,10 +101,10 @@
           "end": 1,
           "keys": null,
           "coverage": "frame",
-          "density": 0.6852900000000001,
+          "density": 0.67029,
           "detail": 0.5574749999999999,
-          "flow": 0.5308309999999999,
-          "reactTarget": "rotation",
+          "flow": 0.5413309999999999,
+          "reactTarget": "flow",
           "release": 0.3,
           "anticipation": 0,
           "responseGate": "all",
@@ -136,7 +136,10 @@
           },
           "localMusic": true,
           "musicBoost": 1,
-          "responseReason": "Geometric accents work with small rotational changes.",
+          "responseReason": "The family supplies its own characteristic animation. Add drift separately if wanted.",
+          "aboveVisual": false,
+          "imageSampling": "smooth",
+          "cellTreatment": "faceted",
           "gradient": 0,
           "perspectiveX": 0.5,
           "perspectiveY": 0.5,
@@ -154,7 +157,8 @@
       "recipe": "Kaleidoscope",
       "familyVariant": "layered",
       "lookName": "Mandala spokes",
-      "filmRole": "opening"
+      "filmRole": "opening",
+      "overlays": []
     },
     {
       "id": "scene-1",
@@ -224,6 +228,9 @@
           "localMusic": true,
           "musicBoost": 1,
           "responseReason": "Perspective reads well with flow and a gently travelling focal point.",
+          "aboveVisual": false,
+          "imageSampling": "smooth",
+          "cellTreatment": "faceted",
           "gradient": 0,
           "perspectiveX": 0.5,
           "perspectiveY": 0.5,
@@ -241,7 +248,8 @@
       "recipe": "Optical tunnel",
       "familyVariant": "soft",
       "lookName": "Circular descent",
-      "filmRole": "build"
+      "filmRole": "build",
+      "overlays": []
     },
     {
       "id": "scene-2",
@@ -312,6 +320,9 @@
           "localMusic": true,
           "musicBoost": 1,
           "responseReason": "Geometric accents work with small rotational changes.",
+          "aboveVisual": false,
+          "imageSampling": "smooth",
+          "cellTreatment": "faceted",
           "gradient": 0,
           "perspectiveX": 0.5,
           "perspectiveY": 0.5,
@@ -329,7 +340,8 @@
       "recipe": "Interference discs",
       "familyVariant": "soft",
       "lookName": "Twin circles",
-      "filmRole": "build"
+      "filmRole": "build",
+      "overlays": []
     },
     {
       "id": "scene-3",
@@ -399,6 +411,9 @@
           "localMusic": true,
           "musicBoost": 1,
           "responseReason": "Geometric accents work with small rotational changes.",
+          "aboveVisual": false,
+          "imageSampling": "smooth",
+          "cellTreatment": "faceted",
           "gradient": 0,
           "perspectiveX": 0.5,
           "perspectiveY": 0.5,
@@ -473,6 +488,9 @@
           "localMusic": true,
           "musicBoost": 1,
           "responseReason": "Geometric accents work with small rotational changes.",
+          "aboveVisual": false,
+          "imageSampling": "smooth",
+          "cellTreatment": "faceted",
           "gradient": 0,
           "perspectiveX": 0.5,
           "perspectiveY": 0.5,
@@ -490,7 +508,8 @@
       "recipe": "Orbit studies",
       "familyVariant": "structured",
       "lookName": "Mechanical orbit",
-      "filmRole": "build"
+      "filmRole": "build",
+      "overlays": []
     },
     {
       "id": "scene-4",
@@ -560,6 +579,9 @@
           "localMusic": true,
           "musicBoost": 1,
           "responseReason": "Perspective reads well with flow and a gently travelling focal point.",
+          "aboveVisual": false,
+          "imageSampling": "smooth",
+          "cellTreatment": "faceted",
           "gradient": 0,
           "perspectiveX": 0.5,
           "perspectiveY": 0.5,
@@ -577,7 +599,8 @@
       "recipe": "Optical tunnel",
       "familyVariant": "soft",
       "lookName": "Circular descent",
-      "filmRole": "breathing"
+      "filmRole": "breathing",
+      "overlays": []
     },
     {
       "id": "scene-5",
@@ -603,8 +626,8 @@
           "opacity": 1,
           "motion": "still",
           "amount": 0.3921124721877277,
-          "react": "accent",
-          "reactAmount": 0.35,
+          "react": "bass",
+          "reactAmount": 0.4,
           "blend": "source-over",
           "mask": "none",
           "fit": "contain",
@@ -612,10 +635,10 @@
           "end": 1,
           "keys": null,
           "coverage": "frame",
-          "density": 0.5478274999999999,
+          "density": 0.5328275,
           "detail": 0.6797,
-          "flow": 0.8981724999999999,
-          "reactTarget": "rotation",
+          "flow": 0.9131724999999999,
+          "reactTarget": "flow",
           "release": 0.3,
           "anticipation": 0,
           "responseGate": "all",
@@ -647,7 +670,10 @@
           },
           "localMusic": true,
           "musicBoost": 1,
-          "responseReason": "Geometric accents work with small rotational changes.",
+          "responseReason": "The family supplies its own characteristic animation. Add drift separately if wanted.",
+          "aboveVisual": false,
+          "imageSampling": "smooth",
+          "cellTreatment": "faceted",
           "gradient": 0,
           "perspectiveX": 0.5,
           "perspectiveY": 0.5,
@@ -665,7 +691,8 @@
       "recipe": "Log spirals",
       "familyVariant": "structured",
       "lookName": "Spiral spokes",
-      "filmRole": "flow"
+      "filmRole": "flow",
+      "overlays": []
     },
     {
       "id": "scene-6",
@@ -736,6 +763,9 @@
           "localMusic": true,
           "musicBoost": 1,
           "responseReason": "Perspective reads well with flow and a gently travelling focal point.",
+          "aboveVisual": false,
+          "imageSampling": "smooth",
+          "cellTreatment": "faceted",
           "gradient": 0,
           "perspectiveX": 0.5,
           "perspectiveY": 0.5,
@@ -753,7 +783,8 @@
       "recipe": "Cubic corridor",
       "familyVariant": "structured",
       "lookName": "Tilted passage",
-      "filmRole": "peak"
+      "filmRole": "peak",
+      "overlays": []
     },
     {
       "id": "scene-7",
@@ -825,6 +856,9 @@
           "musicBoost": 1,
           "responseReason": "Geometric accents work with small rotational changes.",
           "filmSettle": true,
+          "aboveVisual": false,
+          "imageSampling": "smooth",
+          "cellTreatment": "faceted",
           "gradient": 0,
           "perspectiveX": 0.5,
           "perspectiveY": 0.5,
@@ -842,7 +876,8 @@
       "recipe": "Tessellated prisms",
       "familyVariant": "layered",
       "lookName": "Crystal mosaic",
-      "filmRole": "ending"
+      "filmRole": "ending",
+      "overlays": []
     }
   ],
   "familyScope": "collection",
@@ -882,7 +917,16 @@
       "ending"
     ]
   },
+  "grade": {
+    "enabled": true,
+    "exposure": 0,
+    "brightness": 1,
+    "contrast": 1,
+    "saturation": 1,
+    "highlights": 0
+  },
   "gain": 0.8,
+  "overlays": [],
   "markers": [],
   "cycleMode": "off",
   "cycleTarget": "artwork",

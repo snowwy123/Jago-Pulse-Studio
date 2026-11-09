@@ -252,6 +252,9 @@
             "continuous": true
           },
           "responseReason": "Let sustained energy move the light gradually.",
+          "aboveVisual": false,
+          "imageSampling": "smooth",
+          "cellTreatment": "faceted",
           "gradient": 0,
           "perspectiveX": 0.5,
           "perspectiveY": 0.5,
@@ -269,7 +272,8 @@
       "recipe": "Aurora curtains",
       "familyVariant": "soft",
       "lookName": "Veil",
-      "filmRole": "opening"
+      "filmRole": "opening",
+      "overlays": []
     },
     {
       "id": "scene-1",
@@ -340,6 +344,9 @@
             "continuous": true
           },
           "responseReason": "Let sustained energy move the light gradually.",
+          "aboveVisual": false,
+          "imageSampling": "smooth",
+          "cellTreatment": "faceted",
           "gradient": 0,
           "perspectiveX": 0.5,
           "perspectiveY": 0.5,
@@ -357,7 +364,8 @@
       "recipe": "Aurora curtains",
       "familyVariant": "layered",
       "lookName": "Polar ribbons",
-      "filmRole": "peak"
+      "filmRole": "peak",
+      "overlays": []
     },
     {
       "id": "scene-2",
@@ -429,6 +437,9 @@
           },
           "responseReason": "Let sustained energy move the light gradually.",
           "filmSettle": true,
+          "aboveVisual": false,
+          "imageSampling": "smooth",
+          "cellTreatment": "faceted",
           "gradient": 0,
           "perspectiveX": 0.5,
           "perspectiveY": 0.5,
@@ -446,7 +457,8 @@
       "recipe": "Aurora curtains",
       "familyVariant": "layered",
       "lookName": "Polar ribbons",
-      "filmRole": "ending"
+      "filmRole": "ending",
+      "overlays": []
     }
   ],
   "captionFont": "Georgia",
@@ -473,7 +485,16 @@
       "ending"
     ]
   },
+  "grade": {
+    "enabled": true,
+    "exposure": 0,
+    "brightness": 1,
+    "contrast": 1,
+    "saturation": 1,
+    "highlights": 0
+  },
   "gain": 0.8,
+  "overlays": [],
   "markers": [],
   "cycleMode": "off",
   "cycleTarget": "artwork",

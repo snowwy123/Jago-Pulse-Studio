@@ -1,0 +1,6195 @@
+{
+  "format": "jagomusic",
+  "version": 1,
+  "id": "9ecd98ef-352f-4eaf-8230-5061f0c747d8",
+  "name": "Afterglow drive",
+  "seed": "jago-study-afterglow-drive",
+  "mood": "city",
+  "tempo": 120,
+  "key": 0,
+  "scale": "dorian",
+  "energy": 0.65,
+  "busyness": 0.518,
+  "human": 0.18,
+  "loop": true,
+  "master": 0.8,
+  "room": 0.3,
+  "sections": [
+    {
+      "id": "song-0-0",
+      "name": "Opening",
+      "bars": 1,
+      "energy": 0.4,
+      "phase": 0
+    },
+    {
+      "id": "song-1-0",
+      "name": "Verse",
+      "bars": 2,
+      "energy": 0.75,
+      "phase": 1
+    },
+    {
+      "id": "song-2-0",
+      "name": "Chorus",
+      "bars": 2,
+      "energy": 1.15,
+      "phase": 2
+    },
+    {
+      "id": "song-3-0",
+      "name": "Second verse",
+      "bars": 2,
+      "energy": 0.85,
+      "phase": 3
+    },
+    {
+      "id": "song-4-0",
+      "name": "Chorus returns",
+      "bars": 4,
+      "energy": 1.3,
+      "phase": 4
+    },
+    {
+      "id": "song-5-0",
+      "name": "Closing",
+      "bars": 1,
+      "energy": 0.45,
+      "phase": 5
+    }
+  ],
+  "tracks": [
+    {
+      "id": "voice-0",
+      "name": "Melody",
+      "role": "melody",
+      "instrument": "resonant",
+      "volume": 0.58,
+      "pan": 0,
+      "space": 0.28,
+      "brightness": 0.55,
+      "muted": false,
+      "solo": false,
+      "locked": false,
+      "patterns": {
+        "song-0-0": {
+          "bars": 4,
+          "notes": [
+            {
+              "id": "n-0",
+              "step": 0,
+              "pitch": 67,
+              "length": 3.2318306576786564,
+              "velocity": 0.3575379243445668
+            },
+            {
+              "id": "n-1",
+              "step": 8,
+              "pitch": 63,
+              "length": 3.345346645261161,
+              "velocity": 0.36424061876089747
+            },
+            {
+              "id": "n-3",
+              "step": 24,
+              "pitch": 63,
+              "length": 3.2087287703808394,
+              "velocity": 0.3372370380075347
+            },
+            {
+              "id": "n-4",
+              "step": 32,
+              "pitch": 77,
+              "length": 3.1796897653024643,
+              "velocity": 0.56852638658574
+            },
+            {
+              "id": "n-5",
+              "step": 40,
+              "pitch": 74,
+              "length": 3.1120593438111244,
+              "velocity": 0.46221670236910134
+            }
+          ]
+        },
+        "song-1-0": {
+          "bars": 8,
+          "notes": [
+            {
+              "id": "n-0",
+              "step": 0,
+              "pitch": 65,
+              "length": 3.4429688332928343,
+              "velocity": 0.47211303393709614
+            },
+            {
+              "id": "n-1",
+              "step": 4,
+              "pitch": 69,
+              "length": 3.333130382760428,
+              "velocity": 0.5633731057952325
+            },
+            {
+              "id": "n-2",
+              "step": 6,
+              "pitch": 72,
+              "length": 3.2199967700010164,
+              "velocity": 0.6041105662190503
+            },
+            {
+              "id": "n-3",
+              "step": 8,
+              "pitch": 69,
+              "length": 3.481996240601875,
+              "velocity": 0.48287824062715096
+            },
+            {
+              "id": "n-7",
+              "step": 24,
+              "pitch": 70,
+              "length": 3.4238289653416722,
+              "velocity": 0.44899164754139526
+            },
+            {
+              "id": "n-8",
+              "step": 28,
+              "pitch": 77,
+              "length": 3.33460117157083,
+              "velocity": 0.6420882334111028
+            },
+            {
+              "id": "n-9",
+              "step": 32,
+              "pitch": 69,
+              "length": 3.3452567752357574,
+              "velocity": 0.6203560311098589
+            },
+            {
+              "id": "n-10",
+              "step": 36,
+              "pitch": 72,
+              "length": 3.2309520599804817,
+              "velocity": 0.5159119507552123
+            },
+            {
+              "id": "n-13",
+              "step": 56,
+              "pitch": 62,
+              "length": 3.3304520642198625,
+              "velocity": 0.6619785367745823
+            },
+            {
+              "id": "n-14",
+              "step": 60,
+              "pitch": 60,
+              "length": 3.222321619619615,
+              "velocity": 0.5987143942217158
+            },
+            {
+              "id": "develop-0",
+              "step": 64,
+              "pitch": 69,
+              "length": 3.4302478671772403,
+              "velocity": 0.6597610581862416
+            },
+            {
+              "id": "develop-1",
+              "step": 68,
+              "pitch": 69,
+              "length": 3.4492041748575866,
+              "velocity": 0.6205334120270771
+            },
+            {
+              "id": "develop-2",
+              "step": 70,
+              "pitch": 74,
+              "length": 3.2859756964771076,
+              "velocity": 0.6352537501552789
+            },
+            {
+              "id": "develop-3",
+              "step": 72,
+              "pitch": 69,
+              "length": 3.3619092809828,
+              "velocity": 0.6214288547324548
+            },
+            {
+              "id": "develop-4",
+              "step": 88,
+              "pitch": 74,
+              "length": 3.1893278233567255,
+              "velocity": 0.3915899741703044
+            },
+            {
+              "id": "develop-5",
+              "step": 92,
+              "pitch": 77,
+              "length": 3.090465170596726,
+              "velocity": 0.7141326248216823
+            },
+            {
+              "id": "develop-6",
+              "step": 96,
+              "pitch": 69,
+              "length": 3.4412377039110287,
+              "velocity": 0.6375755618174609
+            },
+            {
+              "id": "develop-7",
+              "step": 100,
+              "pitch": 70,
+              "length": 3.199692359622568,
+              "velocity": 0.5473464045167181
+            },
+            {
+              "id": "develop-8",
+              "step": 120,
+              "pitch": 63,
+              "length": 3.4253982688114046,
+              "velocity": 0.5720271607487999
+            },
+            {
+              "id": "develop-9",
+              "step": 124,
+              "pitch": 60,
+              "length": 3.1074787347577515,
+              "velocity": 0.5105577779452828
+            }
+          ]
+        },
+        "song-2-0": {
+          "bars": 8,
+          "notes": [
+            {
+              "id": "n-0",
+              "step": 0,
+              "pitch": 67,
+              "length": 3.1874458439834417,
+              "velocity": 0.6286244069851478
+            },
+            {
+              "id": "n-1",
+              "step": 4,
+              "pitch": 65,
+              "length": 3.2336115998309105,
+              "velocity": 0.790818591806046
+            },
+            {
+              "id": "n-2",
+              "step": 6,
+              "pitch": 63,
+              "length": 3.4496363119920717,
+              "velocity": 0.8065195956808593
+            },
+            {
+              "id": "n-3",
+              "step": 8,
+              "pitch": 60,
+              "length": 3.1244600123586133,
+              "velocity": 0.686699493547678
+            },
+            {
+              "id": "n-4",
+              "step": 12,
+              "pitch": 63,
+              "length": 3.306120835873298,
+              "velocity": 0.5365612774885801
+            },
+            {
+              "id": "n-7",
+              "step": 24,
+              "pitch": 69,
+              "length": 3.32838868541643,
+              "velocity": 0.6053948780974235
+            },
+            {
+              "id": "n-8",
+              "step": 28,
+              "pitch": 65,
+              "length": 3.3621898565161974,
+              "velocity": 0.7613164007113418
+            },
+            {
+              "id": "n-9",
+              "step": 32,
+              "pitch": 77,
+              "length": 3.4898974256450312,
+              "velocity": 0.9192401801448417
+            },
+            {
+              "id": "n-10",
+              "step": 36,
+              "pitch": 74,
+              "length": 3.396476267236285,
+              "velocity": 0.5990458331973233
+            },
+            {
+              "id": "n-11",
+              "step": 38,
+              "pitch": 72,
+              "length": 3.337409869567491,
+              "velocity": 0.672689657742619
+            },
+            {
+              "id": "n-12",
+              "step": 40,
+              "pitch": 70,
+              "length": 3.326052914541215,
+              "velocity": 0.7612717693358678
+            },
+            {
+              "id": "n-13",
+              "step": 44,
+              "pitch": 74,
+              "length": 3.4327095501217992,
+              "velocity": 1
+            },
+            {
+              "id": "n-17",
+              "step": 56,
+              "pitch": 72,
+              "length": 3.481172325462103,
+              "velocity": 0.8061516985380667
+            },
+            {
+              "id": "n-18",
+              "step": 60,
+              "pitch": 58,
+              "length": 3.3672810295736415,
+              "velocity": 0.7781716772863215
+            },
+            {
+              "id": "develop-0",
+              "step": 64,
+              "pitch": 67,
+              "length": 3.123872544253245,
+              "velocity": 0.7145361565388799
+            },
+            {
+              "id": "develop-1",
+              "step": 68,
+              "pitch": 63,
+              "length": 3.300952459089458,
+              "velocity": 0.8970543053684503
+            },
+            {
+              "id": "develop-2",
+              "step": 70,
+              "pitch": 62,
+              "length": 3.314294594973326,
+              "velocity": 0.8319205198977606
+            },
+            {
+              "id": "develop-3",
+              "step": 72,
+              "pitch": 60,
+              "length": 3.283986911219545,
+              "velocity": 0.7341337601125785
+            },
+            {
+              "id": "develop-4",
+              "step": 76,
+              "pitch": 65,
+              "length": 3.211460697464645,
+              "velocity": 0.6623044626081086
+            },
+            {
+              "id": "develop-5",
+              "step": 88,
+              "pitch": 69,
+              "length": 3.2089034446747973,
+              "velocity": 0.6638204518747689
+            },
+            {
+              "id": "develop-6",
+              "step": 92,
+              "pitch": 70,
+              "length": 3.3729892286937684,
+              "velocity": 0.9017077174500039
+            },
+            {
+              "id": "develop-7",
+              "step": 96,
+              "pitch": 77,
+              "length": 3.4868284569960086,
+              "velocity": 0.8434457461047877
+            },
+            {
+              "id": "develop-8",
+              "step": 100,
+              "pitch": 75,
+              "length": 3.3674185672728343,
+              "velocity": 0.5978070094552513
+            },
+            {
+              "id": "develop-9",
+              "step": 102,
+              "pitch": 72,
+              "length": 3.081983843790367,
+              "velocity": 0.7095823043435229
+            },
+            {
+              "id": "develop-10",
+              "step": 104,
+              "pitch": 70,
+              "length": 3.4292059376183897,
+              "velocity": 0.7740698485911074
+            },
+            {
+              "id": "develop-11",
+              "step": 108,
+              "pitch": 74,
+              "length": 3.38982617393136,
+              "velocity": 0.9333009091442946
+            },
+            {
+              "id": "develop-12",
+              "step": 120,
+              "pitch": 74,
+              "length": 3.3258268903335555,
+              "velocity": 0.606999779744064
+            },
+            {
+              "id": "develop-13",
+              "step": 124,
+              "pitch": 58,
+              "length": 3.3931092429999263,
+              "velocity": 0.6075036706152699
+            }
+          ]
+        },
+        "song-3-0": {
+          "bars": 8,
+          "notes": [
+            {
+              "id": "n-0",
+              "step": 0,
+              "pitch": 65,
+              "length": 3.3894449704233556,
+              "velocity": 0.4843075420873547
+            },
+            {
+              "id": "n-1",
+              "step": 4,
+              "pitch": 67,
+              "length": 3.4009177286922934,
+              "velocity": 0.5693527829703328
+            },
+            {
+              "id": "n-2",
+              "step": 6,
+              "pitch": 72,
+              "length": 3.0938536254595963,
+              "velocity": 0.5919627319562168
+            },
+            {
+              "id": "n-3",
+              "step": 8,
+              "pitch": 69,
+              "length": 3.2107228469941766,
+              "velocity": 0.5490286150046311
+            },
+            {
+              "id": "n-7",
+              "step": 24,
+              "pitch": 70,
+              "length": 3.442466448349878,
+              "velocity": 0.4613648585680713
+            },
+            {
+              "id": "n-8",
+              "step": 28,
+              "pitch": 74,
+              "length": 3.1209158487664532,
+              "velocity": 0.5593335540595387
+            },
+            {
+              "id": "n-9",
+              "step": 32,
+              "pitch": 69,
+              "length": 3.2963751710439104,
+              "velocity": 0.5986761010809379
+            },
+            {
+              "id": "n-10",
+              "step": 36,
+              "pitch": 70,
+              "length": 3.375396601264365,
+              "velocity": 0.5444224184844026
+            },
+            {
+              "id": "n-13",
+              "step": 56,
+              "pitch": 60,
+              "length": 3.1556107272161174,
+              "velocity": 0.6944693280366053
+            },
+            {
+              "id": "n-14",
+              "step": 60,
+              "pitch": 58,
+              "length": 3.1090990407951176,
+              "velocity": 0.6198144248790163
+            },
+            {
+              "id": "develop-0",
+              "step": 64,
+              "pitch": 65,
+              "length": 3.1949171463167296,
+              "velocity": 0.6674576195352899
+            },
+            {
+              "id": "develop-1",
+              "step": 68,
+              "pitch": 67,
+              "length": 3.3974687674548476,
+              "velocity": 0.6718139178407191
+            },
+            {
+              "id": "develop-2",
+              "step": 70,
+              "pitch": 72,
+              "length": 3.1079867361066866,
+              "velocity": 0.6344753204741188
+            },
+            {
+              "id": "develop-3",
+              "step": 72,
+              "pitch": 65,
+              "length": 3.282787736179307,
+              "velocity": 0.5804898354319044
+            },
+            {
+              "id": "develop-4",
+              "step": 88,
+              "pitch": 69,
+              "length": 3.445912158400752,
+              "velocity": 0.48040260701833676
+            },
+            {
+              "id": "develop-5",
+              "step": 92,
+              "pitch": 74,
+              "length": 3.3448742141248657,
+              "velocity": 0.6001936804710236
+            },
+            {
+              "id": "develop-6",
+              "step": 96,
+              "pitch": 67,
+              "length": 3.400714641157538,
+              "velocity": 0.7495269481392871
+            },
+            {
+              "id": "develop-7",
+              "step": 100,
+              "pitch": 70,
+              "length": 3.4506910583470014,
+              "velocity": 0.4717398992103984
+            },
+            {
+              "id": "develop-8",
+              "step": 120,
+              "pitch": 60,
+              "length": 3.2977247220929713,
+              "velocity": 0.6066023726040055
+            },
+            {
+              "id": "develop-9",
+              "step": 124,
+              "pitch": 57,
+              "length": 3.467045469195582,
+              "velocity": 0.483781064984507
+            }
+          ]
+        },
+        "song-4-0": {
+          "bars": 8,
+          "notes": [
+            {
+              "id": "n-0",
+              "step": 0,
+              "pitch": 67,
+              "length": 1.4430792399793866,
+              "velocity": 0.7271852267655792
+            },
+            {
+              "id": "n-1",
+              "step": 2,
+              "pitch": 63,
+              "length": 1.505164580643177,
+              "velocity": 0.7300300310291169
+            },
+            {
+              "id": "n-2",
+              "step": 4,
+              "pitch": 62,
+              "length": 1.4174397818744184,
+              "velocity": 0.8757681741760186
+            },
+            {
+              "id": "n-3",
+              "step": 6,
+              "pitch": 60,
+              "length": 1.5721463468372823,
+              "velocity": 0.8510349162482499
+            },
+            {
+              "id": "n-4",
+              "step": 8,
+              "pitch": 63,
+              "length": 1.4781120936125518,
+              "velocity": 0.7099167841658487
+            },
+            {
+              "id": "n-5",
+              "step": 10,
+              "pitch": 65,
+              "length": 1.5814449551552536,
+              "velocity": 0.7056648001313328
+            },
+            {
+              "id": "n-6",
+              "step": 12,
+              "pitch": 63,
+              "length": 3.344652690063231,
+              "velocity": 0.6700445532454806
+            },
+            {
+              "id": "n-7",
+              "step": 14,
+              "pitch": 60,
+              "length": 1.7495847169775516,
+              "velocity": 0.7179737522542359
+            },
+            {
+              "id": "n-12",
+              "step": 24,
+              "pitch": 65,
+              "length": 1.4132030130624773,
+              "velocity": 0.6447369432311101
+            },
+            {
+              "id": "n-13",
+              "step": 26,
+              "pitch": 63,
+              "length": 1.5171075037270785,
+              "velocity": 0.7457022987630518
+            },
+            {
+              "id": "n-14",
+              "step": 28,
+              "pitch": 69,
+              "length": 3.339251131317578,
+              "velocity": 1
+            },
+            {
+              "id": "n-15",
+              "step": 30,
+              "pitch": 67,
+              "length": 1.6058127070739867,
+              "velocity": 1
+            },
+            {
+              "id": "n-16",
+              "step": 32,
+              "pitch": 77,
+              "length": 1.5910235669612884,
+              "velocity": 0.8616454957482561
+            },
+            {
+              "id": "n-17",
+              "step": 34,
+              "pitch": 74,
+              "length": 1.4250246369987727,
+              "velocity": 0.8535269061894282
+            },
+            {
+              "id": "n-18",
+              "step": 36,
+              "pitch": 74,
+              "length": 1.5380273786336183,
+              "velocity": 0.7713743367002587
+            },
+            {
+              "id": "n-19",
+              "step": 38,
+              "pitch": 70,
+              "length": 1.4711127152293921,
+              "velocity": 0.7510591767291411
+            },
+            {
+              "id": "n-20",
+              "step": 40,
+              "pitch": 74,
+              "length": 1.469364502757788,
+              "velocity": 0.8700448594921043
+            },
+            {
+              "id": "n-21",
+              "step": 44,
+              "pitch": 74,
+              "length": 3.3140108026750386,
+              "velocity": 1
+            },
+            {
+              "id": "n-22",
+              "step": 46,
+              "pitch": 70,
+              "length": 1.7533185535948723,
+              "velocity": 0.9553555026700198
+            },
+            {
+              "id": "n-27",
+              "step": 56,
+              "pitch": 70,
+              "length": 1.4084566881060603,
+              "velocity": 0.9882239538624724
+            },
+            {
+              "id": "n-28",
+              "step": 58,
+              "pitch": 65,
+              "length": 1.4733624813407662,
+              "velocity": 1
+            },
+            {
+              "id": "n-29",
+              "step": 60,
+              "pitch": 58,
+              "length": 3.095580911054276,
+              "velocity": 0.9671690742275677
+            },
+            {
+              "id": "n-30",
+              "step": 62,
+              "pitch": 58,
+              "length": 1.7238041993491353,
+              "velocity": 0.7649984251862794
+            },
+            {
+              "id": "develop-0",
+              "step": 64,
+              "pitch": 67,
+              "length": 1.4105607067346575,
+              "velocity": 0.9190478994574248
+            },
+            {
+              "id": "develop-1",
+              "step": 66,
+              "pitch": 63,
+              "length": 1.4416730900257826,
+              "velocity": 0.8832956631066098
+            },
+            {
+              "id": "develop-2",
+              "step": 68,
+              "pitch": 62,
+              "length": 1.5598826267272234,
+              "velocity": 1
+            },
+            {
+              "id": "develop-3",
+              "step": 70,
+              "pitch": 62,
+              "length": 1.4726606182307007,
+              "velocity": 0.9729411882442265
+            },
+            {
+              "id": "develop-4",
+              "step": 72,
+              "pitch": 65,
+              "length": 1.5688994417637587,
+              "velocity": 0.8140529515001388
+            },
+            {
+              "id": "develop-5",
+              "step": 74,
+              "pitch": 65,
+              "length": 1.5290921610444785,
+              "velocity": 0.7502674246335626
+            },
+            {
+              "id": "develop-6",
+              "step": 76,
+              "pitch": 65,
+              "length": 3.2113961191615092,
+              "velocity": 0.625395758442784
+            },
+            {
+              "id": "develop-7",
+              "step": 78,
+              "pitch": 60,
+              "length": 1.6334803811833263,
+              "velocity": 0.8177858746684439
+            },
+            {
+              "id": "develop-8",
+              "step": 88,
+              "pitch": 70,
+              "length": 1.5486628968417646,
+              "velocity": 0.6480789841380565
+            },
+            {
+              "id": "develop-9",
+              "step": 90,
+              "pitch": 63,
+              "length": 1.4160493495315314,
+              "velocity": 0.7834432094336504
+            },
+            {
+              "id": "develop-10",
+              "step": 92,
+              "pitch": 74,
+              "length": 3.3527994518075137,
+              "velocity": 0.9762176428653458
+            },
+            {
+              "id": "develop-11",
+              "step": 94,
+              "pitch": 67,
+              "length": 1.761914113489911,
+              "velocity": 1
+            },
+            {
+              "id": "develop-12",
+              "step": 96,
+              "pitch": 77,
+              "length": 1.557120752170682,
+              "velocity": 0.853556643613596
+            },
+            {
+              "id": "develop-13",
+              "step": 98,
+              "pitch": 75,
+              "length": 1.5653046025931836,
+              "velocity": 0.663898316716877
+            },
+            {
+              "id": "develop-14",
+              "step": 100,
+              "pitch": 74,
+              "length": 1.4880721623003483,
+              "velocity": 0.7800575104568223
+            },
+            {
+              "id": "develop-15",
+              "step": 102,
+              "pitch": 72,
+              "length": 1.4560053276270628,
+              "velocity": 0.8426980078403823
+            },
+            {
+              "id": "develop-16",
+              "step": 104,
+              "pitch": 75,
+              "length": 1.5959180946052074,
+              "velocity": 0.8895219367348604
+            },
+            {
+              "id": "develop-17",
+              "step": 108,
+              "pitch": 75,
+              "length": 3.1946509003732353,
+              "velocity": 1
+            },
+            {
+              "id": "develop-18",
+              "step": 110,
+              "pitch": 70,
+              "length": 1.7048937152680008,
+              "velocity": 0.9546432843613438
+            },
+            {
+              "id": "develop-19",
+              "step": 120,
+              "pitch": 70,
+              "length": 1.4957631114423275,
+              "velocity": 0.9698648723335231
+            },
+            {
+              "id": "develop-20",
+              "step": 122,
+              "pitch": 65,
+              "length": 1.5291673623621465,
+              "velocity": 0.8654991962409547
+            },
+            {
+              "id": "develop-21",
+              "step": 124,
+              "pitch": 62,
+              "length": 3.221514181513339,
+              "velocity": 0.7346972816565162
+            },
+            {
+              "id": "develop-22",
+              "step": 126,
+              "pitch": 58,
+              "length": 1.587480609415099,
+              "velocity": 0.6623455307944089
+            }
+          ]
+        },
+        "song-5-0": {
+          "bars": 8,
+          "notes": [
+            {
+              "id": "n-0",
+              "step": 0,
+              "pitch": 67,
+              "length": 3.3563023219956083,
+              "velocity": 0.587533288593728
+            },
+            {
+              "id": "n-1",
+              "step": 8,
+              "pitch": 63,
+              "length": 3.38462347432971,
+              "velocity": 0.5866974618186157
+            },
+            {
+              "id": "n-3",
+              "step": 24,
+              "pitch": 63,
+              "length": 3.340444786567241,
+              "velocity": 0.500253868190553
+            },
+            {
+              "id": "n-4",
+              "step": 32,
+              "pitch": 77,
+              "length": 3.2856853084173054,
+              "velocity": 0.829264264319068
+            },
+            {
+              "id": "n-5",
+              "step": 40,
+              "pitch": 74,
+              "length": 3.214639905560762,
+              "velocity": 0.6387811169019748
+            },
+            {
+              "id": "develop-0",
+              "step": 64,
+              "pitch": 69,
+              "length": 3.398808057224378,
+              "velocity": 0.6481838584803943
+            },
+            {
+              "id": "develop-1",
+              "step": 72,
+              "pitch": 63,
+              "length": 3.378028559959494,
+              "velocity": 0.6552809473379264
+            },
+            {
+              "id": "develop-2",
+              "step": 88,
+              "pitch": 65,
+              "length": 3.3693441507034003,
+              "velocity": 0.5744950387409472
+            },
+            {
+              "id": "develop-3",
+              "step": 96,
+              "pitch": 77,
+              "length": 3.4153448494989425,
+              "velocity": 0.7715406424415763
+            },
+            {
+              "id": "develop-4",
+              "step": 104,
+              "pitch": 75,
+              "length": 3.2876782384561376,
+              "velocity": 0.5890127355525866
+            }
+          ]
+        }
+      },
+      "enabled": {
+        "song-0-0": true,
+        "song-1-0": true,
+        "song-2-0": true,
+        "song-3-0": true,
+        "song-4-0": true,
+        "song-5-0": true
+      }
+    },
+    {
+      "id": "voice-1",
+      "name": "Harmony",
+      "role": "harmony",
+      "instrument": "organ",
+      "volume": 0.46,
+      "pan": -0.15,
+      "space": 0.28,
+      "brightness": 0.55,
+      "muted": false,
+      "solo": false,
+      "locked": false,
+      "patterns": {
+        "song-0-0": {
+          "bars": 4,
+          "notes": [
+            {
+              "id": "recipe-0",
+              "step": 0,
+              "pitch": 48,
+              "length": 3.5,
+              "velocity": 0.21623204047076602
+            },
+            {
+              "id": "recipe-1",
+              "step": 0,
+              "pitch": 51,
+              "length": 3.5,
+              "velocity": 0.20542139151957337
+            },
+            {
+              "id": "recipe-2",
+              "step": 0,
+              "pitch": 55,
+              "length": 3.5,
+              "velocity": 0.22847141904914126
+            },
+            {
+              "id": "recipe-3",
+              "step": 6,
+              "pitch": 48,
+              "length": 3.5,
+              "velocity": 0.23914302488967878
+            },
+            {
+              "id": "recipe-4",
+              "step": 6,
+              "pitch": 51,
+              "length": 3.5,
+              "velocity": 0.24614726601560122
+            },
+            {
+              "id": "recipe-5",
+              "step": 6,
+              "pitch": 55,
+              "length": 3.5,
+              "velocity": 0.2377629616147533
+            },
+            {
+              "id": "recipe-6",
+              "step": 10,
+              "pitch": 48,
+              "length": 3.5,
+              "velocity": 0.18981396002248965
+            },
+            {
+              "id": "recipe-7",
+              "step": 10,
+              "pitch": 51,
+              "length": 3.5,
+              "velocity": 0.18386904720615263
+            },
+            {
+              "id": "recipe-8",
+              "step": 10,
+              "pitch": 55,
+              "length": 3.5,
+              "velocity": 0.20526280776521205
+            },
+            {
+              "id": "recipe-9",
+              "step": 16,
+              "pitch": 53,
+              "length": 3.5,
+              "velocity": 0.3186478389329021
+            },
+            {
+              "id": "recipe-10",
+              "step": 16,
+              "pitch": 57,
+              "length": 3.5,
+              "velocity": 0.3066108760163775
+            },
+            {
+              "id": "recipe-11",
+              "step": 16,
+              "pitch": 60,
+              "length": 3.5,
+              "velocity": 0.3157373121788252
+            },
+            {
+              "id": "recipe-12",
+              "step": 22,
+              "pitch": 53,
+              "length": 3.5,
+              "velocity": 0.20159872801243098
+            },
+            {
+              "id": "recipe-13",
+              "step": 22,
+              "pitch": 57,
+              "length": 3.5,
+              "velocity": 0.2014140670316764
+            },
+            {
+              "id": "recipe-14",
+              "step": 22,
+              "pitch": 60,
+              "length": 3.5,
+              "velocity": 0.2222462471580939
+            },
+            {
+              "id": "recipe-15",
+              "step": 26,
+              "pitch": 53,
+              "length": 3.5,
+              "velocity": 0.21180343756398717
+            },
+            {
+              "id": "recipe-16",
+              "step": 26,
+              "pitch": 57,
+              "length": 3.5,
+              "velocity": 0.23251833247739823
+            },
+            {
+              "id": "recipe-17",
+              "step": 26,
+              "pitch": 60,
+              "length": 3.5,
+              "velocity": 0.2053020257429716
+            },
+            {
+              "id": "recipe-18",
+              "step": 32,
+              "pitch": 58,
+              "length": 3.5,
+              "velocity": 0.27347579344498935
+            },
+            {
+              "id": "recipe-19",
+              "step": 32,
+              "pitch": 62,
+              "length": 3.5,
+              "velocity": 0.3020760353885521
+            },
+            {
+              "id": "recipe-20",
+              "step": 32,
+              "pitch": 65,
+              "length": 3.5,
+              "velocity": 0.2654957272770065
+            },
+            {
+              "id": "recipe-21",
+              "step": 38,
+              "pitch": 58,
+              "length": 3.5,
+              "velocity": 0.21204432819261904
+            },
+            {
+              "id": "recipe-22",
+              "step": 38,
+              "pitch": 62,
+              "length": 3.5,
+              "velocity": 0.22862126421081047
+            },
+            {
+              "id": "recipe-23",
+              "step": 38,
+              "pitch": 65,
+              "length": 3.5,
+              "velocity": 0.2352143715423498
+            },
+            {
+              "id": "recipe-24",
+              "step": 42,
+              "pitch": 58,
+              "length": 3.5,
+              "velocity": 0.2788391473363593
+            },
+            {
+              "id": "recipe-25",
+              "step": 42,
+              "pitch": 62,
+              "length": 3.5,
+              "velocity": 0.3013460166696919
+            },
+            {
+              "id": "recipe-26",
+              "step": 42,
+              "pitch": 65,
+              "length": 3.5,
+              "velocity": 0.2939341901908904
+            },
+            {
+              "id": "recipe-27",
+              "step": 48,
+              "pitch": 55,
+              "length": 3.5,
+              "velocity": 0.1985907934948413
+            },
+            {
+              "id": "recipe-28",
+              "step": 48,
+              "pitch": 58,
+              "length": 3.5,
+              "velocity": 0.20077825571512156
+            },
+            {
+              "id": "recipe-29",
+              "step": 48,
+              "pitch": 62,
+              "length": 3.5,
+              "velocity": 0.19317074229889977
+            },
+            {
+              "id": "recipe-30",
+              "step": 54,
+              "pitch": 55,
+              "length": 3.5,
+              "velocity": 0.2332992454353615
+            },
+            {
+              "id": "recipe-31",
+              "step": 54,
+              "pitch": 58,
+              "length": 3.5,
+              "velocity": 0.2221256077119144
+            },
+            {
+              "id": "recipe-32",
+              "step": 54,
+              "pitch": 62,
+              "length": 3.5,
+              "velocity": 0.2236770878419614
+            },
+            {
+              "id": "recipe-33",
+              "step": 58,
+              "pitch": 55,
+              "length": 3.5,
+              "velocity": 0.21515515505126462
+            },
+            {
+              "id": "recipe-34",
+              "step": 58,
+              "pitch": 58,
+              "length": 3.5,
+              "velocity": 0.22087827014285802
+            },
+            {
+              "id": "recipe-35",
+              "step": 58,
+              "pitch": 62,
+              "length": 3.5,
+              "velocity": 0.2545150917559634
+            }
+          ]
+        },
+        "song-1-0": {
+          "bars": 4,
+          "notes": [
+            {
+              "id": "recipe-0",
+              "step": 0,
+              "pitch": 53,
+              "length": 3.5,
+              "velocity": 0.27309550692148765
+            },
+            {
+              "id": "recipe-1",
+              "step": 0,
+              "pitch": 57,
+              "length": 3.5,
+              "velocity": 0.27825996465901814
+            },
+            {
+              "id": "recipe-2",
+              "step": 0,
+              "pitch": 60,
+              "length": 3.5,
+              "velocity": 0.30151787758694387
+            },
+            {
+              "id": "recipe-3",
+              "step": 6,
+              "pitch": 53,
+              "length": 3.5,
+              "velocity": 0.3372134487098257
+            },
+            {
+              "id": "recipe-4",
+              "step": 6,
+              "pitch": 57,
+              "length": 3.5,
+              "velocity": 0.2979681736493733
+            },
+            {
+              "id": "recipe-5",
+              "step": 6,
+              "pitch": 60,
+              "length": 3.5,
+              "velocity": 0.3069312726717255
+            },
+            {
+              "id": "recipe-6",
+              "step": 10,
+              "pitch": 53,
+              "length": 3.5,
+              "velocity": 0.24079380943918713
+            },
+            {
+              "id": "recipe-7",
+              "step": 10,
+              "pitch": 57,
+              "length": 3.5,
+              "velocity": 0.2520721442012959
+            },
+            {
+              "id": "recipe-8",
+              "step": 10,
+              "pitch": 60,
+              "length": 3.5,
+              "velocity": 0.2691053271408296
+            },
+            {
+              "id": "recipe-9",
+              "step": 16,
+              "pitch": 58,
+              "length": 3.5,
+              "velocity": 0.42478459662427226
+            },
+            {
+              "id": "recipe-10",
+              "step": 16,
+              "pitch": 62,
+              "length": 3.5,
+              "velocity": 0.39972583459053646
+            },
+            {
+              "id": "recipe-11",
+              "step": 16,
+              "pitch": 65,
+              "length": 3.5,
+              "velocity": 0.42649804428757077
+            },
+            {
+              "id": "recipe-12",
+              "step": 22,
+              "pitch": 58,
+              "length": 3.5,
+              "velocity": 0.3074685527348051
+            },
+            {
+              "id": "recipe-13",
+              "step": 22,
+              "pitch": 62,
+              "length": 3.5,
+              "velocity": 0.2818154681692116
+            },
+            {
+              "id": "recipe-14",
+              "step": 22,
+              "pitch": 65,
+              "length": 3.5,
+              "velocity": 0.29261801666575527
+            },
+            {
+              "id": "recipe-15",
+              "step": 26,
+              "pitch": 58,
+              "length": 3.5,
+              "velocity": 0.3248641467991293
+            },
+            {
+              "id": "recipe-16",
+              "step": 26,
+              "pitch": 62,
+              "length": 3.5,
+              "velocity": 0.2997414073255676
+            },
+            {
+              "id": "recipe-17",
+              "step": 26,
+              "pitch": 65,
+              "length": 3.5,
+              "velocity": 0.31126301943751844
+            },
+            {
+              "id": "recipe-18",
+              "step": 32,
+              "pitch": 55,
+              "length": 3.5,
+              "velocity": 0.3844645803583236
+            },
+            {
+              "id": "recipe-19",
+              "step": 32,
+              "pitch": 58,
+              "length": 3.5,
+              "velocity": 0.4035478340754708
+            },
+            {
+              "id": "recipe-20",
+              "step": 32,
+              "pitch": 62,
+              "length": 3.5,
+              "velocity": 0.38773371268530427
+            },
+            {
+              "id": "recipe-21",
+              "step": 38,
+              "pitch": 55,
+              "length": 3.5,
+              "velocity": 0.2976039739992514
+            },
+            {
+              "id": "recipe-22",
+              "step": 38,
+              "pitch": 58,
+              "length": 3.5,
+              "velocity": 0.28789922131440626
+            },
+            {
+              "id": "recipe-23",
+              "step": 38,
+              "pitch": 62,
+              "length": 3.5,
+              "velocity": 0.32556792848326405
+            },
+            {
+              "id": "recipe-24",
+              "step": 42,
+              "pitch": 55,
+              "length": 3.5,
+              "velocity": 0.4047837260885555
+            },
+            {
+              "id": "recipe-25",
+              "step": 42,
+              "pitch": 58,
+              "length": 3.5,
+              "velocity": 0.3920650711187834
+            },
+            {
+              "id": "recipe-26",
+              "step": 42,
+              "pitch": 62,
+              "length": 3.5,
+              "velocity": 0.3765116835363451
+            },
+            {
+              "id": "recipe-27",
+              "step": 48,
+              "pitch": 48,
+              "length": 3.5,
+              "velocity": 0.2584155234723649
+            },
+            {
+              "id": "recipe-28",
+              "step": 48,
+              "pitch": 51,
+              "length": 3.5,
+              "velocity": 0.2674976277734696
+            },
+            {
+              "id": "recipe-29",
+              "step": 48,
+              "pitch": 55,
+              "length": 3.5,
+              "velocity": 0.24606489672518608
+            },
+            {
+              "id": "recipe-30",
+              "step": 54,
+              "pitch": 48,
+              "length": 3.5,
+              "velocity": 0.33864913529324364
+            },
+            {
+              "id": "recipe-31",
+              "step": 54,
+              "pitch": 51,
+              "length": 3.5,
+              "velocity": 0.32837769826355456
+            },
+            {
+              "id": "recipe-32",
+              "step": 54,
+              "pitch": 55,
+              "length": 3.5,
+              "velocity": 0.34693268190401677
+            },
+            {
+              "id": "recipe-33",
+              "step": 58,
+              "pitch": 48,
+              "length": 3.5,
+              "velocity": 0.3432263795917174
+            },
+            {
+              "id": "recipe-34",
+              "step": 58,
+              "pitch": 51,
+              "length": 3.5,
+              "velocity": 0.3177109700556932
+            },
+            {
+              "id": "recipe-35",
+              "step": 58,
+              "pitch": 55,
+              "length": 3.5,
+              "velocity": 0.32190166920154745
+            }
+          ]
+        },
+        "song-2-0": {
+          "bars": 4,
+          "notes": [
+            {
+              "id": "recipe-0",
+              "step": 0,
+              "pitch": 48,
+              "length": 3.5,
+              "velocity": 0.39911687568991816
+            },
+            {
+              "id": "recipe-1",
+              "step": 0,
+              "pitch": 51,
+              "length": 3.5,
+              "velocity": 0.38750911650398945
+            },
+            {
+              "id": "recipe-2",
+              "step": 0,
+              "pitch": 55,
+              "length": 3.5,
+              "velocity": 0.34525145423818965
+            },
+            {
+              "id": "recipe-3",
+              "step": 6,
+              "pitch": 48,
+              "length": 3.5,
+              "velocity": 0.401277711801891
+            },
+            {
+              "id": "recipe-4",
+              "step": 6,
+              "pitch": 51,
+              "length": 3.5,
+              "velocity": 0.4024617486573461
+            },
+            {
+              "id": "recipe-5",
+              "step": 6,
+              "pitch": 55,
+              "length": 3.5,
+              "velocity": 0.4381166685764209
+            },
+            {
+              "id": "recipe-6",
+              "step": 10,
+              "pitch": 48,
+              "length": 3.5,
+              "velocity": 0.32836031559919177
+            },
+            {
+              "id": "recipe-7",
+              "step": 10,
+              "pitch": 51,
+              "length": 3.5,
+              "velocity": 0.36044209067392274
+            },
+            {
+              "id": "recipe-8",
+              "step": 10,
+              "pitch": 55,
+              "length": 3.5,
+              "velocity": 0.30926619764491675
+            },
+            {
+              "id": "recipe-9",
+              "step": 16,
+              "pitch": 53,
+              "length": 3.5,
+              "velocity": 0.539474836314077
+            },
+            {
+              "id": "recipe-10",
+              "step": 16,
+              "pitch": 57,
+              "length": 3.5,
+              "velocity": 0.519358031098988
+            },
+            {
+              "id": "recipe-11",
+              "step": 16,
+              "pitch": 60,
+              "length": 3.5,
+              "velocity": 0.5610539387710693
+            },
+            {
+              "id": "recipe-12",
+              "step": 22,
+              "pitch": 53,
+              "length": 3.5,
+              "velocity": 0.35371150953848157
+            },
+            {
+              "id": "recipe-13",
+              "step": 22,
+              "pitch": 57,
+              "length": 3.5,
+              "velocity": 0.38483353248524493
+            },
+            {
+              "id": "recipe-14",
+              "step": 22,
+              "pitch": 60,
+              "length": 3.5,
+              "velocity": 0.4072769998307535
+            },
+            {
+              "id": "recipe-15",
+              "step": 26,
+              "pitch": 53,
+              "length": 3.5,
+              "velocity": 0.3805458555126683
+            },
+            {
+              "id": "recipe-16",
+              "step": 26,
+              "pitch": 57,
+              "length": 3.5,
+              "velocity": 0.3900083433940756
+            },
+            {
+              "id": "recipe-17",
+              "step": 26,
+              "pitch": 60,
+              "length": 3.5,
+              "velocity": 0.3666596267093235
+            },
+            {
+              "id": "recipe-18",
+              "step": 32,
+              "pitch": 58,
+              "length": 3.5,
+              "velocity": 0.46350410088417526
+            },
+            {
+              "id": "recipe-19",
+              "step": 32,
+              "pitch": 62,
+              "length": 3.5,
+              "velocity": 0.502372200379854
+            },
+            {
+              "id": "recipe-20",
+              "step": 32,
+              "pitch": 65,
+              "length": 3.5,
+              "velocity": 0.5249659632945535
+            },
+            {
+              "id": "recipe-21",
+              "step": 38,
+              "pitch": 58,
+              "length": 3.5,
+              "velocity": 0.4125607477339982
+            },
+            {
+              "id": "recipe-22",
+              "step": 38,
+              "pitch": 62,
+              "length": 3.5,
+              "velocity": 0.36630006956440253
+            },
+            {
+              "id": "recipe-23",
+              "step": 38,
+              "pitch": 65,
+              "length": 3.5,
+              "velocity": 0.3788074884027327
+            },
+            {
+              "id": "recipe-24",
+              "step": 42,
+              "pitch": 58,
+              "length": 3.5,
+              "velocity": 0.4726413222780818
+            },
+            {
+              "id": "recipe-25",
+              "step": 42,
+              "pitch": 62,
+              "length": 3.5,
+              "velocity": 0.485345931795393
+            },
+            {
+              "id": "recipe-26",
+              "step": 42,
+              "pitch": 65,
+              "length": 3.5,
+              "velocity": 0.5279731750132312
+            },
+            {
+              "id": "recipe-27",
+              "step": 48,
+              "pitch": 55,
+              "length": 3.5,
+              "velocity": 0.33209183772796935
+            },
+            {
+              "id": "recipe-28",
+              "step": 48,
+              "pitch": 58,
+              "length": 3.5,
+              "velocity": 0.34065989338498115
+            },
+            {
+              "id": "recipe-29",
+              "step": 48,
+              "pitch": 62,
+              "length": 3.5,
+              "velocity": 0.3359960055490583
+            },
+            {
+              "id": "recipe-30",
+              "step": 54,
+              "pitch": 55,
+              "length": 3.5,
+              "velocity": 0.41183533044301485
+            },
+            {
+              "id": "recipe-31",
+              "step": 54,
+              "pitch": 58,
+              "length": 3.5,
+              "velocity": 0.41047572689002815
+            },
+            {
+              "id": "recipe-32",
+              "step": 54,
+              "pitch": 62,
+              "length": 3.5,
+              "velocity": 0.4177820326824443
+            },
+            {
+              "id": "recipe-33",
+              "step": 58,
+              "pitch": 55,
+              "length": 3.5,
+              "velocity": 0.3853357820159514
+            },
+            {
+              "id": "recipe-34",
+              "step": 58,
+              "pitch": 58,
+              "length": 3.5,
+              "velocity": 0.39330059723924965
+            },
+            {
+              "id": "recipe-35",
+              "step": 58,
+              "pitch": 62,
+              "length": 3.5,
+              "velocity": 0.42879724497116006
+            }
+          ]
+        },
+        "song-3-0": {
+          "bars": 4,
+          "notes": [
+            {
+              "id": "recipe-0",
+              "step": 0,
+              "pitch": 53,
+              "length": 3.5,
+              "velocity": 0.3008983176612387
+            },
+            {
+              "id": "recipe-1",
+              "step": 0,
+              "pitch": 57,
+              "length": 3.5,
+              "velocity": 0.29483379023420625
+            },
+            {
+              "id": "recipe-2",
+              "step": 0,
+              "pitch": 60,
+              "length": 3.5,
+              "velocity": 0.30026295300648376
+            },
+            {
+              "id": "recipe-3",
+              "step": 6,
+              "pitch": 53,
+              "length": 3.5,
+              "velocity": 0.32080241837687334
+            },
+            {
+              "id": "recipe-4",
+              "step": 6,
+              "pitch": 57,
+              "length": 3.5,
+              "velocity": 0.30981647732962797
+            },
+            {
+              "id": "recipe-5",
+              "step": 6,
+              "pitch": 60,
+              "length": 3.5,
+              "velocity": 0.307266884359022
+            },
+            {
+              "id": "recipe-6",
+              "step": 10,
+              "pitch": 53,
+              "length": 3.5,
+              "velocity": 0.2765962556547064
+            },
+            {
+              "id": "recipe-7",
+              "step": 10,
+              "pitch": 57,
+              "length": 3.5,
+              "velocity": 0.25481017510670767
+            },
+            {
+              "id": "recipe-8",
+              "step": 10,
+              "pitch": 60,
+              "length": 3.5,
+              "velocity": 0.2751806284822262
+            },
+            {
+              "id": "recipe-9",
+              "step": 16,
+              "pitch": 58,
+              "length": 3.5,
+              "velocity": 0.3821487255552775
+            },
+            {
+              "id": "recipe-10",
+              "step": 16,
+              "pitch": 62,
+              "length": 3.5,
+              "velocity": 0.4393366197287725
+            },
+            {
+              "id": "recipe-11",
+              "step": 16,
+              "pitch": 65,
+              "length": 3.5,
+              "velocity": 0.4557179356588661
+            },
+            {
+              "id": "recipe-12",
+              "step": 22,
+              "pitch": 58,
+              "length": 3.5,
+              "velocity": 0.28586569058424366
+            },
+            {
+              "id": "recipe-13",
+              "step": 22,
+              "pitch": 62,
+              "length": 3.5,
+              "velocity": 0.31914445429018207
+            },
+            {
+              "id": "recipe-14",
+              "step": 22,
+              "pitch": 65,
+              "length": 3.5,
+              "velocity": 0.27693519453364857
+            },
+            {
+              "id": "recipe-15",
+              "step": 26,
+              "pitch": 58,
+              "length": 3.5,
+              "velocity": 0.2956057626881069
+            },
+            {
+              "id": "recipe-16",
+              "step": 26,
+              "pitch": 62,
+              "length": 3.5,
+              "velocity": 0.2824729781786643
+            },
+            {
+              "id": "recipe-17",
+              "step": 26,
+              "pitch": 65,
+              "length": 3.5,
+              "velocity": 0.32289669171380814
+            },
+            {
+              "id": "recipe-18",
+              "step": 32,
+              "pitch": 55,
+              "length": 3.5,
+              "velocity": 0.3722604860350625
+            },
+            {
+              "id": "recipe-19",
+              "step": 32,
+              "pitch": 58,
+              "length": 3.5,
+              "velocity": 0.3458026115355896
+            },
+            {
+              "id": "recipe-20",
+              "step": 32,
+              "pitch": 62,
+              "length": 3.5,
+              "velocity": 0.36728465303033825
+            },
+            {
+              "id": "recipe-21",
+              "step": 38,
+              "pitch": 55,
+              "length": 3.5,
+              "velocity": 0.3177414083800363
+            },
+            {
+              "id": "recipe-22",
+              "step": 38,
+              "pitch": 58,
+              "length": 3.5,
+              "velocity": 0.30368309541177213
+            },
+            {
+              "id": "recipe-23",
+              "step": 38,
+              "pitch": 62,
+              "length": 3.5,
+              "velocity": 0.2965739737670838
+            },
+            {
+              "id": "recipe-24",
+              "step": 42,
+              "pitch": 55,
+              "length": 3.5,
+              "velocity": 0.40233169601415864
+            },
+            {
+              "id": "recipe-25",
+              "step": 42,
+              "pitch": 58,
+              "length": 3.5,
+              "velocity": 0.3931471105888169
+            },
+            {
+              "id": "recipe-26",
+              "step": 42,
+              "pitch": 62,
+              "length": 3.5,
+              "velocity": 0.40113050831504266
+            },
+            {
+              "id": "recipe-27",
+              "step": 48,
+              "pitch": 48,
+              "length": 3.5,
+              "velocity": 0.2576537520149006
+            },
+            {
+              "id": "recipe-28",
+              "step": 48,
+              "pitch": 51,
+              "length": 3.5,
+              "velocity": 0.2673309340711067
+            },
+            {
+              "id": "recipe-29",
+              "step": 48,
+              "pitch": 55,
+              "length": 3.5,
+              "velocity": 0.2536331874291609
+            },
+            {
+              "id": "recipe-30",
+              "step": 54,
+              "pitch": 48,
+              "length": 3.5,
+              "velocity": 0.3249538713608255
+            },
+            {
+              "id": "recipe-31",
+              "step": 54,
+              "pitch": 51,
+              "length": 3.5,
+              "velocity": 0.34419304119697386
+            },
+            {
+              "id": "recipe-32",
+              "step": 54,
+              "pitch": 55,
+              "length": 3.5,
+              "velocity": 0.3382831062615479
+            },
+            {
+              "id": "recipe-33",
+              "step": 58,
+              "pitch": 48,
+              "length": 3.5,
+              "velocity": 0.30153412003407626
+            },
+            {
+              "id": "recipe-34",
+              "step": 58,
+              "pitch": 51,
+              "length": 3.5,
+              "velocity": 0.30261821209690704
+            },
+            {
+              "id": "recipe-35",
+              "step": 58,
+              "pitch": 55,
+              "length": 3.5,
+              "velocity": 0.3154073373574745
+            }
+          ]
+        },
+        "song-4-0": {
+          "bars": 4,
+          "notes": [
+            {
+              "id": "recipe-0",
+              "step": 0,
+              "pitch": 48,
+              "length": 3.5,
+              "velocity": 0.4216225710127693
+            },
+            {
+              "id": "recipe-1",
+              "step": 0,
+              "pitch": 51,
+              "length": 3.5,
+              "velocity": 0.46126325243662886
+            },
+            {
+              "id": "recipe-2",
+              "step": 0,
+              "pitch": 55,
+              "length": 3.5,
+              "velocity": 0.4372895031267547
+            },
+            {
+              "id": "recipe-3",
+              "step": 6,
+              "pitch": 48,
+              "length": 3.5,
+              "velocity": 0.46067188551662447
+            },
+            {
+              "id": "recipe-4",
+              "step": 6,
+              "pitch": 51,
+              "length": 3.5,
+              "velocity": 0.49607433537751977
+            },
+            {
+              "id": "recipe-5",
+              "step": 6,
+              "pitch": 55,
+              "length": 3.5,
+              "velocity": 0.4496079287976974
+            },
+            {
+              "id": "recipe-6",
+              "step": 10,
+              "pitch": 48,
+              "length": 3.5,
+              "velocity": 0.37803692440631464
+            },
+            {
+              "id": "recipe-7",
+              "step": 10,
+              "pitch": 51,
+              "length": 3.5,
+              "velocity": 0.38316155202765356
+            },
+            {
+              "id": "recipe-8",
+              "step": 10,
+              "pitch": 55,
+              "length": 3.5,
+              "velocity": 0.37495073288836206
+            },
+            {
+              "id": "recipe-9",
+              "step": 16,
+              "pitch": 53,
+              "length": 3.5,
+              "velocity": 0.655324895266772
+            },
+            {
+              "id": "recipe-10",
+              "step": 16,
+              "pitch": 57,
+              "length": 3.5,
+              "velocity": 0.6076145884658982
+            },
+            {
+              "id": "recipe-11",
+              "step": 16,
+              "pitch": 60,
+              "length": 3.5,
+              "velocity": 0.6329861470079103
+            },
+            {
+              "id": "recipe-12",
+              "step": 22,
+              "pitch": 53,
+              "length": 3.5,
+              "velocity": 0.4721252262835132
+            },
+            {
+              "id": "recipe-13",
+              "step": 22,
+              "pitch": 57,
+              "length": 3.5,
+              "velocity": 0.4126559392908991
+            },
+            {
+              "id": "recipe-14",
+              "step": 22,
+              "pitch": 60,
+              "length": 3.5,
+              "velocity": 0.46175458024302035
+            },
+            {
+              "id": "recipe-15",
+              "step": 26,
+              "pitch": 53,
+              "length": 3.5,
+              "velocity": 0.4633973814665304
+            },
+            {
+              "id": "recipe-16",
+              "step": 26,
+              "pitch": 57,
+              "length": 3.5,
+              "velocity": 0.4458176318584238
+            },
+            {
+              "id": "recipe-17",
+              "step": 26,
+              "pitch": 60,
+              "length": 3.5,
+              "velocity": 0.448458314444662
+            },
+            {
+              "id": "recipe-18",
+              "step": 32,
+              "pitch": 58,
+              "length": 3.5,
+              "velocity": 0.5279190356755143
+            },
+            {
+              "id": "recipe-19",
+              "step": 32,
+              "pitch": 62,
+              "length": 3.5,
+              "velocity": 0.5205837022131726
+            },
+            {
+              "id": "recipe-20",
+              "step": 32,
+              "pitch": 65,
+              "length": 3.5,
+              "velocity": 0.5567089179404197
+            },
+            {
+              "id": "recipe-21",
+              "step": 38,
+              "pitch": 58,
+              "length": 3.5,
+              "velocity": 0.48388101085873425
+            },
+            {
+              "id": "recipe-22",
+              "step": 38,
+              "pitch": 62,
+              "length": 3.5,
+              "velocity": 0.4733547164114203
+            },
+            {
+              "id": "recipe-23",
+              "step": 38,
+              "pitch": 65,
+              "length": 3.5,
+              "velocity": 0.4411132700816585
+            },
+            {
+              "id": "recipe-24",
+              "step": 42,
+              "pitch": 58,
+              "length": 3.5,
+              "velocity": 0.5275471186876067
+            },
+            {
+              "id": "recipe-25",
+              "step": 42,
+              "pitch": 62,
+              "length": 3.5,
+              "velocity": 0.6096945430230263
+            },
+            {
+              "id": "recipe-26",
+              "step": 42,
+              "pitch": 65,
+              "length": 3.5,
+              "velocity": 0.6188156120549043
+            },
+            {
+              "id": "recipe-27",
+              "step": 48,
+              "pitch": 55,
+              "length": 3.5,
+              "velocity": 0.3820855483909533
+            },
+            {
+              "id": "recipe-28",
+              "step": 48,
+              "pitch": 58,
+              "length": 3.5,
+              "velocity": 0.42867712088092713
+            },
+            {
+              "id": "recipe-29",
+              "step": 48,
+              "pitch": 62,
+              "length": 3.5,
+              "velocity": 0.4192571137359906
+            },
+            {
+              "id": "recipe-30",
+              "step": 54,
+              "pitch": 55,
+              "length": 3.5,
+              "velocity": 0.4884040182868017
+            },
+            {
+              "id": "recipe-31",
+              "step": 54,
+              "pitch": 58,
+              "length": 3.5,
+              "velocity": 0.5346463064130765
+            },
+            {
+              "id": "recipe-32",
+              "step": 54,
+              "pitch": 62,
+              "length": 3.5,
+              "velocity": 0.4922345189524602
+            },
+            {
+              "id": "recipe-33",
+              "step": 58,
+              "pitch": 55,
+              "length": 3.5,
+              "velocity": 0.4612091196377309
+            },
+            {
+              "id": "recipe-34",
+              "step": 58,
+              "pitch": 58,
+              "length": 3.5,
+              "velocity": 0.45228675458068396
+            },
+            {
+              "id": "recipe-35",
+              "step": 58,
+              "pitch": 62,
+              "length": 3.5,
+              "velocity": 0.466412727991804
+            },
+            {
+              "id": "bank-open-0",
+              "step": 0,
+              "pitch": 60,
+              "length": 3.5,
+              "velocity": 0.2217168843002167
+            },
+            {
+              "id": "bank-open-1",
+              "step": 0,
+              "pitch": 63,
+              "length": 3.5,
+              "velocity": 0.24805017916760977
+            },
+            {
+              "id": "bank-open-2",
+              "step": 0,
+              "pitch": 67,
+              "length": 3.5,
+              "velocity": 0.2245639902748017
+            },
+            {
+              "id": "bank-open-3",
+              "step": 6,
+              "pitch": 60,
+              "length": 3.5,
+              "velocity": 0.26199292578515965
+            },
+            {
+              "id": "bank-open-4",
+              "step": 6,
+              "pitch": 63,
+              "length": 3.5,
+              "velocity": 0.2626167334494426
+            },
+            {
+              "id": "bank-open-5",
+              "step": 6,
+              "pitch": 67,
+              "length": 3.5,
+              "velocity": 0.27181476331216575
+            },
+            {
+              "id": "bank-open-6",
+              "step": 10,
+              "pitch": 60,
+              "length": 3.5,
+              "velocity": 0.19920797802233536
+            },
+            {
+              "id": "bank-open-7",
+              "step": 10,
+              "pitch": 63,
+              "length": 3.5,
+              "velocity": 0.22319005576079434
+            },
+            {
+              "id": "bank-open-8",
+              "step": 10,
+              "pitch": 67,
+              "length": 3.5,
+              "velocity": 0.2163879949339894
+            },
+            {
+              "id": "bank-open-9",
+              "step": 16,
+              "pitch": 65,
+              "length": 3.5,
+              "velocity": 0.3224533882662603
+            },
+            {
+              "id": "bank-open-10",
+              "step": 16,
+              "pitch": 69,
+              "length": 3.5,
+              "velocity": 0.34389780107667084
+            },
+            {
+              "id": "bank-open-11",
+              "step": 22,
+              "pitch": 65,
+              "length": 3.5,
+              "velocity": 0.2557766809140416
+            },
+            {
+              "id": "bank-open-12",
+              "step": 22,
+              "pitch": 69,
+              "length": 3.5,
+              "velocity": 0.25466743882086695
+            },
+            {
+              "id": "bank-open-13",
+              "step": 26,
+              "pitch": 65,
+              "length": 3.5,
+              "velocity": 0.2309940969014555
+            },
+            {
+              "id": "bank-open-14",
+              "step": 26,
+              "pitch": 69,
+              "length": 3.5,
+              "velocity": 0.2441436066459069
+            },
+            {
+              "id": "bank-open-15",
+              "step": 32,
+              "pitch": 70,
+              "length": 3.5,
+              "velocity": 0.3208315912665667
+            },
+            {
+              "id": "bank-open-16",
+              "step": 38,
+              "pitch": 70,
+              "length": 3.5,
+              "velocity": 0.24498129198842405
+            },
+            {
+              "id": "bank-open-17",
+              "step": 42,
+              "pitch": 70,
+              "length": 3.5,
+              "velocity": 0.32671015750708327
+            },
+            {
+              "id": "bank-open-18",
+              "step": 48,
+              "pitch": 67,
+              "length": 3.5,
+              "velocity": 0.20573457944448062
+            },
+            {
+              "id": "bank-open-19",
+              "step": 48,
+              "pitch": 70,
+              "length": 3.5,
+              "velocity": 0.20551598398634632
+            }
+          ]
+        },
+        "song-5-0": {
+          "bars": 4,
+          "notes": [
+            {
+              "id": "recipe-0",
+              "step": 0,
+              "pitch": 48,
+              "length": 3.5,
+              "velocity": 0.3416545291523384
+            },
+            {
+              "id": "recipe-1",
+              "step": 0,
+              "pitch": 51,
+              "length": 3.5,
+              "velocity": 0.36120787324963843
+            },
+            {
+              "id": "recipe-2",
+              "step": 0,
+              "pitch": 55,
+              "length": 3.5,
+              "velocity": 0.33348945490207954
+            },
+            {
+              "id": "recipe-3",
+              "step": 6,
+              "pitch": 48,
+              "length": 3.5,
+              "velocity": 0.3563217104369343
+            },
+            {
+              "id": "recipe-4",
+              "step": 6,
+              "pitch": 51,
+              "length": 3.5,
+              "velocity": 0.3507643649159561
+            },
+            {
+              "id": "recipe-5",
+              "step": 6,
+              "pitch": 55,
+              "length": 3.5,
+              "velocity": 0.4100440450600265
+            },
+            {
+              "id": "recipe-6",
+              "step": 10,
+              "pitch": 48,
+              "length": 3.5,
+              "velocity": 0.292586259073851
+            },
+            {
+              "id": "recipe-7",
+              "step": 10,
+              "pitch": 51,
+              "length": 3.5,
+              "velocity": 0.30906278502710843
+            },
+            {
+              "id": "recipe-8",
+              "step": 10,
+              "pitch": 55,
+              "length": 3.5,
+              "velocity": 0.32113720734164264
+            },
+            {
+              "id": "recipe-9",
+              "step": 16,
+              "pitch": 53,
+              "length": 3.5,
+              "velocity": 0.47951511665147084
+            },
+            {
+              "id": "recipe-10",
+              "step": 16,
+              "pitch": 57,
+              "length": 3.5,
+              "velocity": 0.47523206481131175
+            },
+            {
+              "id": "recipe-11",
+              "step": 16,
+              "pitch": 60,
+              "length": 3.5,
+              "velocity": 0.5062647667795768
+            },
+            {
+              "id": "recipe-12",
+              "step": 22,
+              "pitch": 53,
+              "length": 3.5,
+              "velocity": 0.32695055275132495
+            },
+            {
+              "id": "recipe-13",
+              "step": 22,
+              "pitch": 57,
+              "length": 3.5,
+              "velocity": 0.35201498365275335
+            },
+            {
+              "id": "recipe-14",
+              "step": 22,
+              "pitch": 60,
+              "length": 3.5,
+              "velocity": 0.3269402511017156
+            },
+            {
+              "id": "recipe-15",
+              "step": 26,
+              "pitch": 53,
+              "length": 3.5,
+              "velocity": 0.35331696339477436
+            },
+            {
+              "id": "recipe-16",
+              "step": 26,
+              "pitch": 57,
+              "length": 3.5,
+              "velocity": 0.3436695684076879
+            },
+            {
+              "id": "recipe-17",
+              "step": 26,
+              "pitch": 60,
+              "length": 3.5,
+              "velocity": 0.34584012969629985
+            },
+            {
+              "id": "recipe-18",
+              "step": 32,
+              "pitch": 58,
+              "length": 3.5,
+              "velocity": 0.46155259261619297
+            },
+            {
+              "id": "recipe-19",
+              "step": 32,
+              "pitch": 62,
+              "length": 3.5,
+              "velocity": 0.4633974967718085
+            },
+            {
+              "id": "recipe-20",
+              "step": 32,
+              "pitch": 65,
+              "length": 3.5,
+              "velocity": 0.4633348869463617
+            },
+            {
+              "id": "recipe-21",
+              "step": 38,
+              "pitch": 58,
+              "length": 3.5,
+              "velocity": 0.3641609319967895
+            },
+            {
+              "id": "recipe-22",
+              "step": 38,
+              "pitch": 62,
+              "length": 3.5,
+              "velocity": 0.3678716173914196
+            },
+            {
+              "id": "recipe-23",
+              "step": 38,
+              "pitch": 65,
+              "length": 3.5,
+              "velocity": 0.33241166914355674
+            },
+            {
+              "id": "recipe-24",
+              "step": 42,
+              "pitch": 58,
+              "length": 3.5,
+              "velocity": 0.46690077797372637
+            },
+            {
+              "id": "recipe-25",
+              "step": 42,
+              "pitch": 62,
+              "length": 3.5,
+              "velocity": 0.4859109499507546
+            },
+            {
+              "id": "recipe-26",
+              "step": 42,
+              "pitch": 65,
+              "length": 3.5,
+              "velocity": 0.478264282492646
+            },
+            {
+              "id": "recipe-27",
+              "step": 48,
+              "pitch": 55,
+              "length": 3.5,
+              "velocity": 0.3060876828020276
+            },
+            {
+              "id": "recipe-28",
+              "step": 48,
+              "pitch": 58,
+              "length": 3.5,
+              "velocity": 0.3099685511724661
+            },
+            {
+              "id": "recipe-29",
+              "step": 48,
+              "pitch": 62,
+              "length": 3.5,
+              "velocity": 0.3307758545582526
+            },
+            {
+              "id": "recipe-30",
+              "step": 54,
+              "pitch": 55,
+              "length": 3.5,
+              "velocity": 0.4087562316204029
+            },
+            {
+              "id": "recipe-31",
+              "step": 54,
+              "pitch": 58,
+              "length": 3.5,
+              "velocity": 0.3880862808532833
+            },
+            {
+              "id": "recipe-32",
+              "step": 54,
+              "pitch": 62,
+              "length": 3.5,
+              "velocity": 0.41566879427780223
+            },
+            {
+              "id": "recipe-33",
+              "step": 58,
+              "pitch": 55,
+              "length": 3.5,
+              "velocity": 0.3875108085219115
+            },
+            {
+              "id": "recipe-34",
+              "step": 58,
+              "pitch": 58,
+              "length": 3.5,
+              "velocity": 0.3613763191076038
+            },
+            {
+              "id": "recipe-35",
+              "step": 58,
+              "pitch": 62,
+              "length": 3.5,
+              "velocity": 0.36134467859711294
+            }
+          ]
+        }
+      },
+      "enabled": {
+        "song-0-0": true,
+        "song-1-0": true,
+        "song-2-0": true,
+        "song-3-0": true,
+        "song-4-0": true,
+        "song-5-0": true
+      }
+    },
+    {
+      "id": "voice-2",
+      "name": "Foundation",
+      "role": "bass",
+      "instrument": "roundfm",
+      "volume": 0.64,
+      "pan": 0,
+      "space": 0.05,
+      "brightness": 0.55,
+      "muted": false,
+      "solo": false,
+      "locked": false,
+      "patterns": {
+        "song-0-0": {
+          "bars": 4,
+          "notes": [
+            {
+              "id": "low-0-0",
+              "step": 2,
+              "pitch": 36,
+              "length": 1.7,
+              "velocity": 0.72
+            },
+            {
+              "id": "low-0-1",
+              "step": 6,
+              "pitch": 36,
+              "length": 1.7,
+              "velocity": 0.58
+            },
+            {
+              "id": "low-0-2",
+              "step": 10,
+              "pitch": 36,
+              "length": 1.7,
+              "velocity": 0.58
+            },
+            {
+              "id": "low-0-3",
+              "step": 14,
+              "pitch": 36,
+              "length": 1.7,
+              "velocity": 0.58
+            },
+            {
+              "id": "low-1-0",
+              "step": 18,
+              "pitch": 41,
+              "length": 1.7,
+              "velocity": 0.72
+            },
+            {
+              "id": "low-1-1",
+              "step": 22,
+              "pitch": 41,
+              "length": 1.7,
+              "velocity": 0.58
+            },
+            {
+              "id": "low-1-2",
+              "step": 26,
+              "pitch": 41,
+              "length": 1.7,
+              "velocity": 0.58
+            },
+            {
+              "id": "low-1-3",
+              "step": 30,
+              "pitch": 41,
+              "length": 1.7,
+              "velocity": 0.58
+            },
+            {
+              "id": "low-2-0",
+              "step": 34,
+              "pitch": 46,
+              "length": 1.7,
+              "velocity": 0.72
+            },
+            {
+              "id": "low-2-1",
+              "step": 38,
+              "pitch": 46,
+              "length": 1.7,
+              "velocity": 0.58
+            },
+            {
+              "id": "low-2-2",
+              "step": 42,
+              "pitch": 46,
+              "length": 1.7,
+              "velocity": 0.58
+            },
+            {
+              "id": "low-2-3",
+              "step": 46,
+              "pitch": 46,
+              "length": 1.7,
+              "velocity": 0.58
+            },
+            {
+              "id": "low-3-0",
+              "step": 50,
+              "pitch": 43,
+              "length": 1.7,
+              "velocity": 0.72
+            },
+            {
+              "id": "low-3-1",
+              "step": 54,
+              "pitch": 43,
+              "length": 1.7,
+              "velocity": 0.58
+            },
+            {
+              "id": "low-3-2",
+              "step": 58,
+              "pitch": 43,
+              "length": 1.7,
+              "velocity": 0.58
+            },
+            {
+              "id": "low-3-3",
+              "step": 62,
+              "pitch": 43,
+              "length": 1.7,
+              "velocity": 0.58
+            }
+          ]
+        },
+        "song-1-0": {
+          "bars": 4,
+          "notes": [
+            {
+              "id": "low-0-0",
+              "step": 2,
+              "pitch": 41,
+              "length": 1.7,
+              "velocity": 0.72
+            },
+            {
+              "id": "low-0-1",
+              "step": 6,
+              "pitch": 41,
+              "length": 1.7,
+              "velocity": 0.58
+            },
+            {
+              "id": "low-0-2",
+              "step": 10,
+              "pitch": 41,
+              "length": 1.7,
+              "velocity": 0.58
+            },
+            {
+              "id": "low-0-3",
+              "step": 14,
+              "pitch": 41,
+              "length": 1.7,
+              "velocity": 0.58
+            },
+            {
+              "id": "low-1-0",
+              "step": 18,
+              "pitch": 46,
+              "length": 1.7,
+              "velocity": 0.72
+            },
+            {
+              "id": "low-1-1",
+              "step": 22,
+              "pitch": 46,
+              "length": 1.7,
+              "velocity": 0.58
+            },
+            {
+              "id": "low-1-2",
+              "step": 26,
+              "pitch": 46,
+              "length": 1.7,
+              "velocity": 0.58
+            },
+            {
+              "id": "low-1-3",
+              "step": 30,
+              "pitch": 46,
+              "length": 1.7,
+              "velocity": 0.58
+            },
+            {
+              "id": "low-2-0",
+              "step": 34,
+              "pitch": 43,
+              "length": 1.7,
+              "velocity": 0.72
+            },
+            {
+              "id": "low-2-1",
+              "step": 38,
+              "pitch": 43,
+              "length": 1.7,
+              "velocity": 0.58
+            },
+            {
+              "id": "low-2-2",
+              "step": 42,
+              "pitch": 43,
+              "length": 1.7,
+              "velocity": 0.58
+            },
+            {
+              "id": "low-2-3",
+              "step": 46,
+              "pitch": 43,
+              "length": 1.7,
+              "velocity": 0.58
+            },
+            {
+              "id": "recipe-12",
+              "step": 48,
+              "pitch": 36,
+              "length": 3.5,
+              "velocity": 0.7438820052667473
+            },
+            {
+              "id": "recipe-13",
+              "step": 52,
+              "pitch": 36,
+              "length": 3.5,
+              "velocity": 0.4382134215889456
+            },
+            {
+              "id": "recipe-14",
+              "step": 56,
+              "pitch": 36,
+              "length": 3.5,
+              "velocity": 0.4765528999975263
+            },
+            {
+              "id": "recipe-15",
+              "step": 60,
+              "pitch": 36,
+              "length": 3.5,
+              "velocity": 0.4647998833670225
+            }
+          ]
+        },
+        "song-2-0": {
+          "bars": 4,
+          "notes": [
+            {
+              "id": "recipe-0",
+              "step": 0,
+              "pitch": 36,
+              "length": 3.5,
+              "velocity": 0.851848763967488
+            },
+            {
+              "id": "recipe-1",
+              "step": 4,
+              "pitch": 36,
+              "length": 3.5,
+              "velocity": 0.5247542912920238
+            },
+            {
+              "id": "recipe-2",
+              "step": 8,
+              "pitch": 36,
+              "length": 3.5,
+              "velocity": 0.6218791096382195
+            },
+            {
+              "id": "recipe-3",
+              "step": 12,
+              "pitch": 36,
+              "length": 3.5,
+              "velocity": 0.6137336729780362
+            },
+            {
+              "id": "low-1-0",
+              "step": 18,
+              "pitch": 41,
+              "length": 1.7,
+              "velocity": 0.72
+            },
+            {
+              "id": "low-1-1",
+              "step": 22,
+              "pitch": 41,
+              "length": 1.7,
+              "velocity": 0.58
+            },
+            {
+              "id": "low-1-2",
+              "step": 26,
+              "pitch": 41,
+              "length": 1.7,
+              "velocity": 0.58
+            },
+            {
+              "id": "low-1-3",
+              "step": 30,
+              "pitch": 41,
+              "length": 1.7,
+              "velocity": 0.58
+            },
+            {
+              "id": "low-2-0",
+              "step": 34,
+              "pitch": 46,
+              "length": 1.7,
+              "velocity": 0.72
+            },
+            {
+              "id": "low-2-1",
+              "step": 38,
+              "pitch": 46,
+              "length": 1.7,
+              "velocity": 0.58
+            },
+            {
+              "id": "low-2-2",
+              "step": 42,
+              "pitch": 46,
+              "length": 1.7,
+              "velocity": 0.58
+            },
+            {
+              "id": "low-2-3",
+              "step": 46,
+              "pitch": 46,
+              "length": 1.7,
+              "velocity": 0.58
+            },
+            {
+              "id": "low-3-0",
+              "step": 50,
+              "pitch": 43,
+              "length": 1.7,
+              "velocity": 0.72
+            },
+            {
+              "id": "low-3-1",
+              "step": 54,
+              "pitch": 43,
+              "length": 1.7,
+              "velocity": 0.58
+            },
+            {
+              "id": "low-3-2",
+              "step": 58,
+              "pitch": 43,
+              "length": 1.7,
+              "velocity": 0.58
+            },
+            {
+              "id": "low-3-3",
+              "step": 62,
+              "pitch": 43,
+              "length": 1.7,
+              "velocity": 0.58
+            }
+          ]
+        },
+        "song-3-0": {
+          "bars": 4,
+          "notes": [
+            {
+              "id": "low-0-0",
+              "step": 2,
+              "pitch": 41,
+              "length": 1.7,
+              "velocity": 0.72
+            },
+            {
+              "id": "low-0-1",
+              "step": 6,
+              "pitch": 41,
+              "length": 1.7,
+              "velocity": 0.58
+            },
+            {
+              "id": "low-0-2",
+              "step": 10,
+              "pitch": 41,
+              "length": 1.7,
+              "velocity": 0.58
+            },
+            {
+              "id": "low-0-3",
+              "step": 14,
+              "pitch": 41,
+              "length": 1.7,
+              "velocity": 0.58
+            },
+            {
+              "id": "low-1-0",
+              "step": 18,
+              "pitch": 46,
+              "length": 1.7,
+              "velocity": 0.72
+            },
+            {
+              "id": "low-1-1",
+              "step": 22,
+              "pitch": 46,
+              "length": 1.7,
+              "velocity": 0.58
+            },
+            {
+              "id": "low-1-2",
+              "step": 26,
+              "pitch": 46,
+              "length": 1.7,
+              "velocity": 0.58
+            },
+            {
+              "id": "low-1-3",
+              "step": 30,
+              "pitch": 46,
+              "length": 1.7,
+              "velocity": 0.58
+            },
+            {
+              "id": "low-2-0",
+              "step": 34,
+              "pitch": 43,
+              "length": 1.7,
+              "velocity": 0.72
+            },
+            {
+              "id": "low-2-1",
+              "step": 38,
+              "pitch": 43,
+              "length": 1.7,
+              "velocity": 0.58
+            },
+            {
+              "id": "low-2-2",
+              "step": 42,
+              "pitch": 43,
+              "length": 1.7,
+              "velocity": 0.58
+            },
+            {
+              "id": "low-2-3",
+              "step": 46,
+              "pitch": 43,
+              "length": 1.7,
+              "velocity": 0.58
+            },
+            {
+              "id": "low-3-0",
+              "step": 50,
+              "pitch": 36,
+              "length": 1.7,
+              "velocity": 0.72
+            },
+            {
+              "id": "low-3-1",
+              "step": 54,
+              "pitch": 36,
+              "length": 1.7,
+              "velocity": 0.58
+            },
+            {
+              "id": "low-3-2",
+              "step": 58,
+              "pitch": 36,
+              "length": 1.7,
+              "velocity": 0.58
+            },
+            {
+              "id": "low-3-3",
+              "step": 62,
+              "pitch": 36,
+              "length": 1.7,
+              "velocity": 0.58
+            }
+          ]
+        },
+        "song-4-0": {
+          "bars": 4,
+          "notes": [
+            {
+              "id": "recipe-0",
+              "step": 0,
+              "pitch": 36,
+              "length": 3.5,
+              "velocity": 0.9763584101595287
+            },
+            {
+              "id": "recipe-1",
+              "step": 4,
+              "pitch": 36,
+              "length": 3.5,
+              "velocity": 0.6289425604261744
+            },
+            {
+              "id": "recipe-2",
+              "step": 8,
+              "pitch": 36,
+              "length": 3.5,
+              "velocity": 0.7169981364872461
+            },
+            {
+              "id": "recipe-3",
+              "step": 12,
+              "pitch": 36,
+              "length": 3.5,
+              "velocity": 0.6801391376588966
+            },
+            {
+              "id": "low-1-0",
+              "step": 18,
+              "pitch": 41,
+              "length": 1.7,
+              "velocity": 0.72
+            },
+            {
+              "id": "low-1-1",
+              "step": 22,
+              "pitch": 41,
+              "length": 1.7,
+              "velocity": 0.58
+            },
+            {
+              "id": "low-1-2",
+              "step": 26,
+              "pitch": 41,
+              "length": 1.7,
+              "velocity": 0.58
+            },
+            {
+              "id": "low-1-3",
+              "step": 30,
+              "pitch": 41,
+              "length": 1.7,
+              "velocity": 0.58
+            },
+            {
+              "id": "low-2-0",
+              "step": 34,
+              "pitch": 46,
+              "length": 1.7,
+              "velocity": 0.72
+            },
+            {
+              "id": "low-2-1",
+              "step": 38,
+              "pitch": 46,
+              "length": 1.7,
+              "velocity": 0.58
+            },
+            {
+              "id": "low-2-2",
+              "step": 42,
+              "pitch": 46,
+              "length": 1.7,
+              "velocity": 0.58
+            },
+            {
+              "id": "low-2-3",
+              "step": 46,
+              "pitch": 46,
+              "length": 1.7,
+              "velocity": 0.58
+            },
+            {
+              "id": "low-3-0",
+              "step": 50,
+              "pitch": 43,
+              "length": 1.7,
+              "velocity": 0.72
+            },
+            {
+              "id": "low-3-1",
+              "step": 54,
+              "pitch": 43,
+              "length": 1.7,
+              "velocity": 0.58
+            },
+            {
+              "id": "low-3-2",
+              "step": 58,
+              "pitch": 43,
+              "length": 1.7,
+              "velocity": 0.58
+            },
+            {
+              "id": "low-3-3",
+              "step": 62,
+              "pitch": 43,
+              "length": 1.7,
+              "velocity": 0.58
+            }
+          ]
+        },
+        "song-5-0": {
+          "bars": 4,
+          "notes": [
+            {
+              "id": "low-0-0",
+              "step": 2,
+              "pitch": 36,
+              "length": 1.7,
+              "velocity": 0.72
+            },
+            {
+              "id": "low-0-1",
+              "step": 6,
+              "pitch": 36,
+              "length": 1.7,
+              "velocity": 0.58
+            },
+            {
+              "id": "low-0-2",
+              "step": 10,
+              "pitch": 36,
+              "length": 1.7,
+              "velocity": 0.58
+            },
+            {
+              "id": "low-0-3",
+              "step": 14,
+              "pitch": 36,
+              "length": 1.7,
+              "velocity": 0.58
+            },
+            {
+              "id": "low-1-0",
+              "step": 18,
+              "pitch": 41,
+              "length": 1.7,
+              "velocity": 0.72
+            },
+            {
+              "id": "low-1-1",
+              "step": 22,
+              "pitch": 41,
+              "length": 1.7,
+              "velocity": 0.58
+            },
+            {
+              "id": "low-1-2",
+              "step": 26,
+              "pitch": 41,
+              "length": 1.7,
+              "velocity": 0.58
+            },
+            {
+              "id": "low-1-3",
+              "step": 30,
+              "pitch": 41,
+              "length": 1.7,
+              "velocity": 0.58
+            },
+            {
+              "id": "low-2-0",
+              "step": 34,
+              "pitch": 46,
+              "length": 1.7,
+              "velocity": 0.72
+            },
+            {
+              "id": "low-2-1",
+              "step": 38,
+              "pitch": 46,
+              "length": 1.7,
+              "velocity": 0.58
+            },
+            {
+              "id": "low-2-2",
+              "step": 42,
+              "pitch": 46,
+              "length": 1.7,
+              "velocity": 0.58
+            },
+            {
+              "id": "low-2-3",
+              "step": 46,
+              "pitch": 46,
+              "length": 1.7,
+              "velocity": 0.58
+            },
+            {
+              "id": "low-3-0",
+              "step": 50,
+              "pitch": 43,
+              "length": 1.7,
+              "velocity": 0.72
+            },
+            {
+              "id": "low-3-1",
+              "step": 54,
+              "pitch": 43,
+              "length": 1.7,
+              "velocity": 0.58
+            },
+            {
+              "id": "low-3-2",
+              "step": 58,
+              "pitch": 43,
+              "length": 1.7,
+              "velocity": 0.58
+            },
+            {
+              "id": "low-3-3",
+              "step": 62,
+              "pitch": 43,
+              "length": 1.7,
+              "velocity": 0.58
+            }
+          ]
+        }
+      },
+      "enabled": {
+        "song-0-0": true,
+        "song-1-0": true,
+        "song-2-0": true,
+        "song-3-0": true,
+        "song-4-0": true,
+        "song-5-0": true
+      }
+    },
+    {
+      "id": "voice-3",
+      "name": "Little details",
+      "role": "texture",
+      "instrument": "resonant",
+      "volume": 0.5,
+      "pan": 0.22,
+      "space": 0.28,
+      "brightness": 0.55,
+      "muted": false,
+      "solo": false,
+      "locked": false,
+      "patterns": {
+        "song-0-0": {
+          "bars": 4,
+          "notes": [
+            {
+              "id": "n-0",
+              "step": 0,
+              "pitch": 60,
+              "length": 2.669410989239812,
+              "velocity": 0.18015429273853056
+            },
+            {
+              "id": "n-1",
+              "step": 8,
+              "pitch": 63,
+              "length": 2.709840780049562,
+              "velocity": 0.2211770819945424
+            },
+            {
+              "id": "n-2",
+              "step": 16,
+              "pitch": 65,
+              "length": 2.580015368156135,
+              "velocity": 0.32167463185573164
+            },
+            {
+              "id": "n-3",
+              "step": 24,
+              "pitch": 69,
+              "length": 2.780004862785339,
+              "velocity": 0.21685703852931357
+            },
+            {
+              "id": "n-4",
+              "step": 32,
+              "pitch": 70,
+              "length": 2.5131055391207338,
+              "velocity": 0.2568091040432344
+            },
+            {
+              "id": "n-5",
+              "step": 40,
+              "pitch": 74,
+              "length": 2.4794234901592134,
+              "velocity": 0.2491436352798981
+            },
+            {
+              "id": "n-6",
+              "step": 48,
+              "pitch": 67,
+              "length": 2.5715705408304927,
+              "velocity": 0.18752620559678052
+            },
+            {
+              "id": "n-7",
+              "step": 56,
+              "pitch": 70,
+              "length": 2.7139336043708027,
+              "velocity": 0.22464116117123195
+            }
+          ]
+        },
+        "song-1-0": {
+          "bars": 4,
+          "notes": [
+            {
+              "id": "n-0",
+              "step": 1,
+              "pitch": 72,
+              "length": 1.2347515941467135,
+              "velocity": 0.2572937892078705
+            },
+            {
+              "id": "n-1",
+              "step": 9,
+              "pitch": 69,
+              "length": 1.3467459842860698,
+              "velocity": 0.31016525582301513
+            },
+            {
+              "id": "n-2",
+              "step": 17,
+              "pitch": 77,
+              "length": 1.3493032187502831,
+              "velocity": 0.37977815277290883
+            },
+            {
+              "id": "n-3",
+              "step": 25,
+              "pitch": 74,
+              "length": 1.3756871177256107,
+              "velocity": 0.33439490936983346
+            },
+            {
+              "id": "n-4",
+              "step": 33,
+              "pitch": 74,
+              "length": 1.3473956703841685,
+              "velocity": 0.3726535093080089
+            },
+            {
+              "id": "n-5",
+              "step": 41,
+              "pitch": 70,
+              "length": 1.2816851138062775,
+              "velocity": 0.39928512076174055
+            },
+            {
+              "id": "n-6",
+              "step": 49,
+              "pitch": 67,
+              "length": 1.2886581003088502,
+              "velocity": 0.23230963194910673
+            },
+            {
+              "id": "n-7",
+              "step": 57,
+              "pitch": 63,
+              "length": 1.3412612306810914,
+              "velocity": 0.28912213438407286
+            }
+          ]
+        },
+        "song-2-0": {
+          "bars": 4,
+          "notes": [
+            {
+              "id": "n-0",
+              "step": 0,
+              "pitch": 60,
+              "length": 2.700208088237792,
+              "velocity": 0.3353353864686699
+            },
+            {
+              "id": "n-2",
+              "step": 8,
+              "pitch": 72,
+              "length": 2.778550301373005,
+              "velocity": 0.3895042411960554
+            },
+            {
+              "id": "n-3",
+              "step": 12,
+              "pitch": 72,
+              "length": 2.585932432979345,
+              "velocity": 0.30774768368091676
+            },
+            {
+              "id": "n-4",
+              "step": 17,
+              "pitch": 65,
+              "length": 2.6579351454190907,
+              "velocity": 0.4432423859895076
+            },
+            {
+              "id": "n-5",
+              "step": 19,
+              "pitch": 69,
+              "length": 2.5670269854664802,
+              "velocity": 0.41875371860044674
+            },
+            {
+              "id": "n-6",
+              "step": 30,
+              "pitch": 72,
+              "length": 2,
+              "velocity": 0.36423269735297115
+            },
+            {
+              "id": "n-7",
+              "step": 27,
+              "pitch": 77,
+              "length": 2.745049261253327,
+              "velocity": 0.38944216653781183
+            },
+            {
+              "id": "n-8",
+              "step": 32,
+              "pitch": 70,
+              "length": 2.74472994961217,
+              "velocity": 0.42624093407618646
+            },
+            {
+              "id": "n-9",
+              "step": 36,
+              "pitch": 74,
+              "length": 2.6401919331811365,
+              "velocity": 0.42673512889881066
+            },
+            {
+              "id": "n-10",
+              "step": 40,
+              "pitch": 77,
+              "length": 2.633693462673574,
+              "velocity": 0.49011087723795405
+            },
+            {
+              "id": "n-11",
+              "step": 44,
+              "pitch": 74,
+              "length": 2.645830672495067,
+              "velocity": 0.4459961439952221
+            },
+            {
+              "id": "n-12",
+              "step": 48,
+              "pitch": 67,
+              "length": 2.7561255925558505,
+              "velocity": 0.40535784456659585
+            },
+            {
+              "id": "n-13",
+              "step": 51,
+              "pitch": 70,
+              "length": 2.5270107105411586,
+              "velocity": 0.34903950171328596
+            },
+            {
+              "id": "n-14",
+              "step": 56,
+              "pitch": 74,
+              "length": 2.6409411622472105,
+              "velocity": 0.4692489941614496
+            },
+            {
+              "id": "n-15",
+              "step": 59,
+              "pitch": 70,
+              "length": 2.497914819095284,
+              "velocity": 0.3570239709976759
+            },
+            {
+              "id": "n-16",
+              "step": 63,
+              "pitch": 62,
+              "length": 0.7871891082897783,
+              "velocity": 0.21821041723498857
+            }
+          ]
+        },
+        "song-3-0": {
+          "bars": 4,
+          "notes": [
+            {
+              "id": "n-0",
+              "step": 1,
+              "pitch": 72,
+              "length": 1.3354002123363315,
+              "velocity": 0.28104989783268347
+            },
+            {
+              "id": "n-1",
+              "step": 9,
+              "pitch": 69,
+              "length": 1.2965437929350883,
+              "velocity": 0.28233104156496097
+            },
+            {
+              "id": "n-2",
+              "step": 17,
+              "pitch": 77,
+              "length": 1.3731331154573707,
+              "velocity": 0.36777072351790513
+            },
+            {
+              "id": "n-3",
+              "step": 25,
+              "pitch": 74,
+              "length": 1.2597682168427853,
+              "velocity": 0.3358050731595301
+            },
+            {
+              "id": "n-4",
+              "step": 33,
+              "pitch": 74,
+              "length": 1.3315702612400053,
+              "velocity": 0.36420837479257534
+            },
+            {
+              "id": "n-5",
+              "step": 41,
+              "pitch": 70,
+              "length": 1.3006317717004567,
+              "velocity": 0.4044201841526994
+            },
+            {
+              "id": "n-6",
+              "step": 49,
+              "pitch": 67,
+              "length": 1.278234350476414,
+              "velocity": 0.218046275369654
+            },
+            {
+              "id": "n-7",
+              "step": 57,
+              "pitch": 63,
+              "length": 1.3971512144729494,
+              "velocity": 0.312409697241028
+            },
+            {
+              "id": "n-8",
+              "step": 63,
+              "pitch": 62,
+              "length": 0.7722500419318676,
+              "velocity": 0.19309965820429426
+            }
+          ]
+        },
+        "song-4-0": {
+          "bars": 4,
+          "notes": [
+            {
+              "id": "n-0",
+              "step": 0,
+              "pitch": 55,
+              "length": 2.6443649831004437,
+              "velocity": 0.3848995883648611
+            },
+            {
+              "id": "n-2",
+              "step": 8,
+              "pitch": 72,
+              "length": 2.5532996376305817,
+              "velocity": 0.43343512962414016
+            },
+            {
+              "id": "n-4",
+              "step": 17,
+              "pitch": 65,
+              "length": 2.561232793767005,
+              "velocity": 0.4962590974701251
+            },
+            {
+              "id": "n-5",
+              "step": 19,
+              "pitch": 69,
+              "length": 2.5481548920944332,
+              "velocity": 0.5084360313296362
+            },
+            {
+              "id": "n-6",
+              "step": 24,
+              "pitch": 72,
+              "length": 2.6300958205386995,
+              "velocity": 0.3743694035562399
+            },
+            {
+              "id": "n-9",
+              "step": 36,
+              "pitch": 82,
+              "length": 2.728614894058555,
+              "velocity": 0.46197510955024573
+            },
+            {
+              "id": "n-10",
+              "step": 40,
+              "pitch": 82,
+              "length": 2.5793180839121344,
+              "velocity": 0.5497290202352848
+            },
+            {
+              "id": "n-12",
+              "step": 49,
+              "pitch": 67,
+              "length": 2.708930485907942,
+              "velocity": 0.39352876654322716
+            },
+            {
+              "id": "n-13",
+              "step": 51,
+              "pitch": 70,
+              "length": 2.5453720785379406,
+              "velocity": 0.37861240625747233
+            },
+            {
+              "id": "n-14",
+              "step": 60,
+              "pitch": 74,
+              "length": 2.485954136569053,
+              "velocity": 0.5032976776980812
+            },
+            {
+              "id": "n-15",
+              "step": 59,
+              "pitch": 74,
+              "length": 2.6841153273731466,
+              "velocity": 0.4553236713274667
+            }
+          ]
+        },
+        "song-5-0": {
+          "bars": 4,
+          "notes": [
+            {
+              "id": "n-0",
+              "step": 1,
+              "pitch": 60,
+              "length": 2.763083928760141,
+              "velocity": 0.32505921165317847
+            },
+            {
+              "id": "n-1",
+              "step": 8,
+              "pitch": 70,
+              "length": 2.542722434412688,
+              "velocity": 0.3427399677867652
+            },
+            {
+              "id": "n-2",
+              "step": 16,
+              "pitch": 65,
+              "length": 2.627413470417261,
+              "velocity": 0.5259685145562079
+            },
+            {
+              "id": "n-3",
+              "step": 24,
+              "pitch": 69,
+              "length": 2.6807311258763074,
+              "velocity": 0.34520695846527016
+            },
+            {
+              "id": "n-4",
+              "step": 32,
+              "pitch": 70,
+              "length": 2.7987921254858374,
+              "velocity": 0.3569667795869833
+            },
+            {
+              "id": "n-5",
+              "step": 40,
+              "pitch": 74,
+              "length": 2.7660483839698133,
+              "velocity": 0.4079966042621058
+            },
+            {
+              "id": "n-6",
+              "step": 48,
+              "pitch": 67,
+              "length": 2.6410924939662217,
+              "velocity": 0.2994740873863405
+            },
+            {
+              "id": "n-7",
+              "step": 56,
+              "pitch": 70,
+              "length": 2.7858060649298126,
+              "velocity": 0.3480252601978974
+            }
+          ]
+        }
+      },
+      "enabled": {
+        "song-0-0": false,
+        "song-1-0": false,
+        "song-2-0": true,
+        "song-3-0": false,
+        "song-4-0": true,
+        "song-5-0": true
+      }
+    },
+    {
+      "id": "voice-4",
+      "name": "Rhythm",
+      "role": "rhythm",
+      "instrument": "drums",
+      "volume": 0.48,
+      "pan": 0,
+      "space": 0.05,
+      "brightness": 0.55,
+      "muted": false,
+      "solo": false,
+      "locked": false,
+      "patterns": {
+        "song-0-0": {
+          "bars": 4,
+          "notes": [
+            {
+              "id": "recipe-0",
+              "step": 0,
+              "pitch": 36,
+              "length": 0.7,
+              "velocity": 0.4461467170522781
+            },
+            {
+              "id": "recipe-1",
+              "step": 4,
+              "pitch": 36,
+              "length": 0.7,
+              "velocity": 0.4317822756679186
+            },
+            {
+              "id": "recipe-2",
+              "step": 8,
+              "pitch": 36,
+              "length": 0.7,
+              "velocity": 0.46303884350036534
+            },
+            {
+              "id": "recipe-3",
+              "step": 12,
+              "pitch": 36,
+              "length": 0.7,
+              "velocity": 0.5041887492463741
+            },
+            {
+              "id": "recipe-4",
+              "step": 4,
+              "pitch": 38,
+              "length": 0.55,
+              "velocity": 0.4396518048464393
+            },
+            {
+              "id": "recipe-5",
+              "step": 12,
+              "pitch": 38,
+              "length": 0.55,
+              "velocity": 0.4423921978237064
+            },
+            {
+              "id": "recipe-6",
+              "step": 0,
+              "pitch": 42,
+              "length": 0.3,
+              "velocity": 0.19960172442666177
+            },
+            {
+              "id": "recipe-7",
+              "step": 2,
+              "pitch": 42,
+              "length": 0.3,
+              "velocity": 0.083552502249539
+            },
+            {
+              "id": "recipe-8",
+              "step": 4,
+              "pitch": 42,
+              "length": 0.3,
+              "velocity": 0.18185086844092896
+            },
+            {
+              "id": "recipe-9",
+              "step": 6,
+              "pitch": 42,
+              "length": 0.3,
+              "velocity": 0.09237525625420416
+            },
+            {
+              "id": "recipe-10",
+              "step": 8,
+              "pitch": 42,
+              "length": 0.3,
+              "velocity": 0.2056454982515455
+            },
+            {
+              "id": "recipe-11",
+              "step": 10,
+              "pitch": 42,
+              "length": 0.3,
+              "velocity": 0.10225464362993432
+            },
+            {
+              "id": "recipe-12",
+              "step": 12,
+              "pitch": 42,
+              "length": 0.3,
+              "velocity": 0.21498451883573755
+            },
+            {
+              "id": "recipe-13",
+              "step": 14,
+              "pitch": 42,
+              "length": 0.3,
+              "velocity": 0.10553743684726516
+            },
+            {
+              "id": "recipe-14",
+              "step": 16,
+              "pitch": 36,
+              "length": 0.7,
+              "velocity": 0.5392063404051571
+            },
+            {
+              "id": "recipe-15",
+              "step": 20,
+              "pitch": 36,
+              "length": 0.7,
+              "velocity": 0.5060895725141447
+            },
+            {
+              "id": "recipe-16",
+              "step": 24,
+              "pitch": 36,
+              "length": 0.7,
+              "velocity": 0.5270482771281688
+            },
+            {
+              "id": "recipe-17",
+              "step": 28,
+              "pitch": 36,
+              "length": 0.7,
+              "velocity": 0.5626898362485502
+            },
+            {
+              "id": "recipe-18",
+              "step": 20,
+              "pitch": 38,
+              "length": 0.55,
+              "velocity": 0.4830798253857433
+            },
+            {
+              "id": "recipe-19",
+              "step": 28,
+              "pitch": 38,
+              "length": 0.55,
+              "velocity": 0.5210304669132018
+            },
+            {
+              "id": "recipe-20",
+              "step": 16,
+              "pitch": 42,
+              "length": 0.3,
+              "velocity": 0.21180223778873794
+            },
+            {
+              "id": "recipe-21",
+              "step": 18,
+              "pitch": 42,
+              "length": 0.3,
+              "velocity": 0.10561931445087609
+            },
+            {
+              "id": "recipe-22",
+              "step": 20,
+              "pitch": 42,
+              "length": 0.3,
+              "velocity": 0.2433179862088995
+            },
+            {
+              "id": "recipe-23",
+              "step": 22,
+              "pitch": 42,
+              "length": 0.3,
+              "velocity": 0.10155297316156926
+            },
+            {
+              "id": "recipe-24",
+              "step": 24,
+              "pitch": 42,
+              "length": 0.3,
+              "velocity": 0.2548686113834659
+            },
+            {
+              "id": "recipe-25",
+              "step": 26,
+              "pitch": 42,
+              "length": 0.3,
+              "velocity": 0.10937158597144177
+            },
+            {
+              "id": "recipe-26",
+              "step": 28,
+              "pitch": 42,
+              "length": 0.3,
+              "velocity": 0.24748721292042677
+            },
+            {
+              "id": "recipe-27",
+              "step": 30,
+              "pitch": 42,
+              "length": 0.3,
+              "velocity": 0.11311154102088222
+            },
+            {
+              "id": "recipe-28",
+              "step": 32,
+              "pitch": 36,
+              "length": 0.7,
+              "velocity": 0.5872506355625987
+            },
+            {
+              "id": "recipe-29",
+              "step": 36,
+              "pitch": 36,
+              "length": 0.7,
+              "velocity": 0.5836475394254993
+            },
+            {
+              "id": "recipe-30",
+              "step": 40,
+              "pitch": 36,
+              "length": 0.7,
+              "velocity": 0.5331587143957672
+            },
+            {
+              "id": "recipe-31",
+              "step": 44,
+              "pitch": 36,
+              "length": 0.7,
+              "velocity": 0.4991376005231541
+            },
+            {
+              "id": "recipe-32",
+              "step": 36,
+              "pitch": 38,
+              "length": 0.55,
+              "velocity": 0.5750579202513703
+            },
+            {
+              "id": "recipe-33",
+              "step": 44,
+              "pitch": 38,
+              "length": 0.55,
+              "velocity": 0.5177597849670488
+            },
+            {
+              "id": "recipe-34",
+              "step": 32,
+              "pitch": 42,
+              "length": 0.3,
+              "velocity": 0.23266342717296346
+            },
+            {
+              "id": "recipe-35",
+              "step": 34,
+              "pitch": 42,
+              "length": 0.3,
+              "velocity": 0.10648739939491958
+            },
+            {
+              "id": "recipe-36",
+              "step": 36,
+              "pitch": 42,
+              "length": 0.3,
+              "velocity": 0.23560442513544638
+            },
+            {
+              "id": "recipe-37",
+              "step": 38,
+              "pitch": 42,
+              "length": 0.3,
+              "velocity": 0.11186154412009573
+            },
+            {
+              "id": "recipe-38",
+              "step": 40,
+              "pitch": 42,
+              "length": 0.3,
+              "velocity": 0.21700993538895327
+            },
+            {
+              "id": "recipe-39",
+              "step": 42,
+              "pitch": 42,
+              "length": 0.3,
+              "velocity": 0.11340274039907666
+            },
+            {
+              "id": "recipe-40",
+              "step": 44,
+              "pitch": 42,
+              "length": 0.3,
+              "velocity": 0.23413868747342606
+            },
+            {
+              "id": "recipe-41",
+              "step": 46,
+              "pitch": 42,
+              "length": 0.3,
+              "velocity": 0.1140773945636482
+            },
+            {
+              "id": "recipe-42",
+              "step": 48,
+              "pitch": 36,
+              "length": 0.7,
+              "velocity": 0.5377054092547787
+            },
+            {
+              "id": "recipe-43",
+              "step": 52,
+              "pitch": 36,
+              "length": 0.7,
+              "velocity": 0.4923902598707892
+            },
+            {
+              "id": "recipe-44",
+              "step": 56,
+              "pitch": 36,
+              "length": 0.7,
+              "velocity": 0.5012868173669687
+            },
+            {
+              "id": "recipe-45",
+              "step": 60,
+              "pitch": 36,
+              "length": 0.7,
+              "velocity": 0.41964518109879473
+            },
+            {
+              "id": "recipe-46",
+              "step": 52,
+              "pitch": 38,
+              "length": 0.55,
+              "velocity": 0.45351904605805093
+            },
+            {
+              "id": "recipe-47",
+              "step": 60,
+              "pitch": 38,
+              "length": 0.55,
+              "velocity": 0.4033839003059436
+            },
+            {
+              "id": "recipe-48",
+              "step": 48,
+              "pitch": 42,
+              "length": 0.3,
+              "velocity": 0.19785058114919413
+            },
+            {
+              "id": "recipe-49",
+              "step": 50,
+              "pitch": 42,
+              "length": 0.3,
+              "velocity": 0.10422338834871342
+            },
+            {
+              "id": "recipe-50",
+              "step": 52,
+              "pitch": 42,
+              "length": 0.3,
+              "velocity": 0.19129733784846384
+            },
+            {
+              "id": "recipe-51",
+              "step": 54,
+              "pitch": 42,
+              "length": 0.3,
+              "velocity": 0.09743319968300133
+            },
+            {
+              "id": "recipe-52",
+              "step": 56,
+              "pitch": 42,
+              "length": 0.3,
+              "velocity": 0.21026228371770037
+            },
+            {
+              "id": "recipe-53",
+              "step": 58,
+              "pitch": 42,
+              "length": 0.3,
+              "velocity": 0.09744765824670569
+            },
+            {
+              "id": "recipe-54",
+              "step": 60,
+              "pitch": 42,
+              "length": 0.3,
+              "velocity": 0.18714495110594007
+            },
+            {
+              "id": "recipe-55",
+              "step": 62,
+              "pitch": 42,
+              "length": 0.3,
+              "velocity": 0.08479135721484872
+            },
+            {
+              "id": "bank-fill-0",
+              "step": 57,
+              "pitch": 38,
+              "length": 0.4,
+              "velocity": 0.6037418206655302
+            },
+            {
+              "id": "bank-fill-1",
+              "step": 60,
+              "pitch": 45,
+              "length": 0.4,
+              "velocity": 0.5134492208155154
+            },
+            {
+              "id": "bank-fill-2",
+              "step": 62,
+              "pitch": 45,
+              "length": 0.4,
+              "velocity": 0.3939406042256345
+            }
+          ]
+        },
+        "song-1-0": {
+          "bars": 4,
+          "notes": [
+            {
+              "step": 0,
+              "pitch": 36,
+              "velocity": 0.8500000000000001,
+              "length": 0.6,
+              "id": "lean-0-0"
+            },
+            {
+              "step": 2,
+              "pitch": 42,
+              "velocity": 0.22,
+              "length": 0.3,
+              "id": "lean-0-1"
+            },
+            {
+              "step": 2,
+              "pitch": 46,
+              "velocity": 0.28,
+              "length": 0.7,
+              "id": "lean-0-2"
+            },
+            {
+              "step": 4,
+              "pitch": 36,
+              "velocity": 0.78,
+              "length": 0.6,
+              "id": "lean-0-3"
+            },
+            {
+              "step": 4,
+              "pitch": 39,
+              "velocity": 0.62,
+              "length": 0.45,
+              "id": "lean-0-4"
+            },
+            {
+              "step": 6,
+              "pitch": 42,
+              "velocity": 0.22,
+              "length": 0.3,
+              "id": "lean-0-5"
+            },
+            {
+              "step": 8,
+              "pitch": 36,
+              "velocity": 0.78,
+              "length": 0.6,
+              "id": "lean-0-6"
+            },
+            {
+              "step": 10,
+              "pitch": 42,
+              "velocity": 0.22,
+              "length": 0.3,
+              "id": "lean-0-7"
+            },
+            {
+              "step": 10,
+              "pitch": 46,
+              "velocity": 0.28,
+              "length": 0.7,
+              "id": "lean-0-8"
+            },
+            {
+              "step": 12,
+              "pitch": 36,
+              "velocity": 0.78,
+              "length": 0.6,
+              "id": "lean-0-9"
+            },
+            {
+              "step": 12,
+              "pitch": 39,
+              "velocity": 0.62,
+              "length": 0.45,
+              "id": "lean-0-10"
+            },
+            {
+              "step": 14,
+              "pitch": 42,
+              "velocity": 0.22,
+              "length": 0.3,
+              "id": "lean-0-11"
+            },
+            {
+              "step": 16,
+              "pitch": 36,
+              "velocity": 0.8500000000000001,
+              "length": 0.6,
+              "id": "lean-1-0"
+            },
+            {
+              "step": 18,
+              "pitch": 42,
+              "velocity": 0.22,
+              "length": 0.3,
+              "id": "lean-1-1"
+            },
+            {
+              "step": 18,
+              "pitch": 46,
+              "velocity": 0.28,
+              "length": 0.7,
+              "id": "lean-1-2"
+            },
+            {
+              "step": 20,
+              "pitch": 36,
+              "velocity": 0.78,
+              "length": 0.6,
+              "id": "lean-1-3"
+            },
+            {
+              "step": 20,
+              "pitch": 39,
+              "velocity": 0.62,
+              "length": 0.45,
+              "id": "lean-1-4"
+            },
+            {
+              "step": 22,
+              "pitch": 42,
+              "velocity": 0.22,
+              "length": 0.3,
+              "id": "lean-1-5"
+            },
+            {
+              "step": 24,
+              "pitch": 36,
+              "velocity": 0.78,
+              "length": 0.6,
+              "id": "lean-1-6"
+            },
+            {
+              "step": 26,
+              "pitch": 42,
+              "velocity": 0.22,
+              "length": 0.3,
+              "id": "lean-1-7"
+            },
+            {
+              "step": 26,
+              "pitch": 46,
+              "velocity": 0.28,
+              "length": 0.7,
+              "id": "lean-1-8"
+            },
+            {
+              "step": 28,
+              "pitch": 36,
+              "velocity": 0.78,
+              "length": 0.6,
+              "id": "lean-1-9"
+            },
+            {
+              "step": 28,
+              "pitch": 39,
+              "velocity": 0.62,
+              "length": 0.45,
+              "id": "lean-1-10"
+            },
+            {
+              "step": 30,
+              "pitch": 42,
+              "velocity": 0.22,
+              "length": 0.3,
+              "id": "lean-1-11"
+            },
+            {
+              "step": 32,
+              "pitch": 36,
+              "velocity": 0.8500000000000001,
+              "length": 0.6,
+              "id": "lean-2-0"
+            },
+            {
+              "step": 34,
+              "pitch": 42,
+              "velocity": 0.22,
+              "length": 0.3,
+              "id": "lean-2-1"
+            },
+            {
+              "step": 34,
+              "pitch": 46,
+              "velocity": 0.28,
+              "length": 0.7,
+              "id": "lean-2-2"
+            },
+            {
+              "step": 36,
+              "pitch": 36,
+              "velocity": 0.78,
+              "length": 0.6,
+              "id": "lean-2-3"
+            },
+            {
+              "step": 36,
+              "pitch": 39,
+              "velocity": 0.62,
+              "length": 0.45,
+              "id": "lean-2-4"
+            },
+            {
+              "step": 38,
+              "pitch": 42,
+              "velocity": 0.22,
+              "length": 0.3,
+              "id": "lean-2-5"
+            },
+            {
+              "step": 40,
+              "pitch": 36,
+              "velocity": 0.78,
+              "length": 0.6,
+              "id": "lean-2-6"
+            },
+            {
+              "step": 42,
+              "pitch": 42,
+              "velocity": 0.22,
+              "length": 0.3,
+              "id": "lean-2-7"
+            },
+            {
+              "step": 42,
+              "pitch": 46,
+              "velocity": 0.28,
+              "length": 0.7,
+              "id": "lean-2-8"
+            },
+            {
+              "step": 44,
+              "pitch": 36,
+              "velocity": 0.78,
+              "length": 0.6,
+              "id": "lean-2-9"
+            },
+            {
+              "step": 44,
+              "pitch": 39,
+              "velocity": 0.62,
+              "length": 0.45,
+              "id": "lean-2-10"
+            },
+            {
+              "step": 46,
+              "pitch": 42,
+              "velocity": 0.22,
+              "length": 0.3,
+              "id": "lean-2-11"
+            },
+            {
+              "id": "recipe-42",
+              "step": 48,
+              "pitch": 36,
+              "length": 0.7,
+              "velocity": 0.6213239011554847
+            },
+            {
+              "id": "recipe-43",
+              "step": 52,
+              "pitch": 36,
+              "length": 0.7,
+              "velocity": 0.6028271887862579
+            },
+            {
+              "id": "recipe-44",
+              "step": 56,
+              "pitch": 36,
+              "length": 0.7,
+              "velocity": 0.6142730273715731
+            },
+            {
+              "id": "recipe-45",
+              "step": 60,
+              "pitch": 36,
+              "length": 0.7,
+              "velocity": 0.6110285622057703
+            },
+            {
+              "id": "recipe-46",
+              "step": 52,
+              "pitch": 38,
+              "length": 0.55,
+              "velocity": 0.5688157690407893
+            },
+            {
+              "id": "recipe-47",
+              "step": 60,
+              "pitch": 38,
+              "length": 0.55,
+              "velocity": 0.5948921710753226
+            },
+            {
+              "id": "recipe-48",
+              "step": 48,
+              "pitch": 42,
+              "length": 0.3,
+              "velocity": 0.30733725301210746
+            },
+            {
+              "id": "recipe-52",
+              "step": 56,
+              "pitch": 42,
+              "length": 0.3,
+              "velocity": 0.24639199114220672
+            },
+            {
+              "id": "bank-fill-0",
+              "step": 57,
+              "pitch": 38,
+              "length": 0.4,
+              "velocity": 0.5589784286199623
+            },
+            {
+              "id": "bank-fill-1",
+              "step": 60,
+              "pitch": 45,
+              "length": 0.4,
+              "velocity": 0.48582181081475234
+            },
+            {
+              "id": "bank-fill-2",
+              "step": 62,
+              "pitch": 45,
+              "length": 0.4,
+              "velocity": 0.36737592208564057
+            }
+          ]
+        },
+        "song-2-0": {
+          "bars": 4,
+          "notes": [
+            {
+              "id": "recipe-0",
+              "step": 0,
+              "pitch": 36,
+              "length": 0.7,
+              "velocity": 0.8188162496102167
+            },
+            {
+              "id": "recipe-1",
+              "step": 4,
+              "pitch": 36,
+              "length": 0.7,
+              "velocity": 0.8527210549351905
+            },
+            {
+              "id": "recipe-2",
+              "step": 8,
+              "pitch": 36,
+              "length": 0.7,
+              "velocity": 0.7579108354236649
+            },
+            {
+              "id": "recipe-3",
+              "step": 12,
+              "pitch": 36,
+              "length": 0.7,
+              "velocity": 0.7801348796012743
+            },
+            {
+              "id": "recipe-4",
+              "step": 4,
+              "pitch": 38,
+              "length": 0.55,
+              "velocity": 0.7137220542197837
+            },
+            {
+              "id": "recipe-5",
+              "step": 12,
+              "pitch": 38,
+              "length": 0.55,
+              "velocity": 0.746252463032045
+            },
+            {
+              "id": "recipe-6",
+              "step": 0,
+              "pitch": 42,
+              "length": 0.3,
+              "velocity": 0.313295027919939
+            },
+            {
+              "id": "recipe-7",
+              "step": 2,
+              "pitch": 42,
+              "length": 0.3,
+              "velocity": 0.16280753088996205
+            },
+            {
+              "id": "recipe-8",
+              "step": 4,
+              "pitch": 42,
+              "length": 0.3,
+              "velocity": 0.34262141108452504
+            },
+            {
+              "id": "recipe-9",
+              "step": 6,
+              "pitch": 42,
+              "length": 0.3,
+              "velocity": 0.16347308792962822
+            },
+            {
+              "id": "recipe-10",
+              "step": 8,
+              "pitch": 42,
+              "length": 0.3,
+              "velocity": 0.35012565844691856
+            },
+            {
+              "id": "recipe-11",
+              "step": 10,
+              "pitch": 42,
+              "length": 0.3,
+              "velocity": 0.15990873930058547
+            },
+            {
+              "id": "recipe-12",
+              "step": 12,
+              "pitch": 42,
+              "length": 0.3,
+              "velocity": 0.362552715084914
+            },
+            {
+              "id": "recipe-13",
+              "step": 14,
+              "pitch": 42,
+              "length": 0.3,
+              "velocity": 0.17501195772138217
+            },
+            {
+              "step": 16,
+              "pitch": 36,
+              "velocity": 0.8500000000000001,
+              "length": 0.6,
+              "id": "lean-1-0"
+            },
+            {
+              "step": 18,
+              "pitch": 42,
+              "velocity": 0.22,
+              "length": 0.3,
+              "id": "lean-1-1"
+            },
+            {
+              "step": 18,
+              "pitch": 46,
+              "velocity": 0.28,
+              "length": 0.7,
+              "id": "lean-1-2"
+            },
+            {
+              "step": 20,
+              "pitch": 36,
+              "velocity": 0.78,
+              "length": 0.6,
+              "id": "lean-1-3"
+            },
+            {
+              "step": 20,
+              "pitch": 39,
+              "velocity": 0.62,
+              "length": 0.45,
+              "id": "lean-1-4"
+            },
+            {
+              "step": 22,
+              "pitch": 42,
+              "velocity": 0.22,
+              "length": 0.3,
+              "id": "lean-1-5"
+            },
+            {
+              "step": 24,
+              "pitch": 36,
+              "velocity": 0.78,
+              "length": 0.6,
+              "id": "lean-1-6"
+            },
+            {
+              "step": 26,
+              "pitch": 42,
+              "velocity": 0.22,
+              "length": 0.3,
+              "id": "lean-1-7"
+            },
+            {
+              "step": 26,
+              "pitch": 46,
+              "velocity": 0.28,
+              "length": 0.7,
+              "id": "lean-1-8"
+            },
+            {
+              "step": 28,
+              "pitch": 36,
+              "velocity": 0.78,
+              "length": 0.6,
+              "id": "lean-1-9"
+            },
+            {
+              "step": 28,
+              "pitch": 39,
+              "velocity": 0.62,
+              "length": 0.45,
+              "id": "lean-1-10"
+            },
+            {
+              "step": 30,
+              "pitch": 42,
+              "velocity": 0.22,
+              "length": 0.3,
+              "id": "lean-1-11"
+            },
+            {
+              "step": 32,
+              "pitch": 36,
+              "velocity": 0.8500000000000001,
+              "length": 0.6,
+              "id": "lean-2-0"
+            },
+            {
+              "step": 34,
+              "pitch": 42,
+              "velocity": 0.22,
+              "length": 0.3,
+              "id": "lean-2-1"
+            },
+            {
+              "step": 34,
+              "pitch": 46,
+              "velocity": 0.28,
+              "length": 0.7,
+              "id": "lean-2-2"
+            },
+            {
+              "step": 36,
+              "pitch": 36,
+              "velocity": 0.78,
+              "length": 0.6,
+              "id": "lean-2-3"
+            },
+            {
+              "step": 36,
+              "pitch": 39,
+              "velocity": 0.62,
+              "length": 0.45,
+              "id": "lean-2-4"
+            },
+            {
+              "step": 38,
+              "pitch": 42,
+              "velocity": 0.22,
+              "length": 0.3,
+              "id": "lean-2-5"
+            },
+            {
+              "step": 40,
+              "pitch": 36,
+              "velocity": 0.78,
+              "length": 0.6,
+              "id": "lean-2-6"
+            },
+            {
+              "step": 42,
+              "pitch": 42,
+              "velocity": 0.22,
+              "length": 0.3,
+              "id": "lean-2-7"
+            },
+            {
+              "step": 42,
+              "pitch": 46,
+              "velocity": 0.28,
+              "length": 0.7,
+              "id": "lean-2-8"
+            },
+            {
+              "step": 44,
+              "pitch": 36,
+              "velocity": 0.78,
+              "length": 0.6,
+              "id": "lean-2-9"
+            },
+            {
+              "step": 44,
+              "pitch": 39,
+              "velocity": 0.62,
+              "length": 0.45,
+              "id": "lean-2-10"
+            },
+            {
+              "step": 46,
+              "pitch": 42,
+              "velocity": 0.22,
+              "length": 0.3,
+              "id": "lean-2-11"
+            },
+            {
+              "step": 48,
+              "pitch": 36,
+              "velocity": 0.8500000000000001,
+              "length": 0.6,
+              "id": "lean-3-0"
+            },
+            {
+              "step": 50,
+              "pitch": 42,
+              "velocity": 0.22,
+              "length": 0.3,
+              "id": "lean-3-1"
+            },
+            {
+              "step": 50,
+              "pitch": 46,
+              "velocity": 0.28,
+              "length": 0.7,
+              "id": "lean-3-2"
+            },
+            {
+              "step": 52,
+              "pitch": 36,
+              "velocity": 0.78,
+              "length": 0.6,
+              "id": "lean-3-3"
+            },
+            {
+              "step": 52,
+              "pitch": 39,
+              "velocity": 0.62,
+              "length": 0.45,
+              "id": "lean-3-4"
+            },
+            {
+              "step": 54,
+              "pitch": 42,
+              "velocity": 0.22,
+              "length": 0.3,
+              "id": "lean-3-5"
+            },
+            {
+              "step": 56,
+              "pitch": 36,
+              "velocity": 0.78,
+              "length": 0.6,
+              "id": "lean-3-6"
+            },
+            {
+              "step": 58,
+              "pitch": 42,
+              "velocity": 0.22,
+              "length": 0.3,
+              "id": "lean-3-7"
+            },
+            {
+              "step": 58,
+              "pitch": 46,
+              "velocity": 0.28,
+              "length": 0.7,
+              "id": "lean-3-8"
+            },
+            {
+              "step": 60,
+              "pitch": 36,
+              "velocity": 0.78,
+              "length": 0.6,
+              "id": "lean-3-9"
+            },
+            {
+              "step": 60,
+              "pitch": 39,
+              "velocity": 0.62,
+              "length": 0.45,
+              "id": "lean-3-10"
+            },
+            {
+              "step": 62,
+              "pitch": 42,
+              "velocity": 0.22,
+              "length": 0.3,
+              "id": "lean-3-11"
+            },
+            {
+              "step": 62,
+              "pitch": 45,
+              "velocity": 0.28,
+              "length": 0.4,
+              "id": "lean-3-12"
+            },
+            {
+              "step": 63,
+              "pitch": 45,
+              "velocity": 0.28,
+              "length": 0.4,
+              "id": "lean-3-13"
+            }
+          ]
+        },
+        "song-3-0": {
+          "bars": 4,
+          "notes": [
+            {
+              "step": 0,
+              "pitch": 36,
+              "velocity": 0.8500000000000001,
+              "length": 0.6,
+              "id": "lean-0-0"
+            },
+            {
+              "step": 2,
+              "pitch": 42,
+              "velocity": 0.22,
+              "length": 0.3,
+              "id": "lean-0-1"
+            },
+            {
+              "step": 2,
+              "pitch": 46,
+              "velocity": 0.28,
+              "length": 0.7,
+              "id": "lean-0-2"
+            },
+            {
+              "step": 4,
+              "pitch": 36,
+              "velocity": 0.78,
+              "length": 0.6,
+              "id": "lean-0-3"
+            },
+            {
+              "step": 4,
+              "pitch": 39,
+              "velocity": 0.62,
+              "length": 0.45,
+              "id": "lean-0-4"
+            },
+            {
+              "step": 6,
+              "pitch": 42,
+              "velocity": 0.22,
+              "length": 0.3,
+              "id": "lean-0-5"
+            },
+            {
+              "step": 8,
+              "pitch": 36,
+              "velocity": 0.78,
+              "length": 0.6,
+              "id": "lean-0-6"
+            },
+            {
+              "step": 10,
+              "pitch": 42,
+              "velocity": 0.22,
+              "length": 0.3,
+              "id": "lean-0-7"
+            },
+            {
+              "step": 10,
+              "pitch": 46,
+              "velocity": 0.28,
+              "length": 0.7,
+              "id": "lean-0-8"
+            },
+            {
+              "step": 12,
+              "pitch": 36,
+              "velocity": 0.78,
+              "length": 0.6,
+              "id": "lean-0-9"
+            },
+            {
+              "step": 12,
+              "pitch": 39,
+              "velocity": 0.62,
+              "length": 0.45,
+              "id": "lean-0-10"
+            },
+            {
+              "step": 14,
+              "pitch": 42,
+              "velocity": 0.22,
+              "length": 0.3,
+              "id": "lean-0-11"
+            },
+            {
+              "step": 16,
+              "pitch": 36,
+              "velocity": 0.8500000000000001,
+              "length": 0.6,
+              "id": "lean-1-0"
+            },
+            {
+              "step": 18,
+              "pitch": 42,
+              "velocity": 0.22,
+              "length": 0.3,
+              "id": "lean-1-1"
+            },
+            {
+              "step": 18,
+              "pitch": 46,
+              "velocity": 0.28,
+              "length": 0.7,
+              "id": "lean-1-2"
+            },
+            {
+              "step": 20,
+              "pitch": 36,
+              "velocity": 0.78,
+              "length": 0.6,
+              "id": "lean-1-3"
+            },
+            {
+              "step": 20,
+              "pitch": 39,
+              "velocity": 0.62,
+              "length": 0.45,
+              "id": "lean-1-4"
+            },
+            {
+              "step": 22,
+              "pitch": 42,
+              "velocity": 0.22,
+              "length": 0.3,
+              "id": "lean-1-5"
+            },
+            {
+              "step": 24,
+              "pitch": 36,
+              "velocity": 0.78,
+              "length": 0.6,
+              "id": "lean-1-6"
+            },
+            {
+              "step": 26,
+              "pitch": 42,
+              "velocity": 0.22,
+              "length": 0.3,
+              "id": "lean-1-7"
+            },
+            {
+              "step": 26,
+              "pitch": 46,
+              "velocity": 0.28,
+              "length": 0.7,
+              "id": "lean-1-8"
+            },
+            {
+              "step": 28,
+              "pitch": 36,
+              "velocity": 0.78,
+              "length": 0.6,
+              "id": "lean-1-9"
+            },
+            {
+              "step": 28,
+              "pitch": 39,
+              "velocity": 0.62,
+              "length": 0.45,
+              "id": "lean-1-10"
+            },
+            {
+              "step": 30,
+              "pitch": 42,
+              "velocity": 0.22,
+              "length": 0.3,
+              "id": "lean-1-11"
+            },
+            {
+              "step": 32,
+              "pitch": 36,
+              "velocity": 0.8500000000000001,
+              "length": 0.6,
+              "id": "lean-2-0"
+            },
+            {
+              "step": 34,
+              "pitch": 42,
+              "velocity": 0.22,
+              "length": 0.3,
+              "id": "lean-2-1"
+            },
+            {
+              "step": 34,
+              "pitch": 46,
+              "velocity": 0.28,
+              "length": 0.7,
+              "id": "lean-2-2"
+            },
+            {
+              "step": 36,
+              "pitch": 36,
+              "velocity": 0.78,
+              "length": 0.6,
+              "id": "lean-2-3"
+            },
+            {
+              "step": 36,
+              "pitch": 39,
+              "velocity": 0.62,
+              "length": 0.45,
+              "id": "lean-2-4"
+            },
+            {
+              "step": 38,
+              "pitch": 42,
+              "velocity": 0.22,
+              "length": 0.3,
+              "id": "lean-2-5"
+            },
+            {
+              "step": 40,
+              "pitch": 36,
+              "velocity": 0.78,
+              "length": 0.6,
+              "id": "lean-2-6"
+            },
+            {
+              "step": 42,
+              "pitch": 42,
+              "velocity": 0.22,
+              "length": 0.3,
+              "id": "lean-2-7"
+            },
+            {
+              "step": 42,
+              "pitch": 46,
+              "velocity": 0.28,
+              "length": 0.7,
+              "id": "lean-2-8"
+            },
+            {
+              "step": 44,
+              "pitch": 36,
+              "velocity": 0.78,
+              "length": 0.6,
+              "id": "lean-2-9"
+            },
+            {
+              "step": 44,
+              "pitch": 39,
+              "velocity": 0.62,
+              "length": 0.45,
+              "id": "lean-2-10"
+            },
+            {
+              "step": 46,
+              "pitch": 42,
+              "velocity": 0.22,
+              "length": 0.3,
+              "id": "lean-2-11"
+            },
+            {
+              "step": 48,
+              "pitch": 36,
+              "velocity": 0.8500000000000001,
+              "length": 0.6,
+              "id": "lean-3-0"
+            },
+            {
+              "step": 50,
+              "pitch": 42,
+              "velocity": 0.22,
+              "length": 0.3,
+              "id": "lean-3-1"
+            },
+            {
+              "step": 50,
+              "pitch": 46,
+              "velocity": 0.28,
+              "length": 0.7,
+              "id": "lean-3-2"
+            },
+            {
+              "step": 52,
+              "pitch": 36,
+              "velocity": 0.78,
+              "length": 0.6,
+              "id": "lean-3-3"
+            },
+            {
+              "step": 52,
+              "pitch": 39,
+              "velocity": 0.62,
+              "length": 0.45,
+              "id": "lean-3-4"
+            },
+            {
+              "step": 54,
+              "pitch": 42,
+              "velocity": 0.22,
+              "length": 0.3,
+              "id": "lean-3-5"
+            },
+            {
+              "step": 56,
+              "pitch": 36,
+              "velocity": 0.78,
+              "length": 0.6,
+              "id": "lean-3-6"
+            },
+            {
+              "step": 58,
+              "pitch": 42,
+              "velocity": 0.22,
+              "length": 0.3,
+              "id": "lean-3-7"
+            },
+            {
+              "step": 58,
+              "pitch": 46,
+              "velocity": 0.28,
+              "length": 0.7,
+              "id": "lean-3-8"
+            },
+            {
+              "step": 60,
+              "pitch": 36,
+              "velocity": 0.78,
+              "length": 0.6,
+              "id": "lean-3-9"
+            },
+            {
+              "step": 60,
+              "pitch": 39,
+              "velocity": 0.62,
+              "length": 0.45,
+              "id": "lean-3-10"
+            },
+            {
+              "step": 62,
+              "pitch": 42,
+              "velocity": 0.22,
+              "length": 0.3,
+              "id": "lean-3-11"
+            },
+            {
+              "step": 62,
+              "pitch": 45,
+              "velocity": 0.28,
+              "length": 0.4,
+              "id": "lean-3-12"
+            },
+            {
+              "step": 63,
+              "pitch": 45,
+              "velocity": 0.28,
+              "length": 0.4,
+              "id": "lean-3-13"
+            }
+          ]
+        },
+        "song-4-0": {
+          "bars": 4,
+          "notes": [
+            {
+              "id": "recipe-0",
+              "step": 0,
+              "pitch": 36,
+              "length": 0.7,
+              "velocity": 0.9498052437901139
+            },
+            {
+              "id": "recipe-1",
+              "step": 4,
+              "pitch": 36,
+              "length": 0.7,
+              "velocity": 0.9784087966256082
+            },
+            {
+              "id": "recipe-2",
+              "step": 8,
+              "pitch": 36,
+              "length": 0.7,
+              "velocity": 0.9325395234709862
+            },
+            {
+              "id": "recipe-3",
+              "step": 12,
+              "pitch": 36,
+              "length": 0.7,
+              "velocity": 0.9761644968288088
+            },
+            {
+              "id": "recipe-4",
+              "step": 4,
+              "pitch": 38,
+              "length": 0.55,
+              "velocity": 0.8223850969247759
+            },
+            {
+              "id": "recipe-5",
+              "step": 12,
+              "pitch": 38,
+              "length": 0.55,
+              "velocity": 0.8770110024356647
+            },
+            {
+              "id": "recipe-6",
+              "step": 0,
+              "pitch": 42,
+              "length": 0.3,
+              "velocity": 0.387894158288079
+            },
+            {
+              "id": "recipe-7",
+              "step": 2,
+              "pitch": 42,
+              "length": 0.3,
+              "velocity": 0.18175824781440927
+            },
+            {
+              "id": "recipe-8",
+              "step": 4,
+              "pitch": 42,
+              "length": 0.3,
+              "velocity": 0.4156358598274206
+            },
+            {
+              "id": "recipe-9",
+              "step": 6,
+              "pitch": 42,
+              "length": 0.3,
+              "velocity": 0.17832024055182605
+            },
+            {
+              "id": "recipe-10",
+              "step": 8,
+              "pitch": 42,
+              "length": 0.3,
+              "velocity": 0.4059137984186843
+            },
+            {
+              "id": "recipe-11",
+              "step": 10,
+              "pitch": 42,
+              "length": 0.3,
+              "velocity": 0.18659125375798027
+            },
+            {
+              "id": "recipe-12",
+              "step": 12,
+              "pitch": 42,
+              "length": 0.3,
+              "velocity": 0.39939931749444146
+            },
+            {
+              "id": "recipe-13",
+              "step": 14,
+              "pitch": 42,
+              "length": 0.3,
+              "velocity": 0.20274143504188052
+            },
+            {
+              "step": 16,
+              "pitch": 36,
+              "velocity": 0.8500000000000001,
+              "length": 0.6,
+              "id": "lean-1-0"
+            },
+            {
+              "step": 18,
+              "pitch": 42,
+              "velocity": 0.22,
+              "length": 0.3,
+              "id": "lean-1-1"
+            },
+            {
+              "step": 18,
+              "pitch": 46,
+              "velocity": 0.28,
+              "length": 0.7,
+              "id": "lean-1-2"
+            },
+            {
+              "step": 20,
+              "pitch": 36,
+              "velocity": 0.78,
+              "length": 0.6,
+              "id": "lean-1-3"
+            },
+            {
+              "step": 20,
+              "pitch": 39,
+              "velocity": 0.62,
+              "length": 0.45,
+              "id": "lean-1-4"
+            },
+            {
+              "step": 22,
+              "pitch": 42,
+              "velocity": 0.22,
+              "length": 0.3,
+              "id": "lean-1-5"
+            },
+            {
+              "step": 24,
+              "pitch": 36,
+              "velocity": 0.78,
+              "length": 0.6,
+              "id": "lean-1-6"
+            },
+            {
+              "step": 26,
+              "pitch": 42,
+              "velocity": 0.22,
+              "length": 0.3,
+              "id": "lean-1-7"
+            },
+            {
+              "step": 26,
+              "pitch": 46,
+              "velocity": 0.28,
+              "length": 0.7,
+              "id": "lean-1-8"
+            },
+            {
+              "step": 28,
+              "pitch": 36,
+              "velocity": 0.78,
+              "length": 0.6,
+              "id": "lean-1-9"
+            },
+            {
+              "step": 28,
+              "pitch": 39,
+              "velocity": 0.62,
+              "length": 0.45,
+              "id": "lean-1-10"
+            },
+            {
+              "step": 30,
+              "pitch": 42,
+              "velocity": 0.22,
+              "length": 0.3,
+              "id": "lean-1-11"
+            },
+            {
+              "step": 32,
+              "pitch": 36,
+              "velocity": 0.8500000000000001,
+              "length": 0.6,
+              "id": "lean-2-0"
+            },
+            {
+              "step": 34,
+              "pitch": 42,
+              "velocity": 0.22,
+              "length": 0.3,
+              "id": "lean-2-1"
+            },
+            {
+              "step": 34,
+              "pitch": 46,
+              "velocity": 0.28,
+              "length": 0.7,
+              "id": "lean-2-2"
+            },
+            {
+              "step": 36,
+              "pitch": 36,
+              "velocity": 0.78,
+              "length": 0.6,
+              "id": "lean-2-3"
+            },
+            {
+              "step": 36,
+              "pitch": 39,
+              "velocity": 0.62,
+              "length": 0.45,
+              "id": "lean-2-4"
+            },
+            {
+              "step": 38,
+              "pitch": 42,
+              "velocity": 0.22,
+              "length": 0.3,
+              "id": "lean-2-5"
+            },
+            {
+              "step": 40,
+              "pitch": 36,
+              "velocity": 0.78,
+              "length": 0.6,
+              "id": "lean-2-6"
+            },
+            {
+              "step": 42,
+              "pitch": 42,
+              "velocity": 0.22,
+              "length": 0.3,
+              "id": "lean-2-7"
+            },
+            {
+              "step": 42,
+              "pitch": 46,
+              "velocity": 0.28,
+              "length": 0.7,
+              "id": "lean-2-8"
+            },
+            {
+              "step": 44,
+              "pitch": 36,
+              "velocity": 0.78,
+              "length": 0.6,
+              "id": "lean-2-9"
+            },
+            {
+              "step": 44,
+              "pitch": 39,
+              "velocity": 0.62,
+              "length": 0.45,
+              "id": "lean-2-10"
+            },
+            {
+              "step": 46,
+              "pitch": 42,
+              "velocity": 0.22,
+              "length": 0.3,
+              "id": "lean-2-11"
+            },
+            {
+              "step": 48,
+              "pitch": 36,
+              "velocity": 0.8500000000000001,
+              "length": 0.6,
+              "id": "lean-3-0"
+            },
+            {
+              "step": 50,
+              "pitch": 42,
+              "velocity": 0.22,
+              "length": 0.3,
+              "id": "lean-3-1"
+            },
+            {
+              "step": 50,
+              "pitch": 46,
+              "velocity": 0.28,
+              "length": 0.7,
+              "id": "lean-3-2"
+            },
+            {
+              "step": 52,
+              "pitch": 36,
+              "velocity": 0.78,
+              "length": 0.6,
+              "id": "lean-3-3"
+            },
+            {
+              "step": 52,
+              "pitch": 39,
+              "velocity": 0.62,
+              "length": 0.45,
+              "id": "lean-3-4"
+            },
+            {
+              "step": 54,
+              "pitch": 42,
+              "velocity": 0.22,
+              "length": 0.3,
+              "id": "lean-3-5"
+            },
+            {
+              "step": 56,
+              "pitch": 36,
+              "velocity": 0.78,
+              "length": 0.6,
+              "id": "lean-3-6"
+            },
+            {
+              "step": 58,
+              "pitch": 42,
+              "velocity": 0.22,
+              "length": 0.3,
+              "id": "lean-3-7"
+            },
+            {
+              "step": 58,
+              "pitch": 46,
+              "velocity": 0.28,
+              "length": 0.7,
+              "id": "lean-3-8"
+            },
+            {
+              "step": 60,
+              "pitch": 36,
+              "velocity": 0.78,
+              "length": 0.6,
+              "id": "lean-3-9"
+            },
+            {
+              "step": 60,
+              "pitch": 39,
+              "velocity": 0.62,
+              "length": 0.45,
+              "id": "lean-3-10"
+            },
+            {
+              "step": 62,
+              "pitch": 42,
+              "velocity": 0.22,
+              "length": 0.3,
+              "id": "lean-3-11"
+            }
+          ]
+        },
+        "song-5-0": {
+          "bars": 4,
+          "notes": [
+            {
+              "step": 0,
+              "pitch": 36,
+              "velocity": 0.595,
+              "length": 0.6,
+              "id": "lean-0-0"
+            },
+            {
+              "step": 2,
+              "pitch": 42,
+              "velocity": 0.154,
+              "length": 0.3,
+              "id": "lean-0-1"
+            },
+            {
+              "step": 2,
+              "pitch": 46,
+              "velocity": 0.196,
+              "length": 0.7,
+              "id": "lean-0-2"
+            },
+            {
+              "step": 4,
+              "pitch": 36,
+              "velocity": 0.5459999999999999,
+              "length": 0.6,
+              "id": "lean-0-3"
+            },
+            {
+              "step": 4,
+              "pitch": 39,
+              "velocity": 0.434,
+              "length": 0.45,
+              "id": "lean-0-4"
+            },
+            {
+              "step": 6,
+              "pitch": 42,
+              "velocity": 0.154,
+              "length": 0.3,
+              "id": "lean-0-5"
+            },
+            {
+              "step": 8,
+              "pitch": 36,
+              "velocity": 0.5459999999999999,
+              "length": 0.6,
+              "id": "lean-0-6"
+            },
+            {
+              "step": 10,
+              "pitch": 42,
+              "velocity": 0.154,
+              "length": 0.3,
+              "id": "lean-0-7"
+            },
+            {
+              "step": 10,
+              "pitch": 46,
+              "velocity": 0.196,
+              "length": 0.7,
+              "id": "lean-0-8"
+            },
+            {
+              "step": 12,
+              "pitch": 36,
+              "velocity": 0.5459999999999999,
+              "length": 0.6,
+              "id": "lean-0-9"
+            },
+            {
+              "step": 12,
+              "pitch": 39,
+              "velocity": 0.434,
+              "length": 0.45,
+              "id": "lean-0-10"
+            },
+            {
+              "step": 14,
+              "pitch": 42,
+              "velocity": 0.154,
+              "length": 0.3,
+              "id": "lean-0-11"
+            },
+            {
+              "step": 16,
+              "pitch": 36,
+              "velocity": 0.595,
+              "length": 0.6,
+              "id": "lean-1-0"
+            },
+            {
+              "step": 18,
+              "pitch": 42,
+              "velocity": 0.154,
+              "length": 0.3,
+              "id": "lean-1-1"
+            },
+            {
+              "step": 18,
+              "pitch": 46,
+              "velocity": 0.196,
+              "length": 0.7,
+              "id": "lean-1-2"
+            },
+            {
+              "step": 20,
+              "pitch": 36,
+              "velocity": 0.5459999999999999,
+              "length": 0.6,
+              "id": "lean-1-3"
+            },
+            {
+              "step": 20,
+              "pitch": 39,
+              "velocity": 0.434,
+              "length": 0.45,
+              "id": "lean-1-4"
+            },
+            {
+              "step": 22,
+              "pitch": 42,
+              "velocity": 0.154,
+              "length": 0.3,
+              "id": "lean-1-5"
+            },
+            {
+              "step": 24,
+              "pitch": 36,
+              "velocity": 0.5459999999999999,
+              "length": 0.6,
+              "id": "lean-1-6"
+            },
+            {
+              "step": 26,
+              "pitch": 42,
+              "velocity": 0.154,
+              "length": 0.3,
+              "id": "lean-1-7"
+            },
+            {
+              "step": 26,
+              "pitch": 46,
+              "velocity": 0.196,
+              "length": 0.7,
+              "id": "lean-1-8"
+            },
+            {
+              "step": 28,
+              "pitch": 36,
+              "velocity": 0.5459999999999999,
+              "length": 0.6,
+              "id": "lean-1-9"
+            },
+            {
+              "step": 28,
+              "pitch": 39,
+              "velocity": 0.434,
+              "length": 0.45,
+              "id": "lean-1-10"
+            },
+            {
+              "step": 30,
+              "pitch": 42,
+              "velocity": 0.154,
+              "length": 0.3,
+              "id": "lean-1-11"
+            },
+            {
+              "step": 32,
+              "pitch": 36,
+              "velocity": 0.595,
+              "length": 0.6,
+              "id": "lean-2-0"
+            },
+            {
+              "step": 34,
+              "pitch": 42,
+              "velocity": 0.154,
+              "length": 0.3,
+              "id": "lean-2-1"
+            },
+            {
+              "step": 34,
+              "pitch": 46,
+              "velocity": 0.196,
+              "length": 0.7,
+              "id": "lean-2-2"
+            },
+            {
+              "step": 36,
+              "pitch": 36,
+              "velocity": 0.5459999999999999,
+              "length": 0.6,
+              "id": "lean-2-3"
+            },
+            {
+              "step": 36,
+              "pitch": 39,
+              "velocity": 0.434,
+              "length": 0.45,
+              "id": "lean-2-4"
+            },
+            {
+              "step": 38,
+              "pitch": 42,
+              "velocity": 0.154,
+              "length": 0.3,
+              "id": "lean-2-5"
+            },
+            {
+              "step": 40,
+              "pitch": 36,
+              "velocity": 0.5459999999999999,
+              "length": 0.6,
+              "id": "lean-2-6"
+            },
+            {
+              "step": 42,
+              "pitch": 42,
+              "velocity": 0.154,
+              "length": 0.3,
+              "id": "lean-2-7"
+            },
+            {
+              "step": 42,
+              "pitch": 46,
+              "velocity": 0.196,
+              "length": 0.7,
+              "id": "lean-2-8"
+            },
+            {
+              "step": 44,
+              "pitch": 36,
+              "velocity": 0.5459999999999999,
+              "length": 0.6,
+              "id": "lean-2-9"
+            },
+            {
+              "step": 44,
+              "pitch": 39,
+              "velocity": 0.434,
+              "length": 0.45,
+              "id": "lean-2-10"
+            },
+            {
+              "step": 46,
+              "pitch": 42,
+              "velocity": 0.154,
+              "length": 0.3,
+              "id": "lean-2-11"
+            },
+            {
+              "step": 48,
+              "pitch": 36,
+              "velocity": 0.595,
+              "length": 0.6,
+              "id": "lean-3-0"
+            },
+            {
+              "step": 50,
+              "pitch": 42,
+              "velocity": 0.154,
+              "length": 0.3,
+              "id": "lean-3-1"
+            },
+            {
+              "step": 50,
+              "pitch": 46,
+              "velocity": 0.196,
+              "length": 0.7,
+              "id": "lean-3-2"
+            },
+            {
+              "step": 52,
+              "pitch": 36,
+              "velocity": 0.5459999999999999,
+              "length": 0.6,
+              "id": "lean-3-3"
+            },
+            {
+              "step": 52,
+              "pitch": 39,
+              "velocity": 0.434,
+              "length": 0.45,
+              "id": "lean-3-4"
+            },
+            {
+              "step": 54,
+              "pitch": 42,
+              "velocity": 0.154,
+              "length": 0.3,
+              "id": "lean-3-5"
+            },
+            {
+              "step": 56,
+              "pitch": 36,
+              "velocity": 0.5459999999999999,
+              "length": 0.6,
+              "id": "lean-3-6"
+            },
+            {
+              "step": 58,
+              "pitch": 42,
+              "velocity": 0.154,
+              "length": 0.3,
+              "id": "lean-3-7"
+            },
+            {
+              "step": 58,
+              "pitch": 46,
+              "velocity": 0.196,
+              "length": 0.7,
+              "id": "lean-3-8"
+            },
+            {
+              "step": 60,
+              "pitch": 36,
+              "velocity": 0.5459999999999999,
+              "length": 0.6,
+              "id": "lean-3-9"
+            },
+            {
+              "step": 60,
+              "pitch": 39,
+              "velocity": 0.434,
+              "length": 0.45,
+              "id": "lean-3-10"
+            },
+            {
+              "step": 62,
+              "pitch": 42,
+              "velocity": 0.154,
+              "length": 0.3,
+              "id": "lean-3-11"
+            },
+            {
+              "step": 62,
+              "pitch": 45,
+              "velocity": 0.196,
+              "length": 0.4,
+              "id": "lean-3-12"
+            },
+            {
+              "step": 63,
+              "pitch": 45,
+              "velocity": 0.196,
+              "length": 0.4,
+              "id": "lean-3-13"
+            }
+          ]
+        }
+      },
+      "enabled": {
+        "song-0-0": false,
+        "song-1-0": true,
+        "song-2-0": true,
+        "song-3-0": true,
+        "song-4-0": true,
+        "song-5-0": true
+      },
+      "drumSettings": {
+        "kit": "electronic",
+        "weight": 0.5,
+        "brightness": 0.5,
+        "decay": 0.5
+      }
+    }
+  ],
+  "library": [],
+  "notes": "",
+  "createdBy": "Jago Music + SFX Studio",
+  "fadeIn": 0,
+  "fadeOut": 0,
+  "songRecipe": {
+    "mood": "city",
+    "seed": "jago-study-afterglow-drive",
+    "length": 24,
+    "shape": "loop",
+    "influence": "house",
+    "influenceStrength": 0.9,
+    "sceneUse": "visuals",
+    "directionBass": true,
+    "directionSounds": true,
+    "directionPace": true,
+    "drumKit": "auto",
+    "busyness": 0.518,
+    "musicalFit": "balanced",
+    "performance": "natural",
+    "approach": "arrangement",
+    "groove": "straight",
+    "bass": "pulse",
+    "harmony": "pulsed",
+    "melody": "answering",
+    "palette": "kinetic",
+    "tempoTarget": 120,
+    "contrast": 0.8,
+    "structure": "verse",
+    "coordinateParts": false,
+    "pace": "natural",
+    "drums": 0.5,
+    "roles": [
+      "melody",
+      "harmony",
+      "bass",
+      "texture",
+      "rhythm"
+    ],
+    "development": 0.45,
+    "engineVersion": "jago-bank-1",
+    "approachChoice": "arrangement",
+    "directionVariation": 1,
+    "directionBars": 17,
+    "directionInputs": {
+      "busyness": 0.5
+    }
+  },
+  "soundFolders": [],
+  "refinement": {
+    "version": 1,
+    "performance": "natural",
+    "seed": "jago-study-afterglow-drive"
+  },
+  "musicalFit": {
+    "version": 1,
+    "mode": "balanced"
+  }
+}

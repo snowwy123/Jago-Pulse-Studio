@@ -96,9 +96,9 @@
           "end": 1,
           "keys": null,
           "coverage": "frame",
-          "density": 0.10244399999999998,
+          "density": 0.10694399999999998,
           "detail": 0.514575,
-          "flow": 0.4348119999999999,
+          "flow": 0.46631199999999995,
           "reactTarget": "flow",
           "release": 0.3,
           "anticipation": 0,
@@ -125,13 +125,13 @@
           "localMusic": true,
           "musicBoost": 1,
           "drift": {
-            "mode": "breathe",
+            "mode": "none",
             "angle": 180,
             "rate": 0.02,
             "amount": 0.08,
             "continuous": true
           },
-          "responseReason": "Gentle bass-led changes preserve the organic movement."
+          "responseReason": "The family supplies its own characteristic animation. Add drift separately if wanted."
         },
         {
           "id": "s0-title",
@@ -180,7 +180,7 @@
           "secondaryAmount": 0.2,
           "localMusic": true,
           "musicBoost": 1,
-          "responseReason": "Gentle bass-led changes preserve the organic movement."
+          "responseReason": "The family supplies its own characteristic animation. Add drift separately if wanted."
         },
         {
           "id": "s0-label",
@@ -229,7 +229,7 @@
           "secondaryAmount": 0.2,
           "localMusic": true,
           "musicBoost": 1,
-          "responseReason": "Gentle bass-led changes preserve the organic movement."
+          "responseReason": "The family supplies its own characteristic animation. Add drift separately if wanted."
         }
       ],
       "recipe": "Curl streams",
@@ -270,9 +270,9 @@
           "end": 1,
           "keys": null,
           "coverage": "frame",
-          "density": 0.5619274999999999,
+          "density": 0.5769275,
           "detail": 0.6839,
-          "flow": 0.60429075,
+          "flow": 0.63579075,
           "reactTarget": "flow",
           "release": 0.3,
           "anticipation": 0,
@@ -299,13 +299,13 @@
           "localMusic": true,
           "musicBoost": 1,
           "drift": {
-            "mode": "breathe",
+            "mode": "none",
             "angle": 180,
             "rate": 0.02,
             "amount": 0.08,
             "continuous": true
           },
-          "responseReason": "Gentle bass-led changes preserve the organic movement."
+          "responseReason": "The family supplies its own characteristic animation. Add drift separately if wanted."
         },
         {
           "id": "s1-title",
@@ -354,7 +354,7 @@
           "secondaryAmount": 0.2,
           "localMusic": true,
           "musicBoost": 1,
-          "responseReason": "Gentle bass-led changes preserve the organic movement."
+          "responseReason": "The family supplies its own characteristic animation. Add drift separately if wanted."
         },
         {
           "id": "s1-label",
@@ -403,7 +403,7 @@
           "secondaryAmount": 0.2,
           "localMusic": true,
           "musicBoost": 1,
-          "responseReason": "Gentle bass-led changes preserve the organic movement."
+          "responseReason": "The family supplies its own characteristic animation. Add drift separately if wanted."
         }
       ],
       "recipe": "Curl streams",
@@ -444,9 +444,9 @@
           "end": 1,
           "keys": null,
           "coverage": "frame",
-          "density": 0.679055,
+          "density": 0.694055,
           "detail": 0.611725,
-          "flow": 0.5196065,
+          "flow": 0.5511064999999999,
           "reactTarget": "flow",
           "release": 0.3,
           "anticipation": 0,
@@ -473,13 +473,13 @@
           "localMusic": true,
           "musicBoost": 1,
           "drift": {
-            "mode": "breathe",
+            "mode": "none",
             "angle": 180,
             "rate": 0.02,
             "amount": 0.08,
             "continuous": true
           },
-          "responseReason": "Gentle bass-led changes preserve the organic movement."
+          "responseReason": "The family supplies its own characteristic animation. Add drift separately if wanted."
         },
         {
           "id": "s2-title",
@@ -528,7 +528,7 @@
           "secondaryAmount": 0.2,
           "localMusic": true,
           "musicBoost": 1,
-          "responseReason": "Gentle bass-led changes preserve the organic movement."
+          "responseReason": "The family supplies its own characteristic animation. Add drift separately if wanted."
         },
         {
           "id": "s2-label",
@@ -577,7 +577,7 @@
           "secondaryAmount": 0.2,
           "localMusic": true,
           "musicBoost": 1,
-          "responseReason": "Gentle bass-led changes preserve the organic movement."
+          "responseReason": "The family supplies its own characteristic animation. Add drift separately if wanted."
         }
       ],
       "recipe": "Curl streams",

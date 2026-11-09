@@ -1,0 +1,42 @@
+{
+  "format": "jago-sound-pulse-demo",
+  "licence": "Original Jago synthesis; supplied for personal and commercial creative use under the suite licence.",
+  "examples": [
+    {
+      "id": "afterglow-drive",
+      "name": "Afterglow drive",
+      "duration": 24,
+      "tempo": 120,
+      "sampleRate": 44100,
+      "channels": 2,
+      "metrics": {
+        "peak": 0.30535921454429626,
+        "rms": 0.042464155755079225,
+        "seconds": 24,
+        "frames": 1058400
+      },
+      "sections": 6,
+      "cues": 136,
+      "scenes": 10,
+      "source": "Original Sound example synthesis; authored sections and actual scheduled drum events"
+    },
+    {
+      "id": "window-seat",
+      "name": "Window seat",
+      "duration": 23.132530120481928,
+      "tempo": 83,
+      "sampleRate": 44100,
+      "channels": 2,
+      "metrics": {
+        "peak": 0.33458882570266724,
+        "rms": 0.02943897454640424,
+        "seconds": 23.132539682539683,
+        "frames": 1020145
+      },
+      "sections": 6,
+      "cues": 111,
+      "scenes": 6,
+      "source": "Original Sound example synthesis; authored sections and actual scheduled drum events"
+    }
+  ]
+}

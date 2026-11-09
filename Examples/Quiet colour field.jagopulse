@@ -136,6 +136,9 @@
           "localMusic": true,
           "musicBoost": 1,
           "responseReason": "Let sustained energy move the light gradually.",
+          "aboveVisual": false,
+          "imageSampling": "smooth",
+          "cellTreatment": "faceted",
           "gradient": 0,
           "perspectiveX": 0.5,
           "perspectiveY": 0.5,
@@ -153,7 +156,8 @@
       "recipe": "Light trails",
       "familyVariant": "structured",
       "lookName": "Electric threads",
-      "filmRole": "opening"
+      "filmRole": "opening",
+      "overlays": []
     },
     {
       "id": "scene-1",
@@ -224,6 +228,9 @@
           "localMusic": true,
           "musicBoost": 1,
           "responseReason": "Let sustained energy move the light gradually.",
+          "aboveVisual": false,
+          "imageSampling": "smooth",
+          "cellTreatment": "faceted",
           "gradient": 0,
           "perspectiveX": 0.5,
           "perspectiveY": 0.5,
@@ -241,7 +248,8 @@
       "recipe": "Drifting haze",
       "familyVariant": "layered",
       "lookName": "Colour mist",
-      "filmRole": "build"
+      "filmRole": "build",
+      "overlays": []
     },
     {
       "id": "scene-2",
@@ -311,6 +319,9 @@
           "localMusic": true,
           "musicBoost": 1,
           "responseReason": "Perspective reads well with flow and a gently travelling focal point.",
+          "aboveVisual": false,
+          "imageSampling": "smooth",
+          "cellTreatment": "faceted",
           "gradient": 0,
           "perspectiveX": 0.5,
           "perspectiveY": 0.5,
@@ -328,7 +339,8 @@
       "recipe": "Prismatic beams",
       "familyVariant": "layered",
       "lookName": "Interlaced rays",
-      "filmRole": "build"
+      "filmRole": "build",
+      "overlays": []
     },
     {
       "id": "scene-3",
@@ -399,6 +411,9 @@
           "localMusic": true,
           "musicBoost": 1,
           "responseReason": "Let sustained energy move the light gradually.",
+          "aboveVisual": false,
+          "imageSampling": "smooth",
+          "cellTreatment": "faceted",
           "gradient": 0,
           "perspectiveX": 0.5,
           "perspectiveY": 0.5,
@@ -416,7 +431,8 @@
       "recipe": "Light leaks",
       "familyVariant": "soft",
       "lookName": "Warm exposure",
-      "filmRole": "build"
+      "filmRole": "build",
+      "overlays": []
     },
     {
       "id": "scene-4",
@@ -487,6 +503,9 @@
           "localMusic": true,
           "musicBoost": 1,
           "responseReason": "Let sustained energy move the light gradually.",
+          "aboveVisual": false,
+          "imageSampling": "smooth",
+          "cellTreatment": "faceted",
           "gradient": 0,
           "perspectiveX": 0.5,
           "perspectiveY": 0.5,
@@ -504,7 +523,8 @@
       "recipe": "Drifting haze",
       "familyVariant": "soft",
       "lookName": "Low cloud",
-      "filmRole": "breathing"
+      "filmRole": "breathing",
+      "overlays": []
     },
     {
       "id": "scene-5",
@@ -575,6 +595,9 @@
           "localMusic": true,
           "musicBoost": 1,
           "responseReason": "Let sustained energy move the light gradually.",
+          "aboveVisual": false,
+          "imageSampling": "smooth",
+          "cellTreatment": "faceted",
           "gradient": 0,
           "perspectiveX": 0.5,
           "perspectiveY": 0.5,
@@ -592,7 +615,8 @@
       "recipe": "Photon filaments",
       "familyVariant": "structured",
       "lookName": "Arc discharge",
-      "filmRole": "flow"
+      "filmRole": "flow",
+      "overlays": []
     },
     {
       "id": "scene-6",
@@ -663,6 +687,9 @@
           "localMusic": true,
           "musicBoost": 1,
           "responseReason": "Let sustained energy move the light gradually.",
+          "aboveVisual": false,
+          "imageSampling": "smooth",
+          "cellTreatment": "faceted",
           "gradient": 0,
           "perspectiveX": 0.5,
           "perspectiveY": 0.5,
@@ -680,7 +707,8 @@
       "recipe": "Aurora curtains",
       "familyVariant": "structured",
       "lookName": "Solar folds",
-      "filmRole": "peak"
+      "filmRole": "peak",
+      "overlays": []
     },
     {
       "id": "scene-7",
@@ -751,6 +779,9 @@
           "musicBoost": 1,
           "responseReason": "Let sustained energy move the light gradually.",
           "filmSettle": true,
+          "aboveVisual": false,
+          "imageSampling": "smooth",
+          "cellTreatment": "faceted",
           "gradient": 0,
           "perspectiveX": 0.5,
           "perspectiveY": 0.5,
@@ -768,7 +799,8 @@
       "recipe": "Soft light",
       "familyVariant": "layered",
       "lookName": "Luminous rings",
-      "filmRole": "ending"
+      "filmRole": "ending",
+      "overlays": []
     }
   ],
   "familyScope": "collection",
@@ -807,7 +839,16 @@
       "ending"
     ]
   },
+  "grade": {
+    "enabled": true,
+    "exposure": 0,
+    "brightness": 1,
+    "contrast": 1,
+    "saturation": 1,
+    "highlights": 0
+  },
   "gain": 0.8,
+  "overlays": [],
   "markers": [],
   "cycleMode": "off",
   "cycleTarget": "artwork",

@@ -87,8 +87,8 @@
           "opacity": 1,
           "motion": "still",
           "amount": 0.5792400587815791,
-          "react": "accent",
-          "reactAmount": 0.22749999999999998,
+          "react": "bass",
+          "reactAmount": 0.26,
           "blend": "source-over",
           "mask": "none",
           "fit": "contain",
@@ -96,10 +96,10 @@
           "end": 1,
           "keys": null,
           "coverage": "frame",
-          "density": 0.4368949999999999,
+          "density": 0.42189499999999996,
           "detail": 0.450525,
-          "flow": 0.4659305,
-          "reactTarget": "rotation",
+          "flow": 0.4764304999999999,
+          "reactTarget": "flow",
           "release": 0.3,
           "anticipation": 0,
           "responseGate": "all",
@@ -125,13 +125,13 @@
           "localMusic": true,
           "musicBoost": 1,
           "drift": {
-            "mode": "rotate",
+            "mode": "none",
             "angle": 180,
             "rate": 0.02,
             "amount": 0.08,
             "continuous": true
           },
-          "responseReason": "Geometric accents work with small rotational changes."
+          "responseReason": "The family supplies its own characteristic animation. Add drift separately if wanted."
         },
         {
           "id": "s0-title",
@@ -180,7 +180,7 @@
           "secondaryAmount": 0.2,
           "localMusic": true,
           "musicBoost": 1,
-          "responseReason": "Geometric accents work with small rotational changes."
+          "responseReason": "The family supplies its own characteristic animation. Add drift separately if wanted."
         },
         {
           "id": "s0-label",
@@ -229,7 +229,7 @@
           "secondaryAmount": 0.2,
           "localMusic": true,
           "musicBoost": 1,
-          "responseReason": "Geometric accents work with small rotational changes."
+          "responseReason": "The family supplies its own characteristic animation. Add drift separately if wanted."
         }
       ],
       "recipe": "Kaleidoscope",
@@ -261,8 +261,8 @@
           "opacity": 1,
           "motion": "still",
           "amount": 0.46969257104210554,
-          "react": "accent",
-          "reactAmount": 0.22749999999999998,
+          "react": "bass",
+          "reactAmount": 0.26,
           "blend": "source-over",
           "mask": "none",
           "fit": "contain",
@@ -270,10 +270,10 @@
           "end": 1,
           "keys": null,
           "coverage": "frame",
-          "density": 0.5093624999999999,
+          "density": 0.4943625,
           "detail": 0.68845,
-          "flow": 0.6285492499999998,
-          "reactTarget": "rotation",
+          "flow": 0.6390492499999999,
+          "reactTarget": "flow",
           "release": 0.3,
           "anticipation": 0,
           "responseGate": "all",
@@ -299,13 +299,13 @@
           "localMusic": true,
           "musicBoost": 1,
           "drift": {
-            "mode": "rotate",
+            "mode": "none",
             "angle": 180,
             "rate": 0.02,
             "amount": 0.08,
             "continuous": true
           },
-          "responseReason": "Geometric accents work with small rotational changes."
+          "responseReason": "The family supplies its own characteristic animation. Add drift separately if wanted."
         },
         {
           "id": "s1-title",
@@ -354,7 +354,7 @@
           "secondaryAmount": 0.2,
           "localMusic": true,
           "musicBoost": 1,
-          "responseReason": "Geometric accents work with small rotational changes."
+          "responseReason": "The family supplies its own characteristic animation. Add drift separately if wanted."
         },
         {
           "id": "s1-label",
@@ -403,7 +403,7 @@
           "secondaryAmount": 0.2,
           "localMusic": true,
           "musicBoost": 1,
-          "responseReason": "Geometric accents work with small rotational changes."
+          "responseReason": "The family supplies its own characteristic animation. Add drift separately if wanted."
         }
       ],
       "recipe": "Kaleidoscope",
@@ -435,8 +435,8 @@
           "opacity": 1,
           "motion": "still",
           "amount": 0.4664426349103451,
-          "react": "accent",
-          "reactAmount": 0.06824999999999999,
+          "react": "bass",
+          "reactAmount": 0.07800000000000001,
           "blend": "source-over",
           "mask": "none",
           "fit": "contain",
@@ -444,10 +444,10 @@
           "end": 1,
           "keys": null,
           "coverage": "frame",
-          "density": 0.215142,
+          "density": 0.210642,
           "detail": 0.6855749999999999,
-          "flow": 0.5339179999999999,
-          "reactTarget": "rotation",
+          "flow": 0.544418,
+          "reactTarget": "flow",
           "release": 0.3,
           "anticipation": 0,
           "responseGate": "all",
@@ -473,13 +473,13 @@
           "localMusic": true,
           "musicBoost": 1,
           "drift": {
-            "mode": "rotate",
+            "mode": "none",
             "angle": 180,
             "rate": 0.02,
             "amount": 0.08,
             "continuous": true
           },
-          "responseReason": "Geometric accents work with small rotational changes."
+          "responseReason": "The family supplies its own characteristic animation. Add drift separately if wanted."
         },
         {
           "id": "s2-title",
@@ -528,7 +528,7 @@
           "secondaryAmount": 0.2,
           "localMusic": true,
           "musicBoost": 1,
-          "responseReason": "Geometric accents work with small rotational changes."
+          "responseReason": "The family supplies its own characteristic animation. Add drift separately if wanted."
         },
         {
           "id": "s2-label",
@@ -577,7 +577,7 @@
           "secondaryAmount": 0.2,
           "localMusic": true,
           "musicBoost": 1,
-          "responseReason": "Geometric accents work with small rotational changes."
+          "responseReason": "The family supplies its own characteristic animation. Add drift separately if wanted."
         }
       ],
       "recipe": "Kaleidoscope",

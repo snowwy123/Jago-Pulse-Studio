@@ -137,6 +137,9 @@
           "localMusic": true,
           "musicBoost": 1,
           "responseReason": "Let sustained energy move the light gradually.",
+          "aboveVisual": false,
+          "imageSampling": "smooth",
+          "cellTreatment": "faceted",
           "gradient": 0,
           "perspectiveX": 0.5,
           "perspectiveY": 0.5,
@@ -156,7 +159,8 @@
       "lookName": "Solar folds",
       "filmRole": "opening",
       "styleDirection": "After hours",
-      "compositionNote": "Light develops gradually; quieter passages leave space."
+      "compositionNote": "Light develops gradually; quieter passages leave space.",
+      "overlays": []
     },
     {
       "id": "scene-1",
@@ -191,9 +195,9 @@
           "end": 1,
           "keys": null,
           "coverage": "frame",
-          "density": 0.25893878112923574,
+          "density": 0.2615885484563661,
           "detail": 0.6238,
-          "flow": 0.58947125,
+          "flow": 0.61197125,
           "reactTarget": "flow",
           "release": 0.3,
           "anticipation": 0,
@@ -226,7 +230,10 @@
           },
           "localMusic": true,
           "musicBoost": 1,
-          "responseReason": "Gentle bass-led changes preserve the organic movement.",
+          "responseReason": "The family supplies its own characteristic animation. Add drift separately if wanted.",
+          "aboveVisual": false,
+          "imageSampling": "smooth",
+          "cellTreatment": "faceted",
           "gradient": 0,
           "perspectiveX": 0.5,
           "perspectiveY": 0.5,
@@ -246,7 +253,8 @@
       "lookName": "Braided helix",
       "filmRole": "build",
       "styleDirection": "After hours",
-      "compositionNote": "Light develops gradually; quieter passages leave space."
+      "compositionNote": "Light develops gradually; quieter passages leave space.",
+      "overlays": []
     },
     {
       "id": "scene-2",
@@ -317,6 +325,9 @@
           "localMusic": true,
           "musicBoost": 1,
           "responseReason": "Let sustained energy move the light gradually.",
+          "aboveVisual": false,
+          "imageSampling": "smooth",
+          "cellTreatment": "faceted",
           "gradient": 0,
           "perspectiveX": 0.5,
           "perspectiveY": 0.5,
@@ -336,7 +347,8 @@
       "lookName": "Double exposure",
       "filmRole": "build",
       "styleDirection": "After hours",
-      "compositionNote": "Light develops gradually; quieter passages leave space."
+      "compositionNote": "Light develops gradually; quieter passages leave space.",
+      "overlays": []
     },
     {
       "id": "scene-3",
@@ -407,6 +419,9 @@
           "localMusic": true,
           "musicBoost": 1,
           "responseReason": "Let sustained energy move the light gradually.",
+          "aboveVisual": false,
+          "imageSampling": "smooth",
+          "cellTreatment": "faceted",
           "gradient": 0,
           "perspectiveX": 0.5,
           "perspectiveY": 0.5,
@@ -426,7 +441,8 @@
       "lookName": "Northern threads",
       "filmRole": "breathing",
       "styleDirection": "After hours",
-      "compositionNote": "Light develops gradually; quieter passages leave space."
+      "compositionNote": "Light develops gradually; quieter passages leave space.",
+      "overlays": []
     },
     {
       "id": "scene-4",
@@ -461,9 +477,9 @@
           "end": 1,
           "keys": null,
           "coverage": "frame",
-          "density": 0.4448823946373727,
+          "density": 0.4513984608626671,
           "detail": 0.633775,
-          "flow": 0.622095,
+          "flow": 0.6479699999999999,
           "reactTarget": "flow",
           "release": 0.3,
           "anticipation": 0,
@@ -496,7 +512,10 @@
           },
           "localMusic": true,
           "musicBoost": 1,
-          "responseReason": "Gentle bass-led changes preserve the organic movement.",
+          "responseReason": "The family supplies its own characteristic animation. Add drift separately if wanted.",
+          "aboveVisual": false,
+          "imageSampling": "smooth",
+          "cellTreatment": "faceted",
           "gradient": 0,
           "perspectiveX": 0.5,
           "perspectiveY": 0.5,
@@ -516,7 +535,8 @@
       "lookName": "Braided helix",
       "filmRole": "peak",
       "styleDirection": "After hours",
-      "compositionNote": "Light develops gradually; quieter passages leave space."
+      "compositionNote": "Light develops gradually; quieter passages leave space.",
+      "overlays": []
     },
     {
       "id": "scene-5",
@@ -588,6 +608,9 @@
           "musicBoost": 1,
           "responseReason": "Let sustained energy move the light gradually.",
           "filmSettle": true,
+          "aboveVisual": false,
+          "imageSampling": "smooth",
+          "cellTreatment": "faceted",
           "gradient": 0,
           "perspectiveX": 0.5,
           "perspectiveY": 0.5,
@@ -607,7 +630,8 @@
       "lookName": "Veil",
       "filmRole": "ending",
       "styleDirection": "After hours",
-      "compositionNote": "Light develops gradually; quieter passages leave space."
+      "compositionNote": "Light develops gradually; quieter passages leave space.",
+      "overlays": []
     }
   ],
   "artDirection": "night",
@@ -665,7 +689,16 @@
       "ending"
     ]
   },
+  "grade": {
+    "enabled": true,
+    "exposure": 0,
+    "brightness": 1,
+    "contrast": 1,
+    "saturation": 1,
+    "highlights": 0
+  },
   "gain": 0.8,
+  "overlays": [],
   "markers": [],
   "cycleTarget": "artwork",
   "cyclePeriod": 18,

@@ -87,8 +87,8 @@
           "opacity": 1,
           "motion": "still",
           "amount": 0.20444247336126864,
-          "react": "energy",
-          "reactAmount": 0.29250000000000004,
+          "react": "bass",
+          "reactAmount": 0.26,
           "blend": "source-over",
           "mask": "none",
           "fit": "contain",
@@ -96,10 +96,10 @@
           "end": 1,
           "keys": null,
           "coverage": "frame",
-          "density": 0.4463825,
+          "density": 0.4163825,
           "detail": 0.38245,
           "flow": 0.42060725,
-          "reactTarget": "speed",
+          "reactTarget": "flow",
           "release": 0.3,
           "anticipation": 0,
           "responseGate": "all",
@@ -131,7 +131,7 @@
             "amount": 0.08,
             "continuous": true
           },
-          "responseReason": "Let the signal visual do the work, with restrained extra movement."
+          "responseReason": "The family supplies its own characteristic animation. Add drift separately if wanted."
         },
         {
           "id": "s0-title",
@@ -180,7 +180,7 @@
           "secondaryAmount": 0.2,
           "localMusic": true,
           "musicBoost": 1,
-          "responseReason": "Let the signal visual do the work, with restrained extra movement."
+          "responseReason": "The family supplies its own characteristic animation. Add drift separately if wanted."
         },
         {
           "id": "s0-label",
@@ -229,7 +229,7 @@
           "secondaryAmount": 0.2,
           "localMusic": true,
           "musicBoost": 1,
-          "responseReason": "Let the signal visual do the work, with restrained extra movement."
+          "responseReason": "The family supplies its own characteristic animation. Add drift separately if wanted."
         }
       ],
       "recipe": "Waveform ribbons",
@@ -261,8 +261,8 @@
           "opacity": 1,
           "motion": "still",
           "amount": 0.3628110737539828,
-          "react": "energy",
-          "reactAmount": 0.29250000000000004,
+          "react": "bass",
+          "reactAmount": 0.26,
           "blend": "source-over",
           "mask": "none",
           "fit": "contain",
@@ -270,10 +270,10 @@
           "end": 1,
           "keys": null,
           "coverage": "frame",
-          "density": 0.637675,
+          "density": 0.607675,
           "detail": 0.767725,
           "flow": 0.6989884999999999,
-          "reactTarget": "speed",
+          "reactTarget": "flow",
           "release": 0.3,
           "anticipation": 0,
           "responseGate": "all",
@@ -305,7 +305,7 @@
             "amount": 0.08,
             "continuous": true
           },
-          "responseReason": "Let the signal visual do the work, with restrained extra movement."
+          "responseReason": "The family supplies its own characteristic animation. Add drift separately if wanted."
         },
         {
           "id": "s1-title",
@@ -354,7 +354,7 @@
           "secondaryAmount": 0.2,
           "localMusic": true,
           "musicBoost": 1,
-          "responseReason": "Let the signal visual do the work, with restrained extra movement."
+          "responseReason": "The family supplies its own characteristic animation. Add drift separately if wanted."
         },
         {
           "id": "s1-label",
@@ -403,7 +403,7 @@
           "secondaryAmount": 0.2,
           "localMusic": true,
           "musicBoost": 1,
-          "responseReason": "Let the signal visual do the work, with restrained extra movement."
+          "responseReason": "The family supplies its own characteristic animation. Add drift separately if wanted."
         }
       ],
       "recipe": "Waveform ribbons",
@@ -435,8 +435,8 @@
           "opacity": 1,
           "motion": "still",
           "amount": 0.34589583016932013,
-          "react": "energy",
-          "reactAmount": 0.29250000000000004,
+          "react": "bass",
+          "reactAmount": 0.26,
           "blend": "source-over",
           "mask": "none",
           "fit": "contain",
@@ -444,10 +444,10 @@
           "end": 1,
           "keys": null,
           "coverage": "frame",
-          "density": 0.7501475,
+          "density": 0.7201474999999999,
           "detail": 0.6034999999999999,
           "flow": 0.5709147499999999,
-          "reactTarget": "speed",
+          "reactTarget": "flow",
           "release": 0.3,
           "anticipation": 0,
           "responseGate": "all",
@@ -479,7 +479,7 @@
             "amount": 0.08,
             "continuous": true
           },
-          "responseReason": "Let the signal visual do the work, with restrained extra movement."
+          "responseReason": "The family supplies its own characteristic animation. Add drift separately if wanted."
         },
         {
           "id": "s2-title",
@@ -528,7 +528,7 @@
           "secondaryAmount": 0.2,
           "localMusic": true,
           "musicBoost": 1,
-          "responseReason": "Let the signal visual do the work, with restrained extra movement."
+          "responseReason": "The family supplies its own characteristic animation. Add drift separately if wanted."
         },
         {
           "id": "s2-label",
@@ -577,7 +577,7 @@
           "secondaryAmount": 0.2,
           "localMusic": true,
           "musicBoost": 1,
-          "responseReason": "Let the signal visual do the work, with restrained extra movement."
+          "responseReason": "The family supplies its own characteristic animation. Add drift separately if wanted."
         }
       ],
       "recipe": "Waveform ribbons",

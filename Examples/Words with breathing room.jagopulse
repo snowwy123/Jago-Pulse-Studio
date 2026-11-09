@@ -125,6 +125,9 @@
           "localMusic": true,
           "musicBoost": 1,
           "responseReason": "Keep words readable; light accents instead of heavy bounce.",
+          "aboveVisual": false,
+          "imageSampling": "smooth",
+          "cellTreatment": "faceted",
           "substyle": "auto",
           "gradient": 0,
           "depth": 0.5,
@@ -189,6 +192,9 @@
           "localMusic": true,
           "musicBoost": 1,
           "responseReason": "Keep words readable; light accents instead of heavy bounce.",
+          "aboveVisual": false,
+          "imageSampling": "smooth",
+          "cellTreatment": "faceted",
           "substyle": "auto",
           "gradient": 0,
           "depth": 0.5,
@@ -209,7 +215,8 @@
       "recipe": "Typographic blocks",
       "familyVariant": "soft",
       "lookName": "Type stack",
-      "filmRole": "opening"
+      "filmRole": "opening",
+      "overlays": []
     },
     {
       "id": "scene-1",
@@ -279,6 +286,9 @@
             "continuous": true
           },
           "responseReason": "Keep words readable; light accents instead of heavy bounce.",
+          "aboveVisual": false,
+          "imageSampling": "smooth",
+          "cellTreatment": "faceted",
           "gradient": 0,
           "perspectiveX": 0.5,
           "perspectiveY": 0.5,
@@ -342,6 +352,9 @@
           "localMusic": true,
           "musicBoost": 1,
           "responseReason": "Keep words readable; light accents instead of heavy bounce.",
+          "aboveVisual": false,
+          "imageSampling": "smooth",
+          "cellTreatment": "faceted",
           "substyle": "auto",
           "gradient": 0,
           "depth": 0.5,
@@ -406,6 +419,9 @@
           "localMusic": true,
           "musicBoost": 1,
           "responseReason": "Keep words readable; light accents instead of heavy bounce.",
+          "aboveVisual": false,
+          "imageSampling": "smooth",
+          "cellTreatment": "faceted",
           "substyle": "auto",
           "gradient": 0,
           "depth": 0.5,
@@ -426,7 +442,8 @@
       "recipe": "Kinetic type",
       "familyVariant": "layered",
       "lookName": "Editorial rhythm",
-      "filmRole": "build"
+      "filmRole": "build",
+      "overlays": []
     },
     {
       "id": "scene-2",
@@ -485,6 +502,9 @@
           "localMusic": true,
           "musicBoost": 1,
           "responseReason": "Keep words readable; light accents instead of heavy bounce.",
+          "aboveVisual": false,
+          "imageSampling": "smooth",
+          "cellTreatment": "faceted",
           "substyle": "auto",
           "gradient": 0,
           "depth": 0.5,
@@ -549,6 +569,9 @@
           "localMusic": true,
           "musicBoost": 1,
           "responseReason": "Keep words readable; light accents instead of heavy bounce.",
+          "aboveVisual": false,
+          "imageSampling": "smooth",
+          "cellTreatment": "faceted",
           "substyle": "auto",
           "gradient": 0,
           "depth": 0.5,
@@ -569,7 +592,8 @@
       "recipe": "Elastic headlines",
       "familyVariant": "layered",
       "lookName": "Travelling ripple",
-      "filmRole": "peak"
+      "filmRole": "peak",
+      "overlays": []
     },
     {
       "id": "scene-3",
@@ -628,6 +652,9 @@
           "localMusic": true,
           "musicBoost": 1,
           "responseReason": "Keep words readable; light accents instead of heavy bounce.",
+          "aboveVisual": false,
+          "imageSampling": "smooth",
+          "cellTreatment": "faceted",
           "substyle": "auto",
           "gradient": 0,
           "depth": 0.5,
@@ -692,6 +719,9 @@
           "localMusic": true,
           "musicBoost": 1,
           "responseReason": "Keep words readable; light accents instead of heavy bounce.",
+          "aboveVisual": false,
+          "imageSampling": "smooth",
+          "cellTreatment": "faceted",
           "substyle": "auto",
           "gradient": 0,
           "depth": 0.5,
@@ -712,7 +742,8 @@
       "recipe": "Orbiting letters",
       "familyVariant": "structured",
       "lookName": "Elliptical orbit",
-      "filmRole": "build"
+      "filmRole": "build",
+      "overlays": []
     },
     {
       "id": "scene-4",
@@ -782,6 +813,9 @@
             "continuous": true
           },
           "responseReason": "Keep words readable; light accents instead of heavy bounce.",
+          "aboveVisual": false,
+          "imageSampling": "smooth",
+          "cellTreatment": "faceted",
           "gradient": 0,
           "perspectiveX": 0.5,
           "perspectiveY": 0.5,
@@ -845,6 +879,9 @@
           "localMusic": true,
           "musicBoost": 1,
           "responseReason": "Keep words readable; light accents instead of heavy bounce.",
+          "aboveVisual": false,
+          "imageSampling": "smooth",
+          "cellTreatment": "faceted",
           "substyle": "auto",
           "gradient": 0,
           "depth": 0.5,
@@ -909,6 +946,9 @@
           "localMusic": true,
           "musicBoost": 1,
           "responseReason": "Keep words readable; light accents instead of heavy bounce.",
+          "aboveVisual": false,
+          "imageSampling": "smooth",
+          "cellTreatment": "faceted",
           "substyle": "auto",
           "gradient": 0,
           "depth": 0.5,
@@ -929,7 +969,8 @@
       "recipe": "Kinetic type",
       "familyVariant": "structured",
       "lookName": "Elastic pulse",
-      "filmRole": "breathing"
+      "filmRole": "breathing",
+      "overlays": []
     },
     {
       "id": "scene-5",
@@ -988,6 +1029,9 @@
           "localMusic": true,
           "musicBoost": 1,
           "responseReason": "Keep words readable; light accents instead of heavy bounce.",
+          "aboveVisual": false,
+          "imageSampling": "smooth",
+          "cellTreatment": "faceted",
           "substyle": "auto",
           "gradient": 0,
           "depth": 0.5,
@@ -1052,6 +1096,9 @@
           "localMusic": true,
           "musicBoost": 1,
           "responseReason": "Keep words readable; light accents instead of heavy bounce.",
+          "aboveVisual": false,
+          "imageSampling": "smooth",
+          "cellTreatment": "faceted",
           "substyle": "auto",
           "gradient": 0,
           "depth": 0.5,
@@ -1072,7 +1119,8 @@
       "recipe": "Editorial motion",
       "familyVariant": "soft",
       "lookName": "Opening issue",
-      "filmRole": "flow"
+      "filmRole": "flow",
+      "overlays": []
     },
     {
       "id": "scene-6",
@@ -1131,6 +1179,9 @@
           "localMusic": true,
           "musicBoost": 1,
           "responseReason": "Keep words readable; light accents instead of heavy bounce.",
+          "aboveVisual": false,
+          "imageSampling": "smooth",
+          "cellTreatment": "faceted",
           "substyle": "auto",
           "gradient": 0,
           "depth": 0.5,
@@ -1195,6 +1246,9 @@
           "localMusic": true,
           "musicBoost": 1,
           "responseReason": "Keep words readable; light accents instead of heavy bounce.",
+          "aboveVisual": false,
+          "imageSampling": "smooth",
+          "cellTreatment": "faceted",
           "substyle": "auto",
           "gradient": 0,
           "depth": 0.5,
@@ -1215,7 +1269,8 @@
       "recipe": "Cascading words",
       "familyVariant": "soft",
       "lookName": "Word rain",
-      "filmRole": "peak"
+      "filmRole": "peak",
+      "overlays": []
     },
     {
       "id": "scene-7",
@@ -1275,6 +1330,9 @@
           "musicBoost": 1,
           "responseReason": "Keep words readable; light accents instead of heavy bounce.",
           "filmSettle": true,
+          "aboveVisual": false,
+          "imageSampling": "smooth",
+          "cellTreatment": "faceted",
           "substyle": "auto",
           "gradient": 0,
           "depth": 0.5,
@@ -1340,6 +1398,9 @@
           "musicBoost": 1,
           "responseReason": "Keep words readable; light accents instead of heavy bounce.",
           "filmSettle": true,
+          "aboveVisual": false,
+          "imageSampling": "smooth",
+          "cellTreatment": "faceted",
           "substyle": "auto",
           "gradient": 0,
           "depth": 0.5,
@@ -1360,7 +1421,8 @@
       "recipe": "Masked type",
       "familyVariant": "layered",
       "lookName": "Sliding bands",
-      "filmRole": "ending"
+      "filmRole": "ending",
+      "overlays": []
     }
   ],
   "familyScope": "collection",
@@ -1397,7 +1459,16 @@
       "ending"
     ]
   },
+  "grade": {
+    "enabled": true,
+    "exposure": 0,
+    "brightness": 1,
+    "contrast": 1,
+    "saturation": 1,
+    "highlights": 0
+  },
   "gain": 0.8,
+  "overlays": [],
   "markers": [],
   "cycleMode": "off",
   "cycleTarget": "artwork",

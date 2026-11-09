@@ -87,8 +87,8 @@
           "opacity": 1,
           "motion": "still",
           "amount": 0.3696991324890405,
-          "react": "accent",
-          "reactAmount": 0.22749999999999998,
+          "react": "bass",
+          "reactAmount": 0.26,
           "blend": "source-over",
           "mask": "none",
           "fit": "contain",
@@ -96,10 +96,10 @@
           "end": 1,
           "keys": null,
           "coverage": "frame",
-          "density": 0.34685749999999993,
+          "density": 0.33185749999999997,
           "detail": 0.4556,
-          "flow": 0.45589774999999993,
-          "reactTarget": "rotation",
+          "flow": 0.46639774999999994,
+          "reactTarget": "flow",
           "release": 0.3,
           "anticipation": 0,
           "responseGate": "all",
@@ -125,13 +125,13 @@
           "localMusic": true,
           "musicBoost": 1,
           "drift": {
-            "mode": "rotate",
+            "mode": "none",
             "angle": 180,
             "rate": 0.02,
             "amount": 0.08,
             "continuous": true
           },
-          "responseReason": "Geometric accents work with small rotational changes."
+          "responseReason": "The family supplies its own characteristic animation. Add drift separately if wanted."
         },
         {
           "id": "s0-title",
@@ -180,7 +180,7 @@
           "secondaryAmount": 0.2,
           "localMusic": true,
           "musicBoost": 1,
-          "responseReason": "Geometric accents work with small rotational changes."
+          "responseReason": "The family supplies its own characteristic animation. Add drift separately if wanted."
         },
         {
           "id": "s0-label",
@@ -229,7 +229,7 @@
           "secondaryAmount": 0.2,
           "localMusic": true,
           "musicBoost": 1,
-          "responseReason": "Geometric accents work with small rotational changes."
+          "responseReason": "The family supplies its own characteristic animation. Add drift separately if wanted."
         }
       ],
       "recipe": "Log spirals",
@@ -261,8 +261,8 @@
           "opacity": 1,
           "motion": "still",
           "amount": 0.2698178044054657,
-          "react": "accent",
-          "reactAmount": 0.06824999999999999,
+          "react": "bass",
+          "reactAmount": 0.07800000000000001,
           "blend": "source-over",
           "mask": "none",
           "fit": "contain",
@@ -270,10 +270,10 @@
           "end": 1,
           "keys": null,
           "coverage": "frame",
-          "density": 0.18320099999999997,
+          "density": 0.17870099999999997,
           "detail": 0.705075,
-          "flow": 0.669109,
-          "reactTarget": "rotation",
+          "flow": 0.679609,
+          "reactTarget": "flow",
           "release": 0.3,
           "anticipation": 0,
           "responseGate": "all",
@@ -299,13 +299,13 @@
           "localMusic": true,
           "musicBoost": 1,
           "drift": {
-            "mode": "rotate",
+            "mode": "none",
             "angle": 180,
             "rate": 0.02,
             "amount": 0.08,
             "continuous": true
           },
-          "responseReason": "Geometric accents work with small rotational changes."
+          "responseReason": "The family supplies its own characteristic animation. Add drift separately if wanted."
         },
         {
           "id": "s1-title",
@@ -354,7 +354,7 @@
           "secondaryAmount": 0.2,
           "localMusic": true,
           "musicBoost": 1,
-          "responseReason": "Geometric accents work with small rotational changes."
+          "responseReason": "The family supplies its own characteristic animation. Add drift separately if wanted."
         },
         {
           "id": "s1-label",
@@ -403,7 +403,7 @@
           "secondaryAmount": 0.2,
           "localMusic": true,
           "musicBoost": 1,
-          "responseReason": "Geometric accents work with small rotational changes."
+          "responseReason": "The family supplies its own characteristic animation. Add drift separately if wanted."
         }
       ],
       "recipe": "Log spirals",
@@ -435,8 +435,8 @@
           "opacity": 1,
           "motion": "still",
           "amount": 0.2824175124056637,
-          "react": "accent",
-          "reactAmount": 0.22749999999999998,
+          "react": "bass",
+          "reactAmount": 0.26,
           "blend": "source-over",
           "mask": "none",
           "fit": "contain",
@@ -444,10 +444,10 @@
           "end": 1,
           "keys": null,
           "coverage": "frame",
-          "density": 0.7226525,
+          "density": 0.7076525,
           "detail": 0.55695,
-          "flow": 0.5063922499999999,
-          "reactTarget": "rotation",
+          "flow": 0.5168922499999999,
+          "reactTarget": "flow",
           "release": 0.3,
           "anticipation": 0,
           "responseGate": "all",
@@ -473,13 +473,13 @@
           "localMusic": true,
           "musicBoost": 1,
           "drift": {
-            "mode": "rotate",
+            "mode": "none",
             "angle": 180,
             "rate": 0.02,
             "amount": 0.08,
             "continuous": true
           },
-          "responseReason": "Geometric accents work with small rotational changes."
+          "responseReason": "The family supplies its own characteristic animation. Add drift separately if wanted."
         },
         {
           "id": "s2-title",
@@ -528,7 +528,7 @@
           "secondaryAmount": 0.2,
           "localMusic": true,
           "musicBoost": 1,
-          "responseReason": "Geometric accents work with small rotational changes."
+          "responseReason": "The family supplies its own characteristic animation. Add drift separately if wanted."
         },
         {
           "id": "s2-label",
@@ -577,7 +577,7 @@
           "secondaryAmount": 0.2,
           "localMusic": true,
           "musicBoost": 1,
-          "responseReason": "Geometric accents work with small rotational changes."
+          "responseReason": "The family supplies its own characteristic animation. Add drift separately if wanted."
         }
       ],
       "recipe": "Log spirals",

@@ -136,6 +136,9 @@
             "continuous": true
           },
           "responseReason": "Let sustained energy move the light gradually.",
+          "aboveVisual": false,
+          "imageSampling": "smooth",
+          "cellTreatment": "faceted",
           "gradient": 0,
           "perspectiveX": 0.5,
           "perspectiveY": 0.5,
@@ -187,6 +190,9 @@
           "locked": true,
           "textStyle": "tracking",
           "textWrap": true,
+          "aboveVisual": false,
+          "imageSampling": "smooth",
+          "cellTreatment": "faceted",
           "substyle": "auto",
           "gradient": 0,
           "depth": 0.5,
@@ -213,7 +219,8 @@
       "recipe": "Soft light",
       "familyVariant": "layered",
       "lookName": "Luminous rings",
-      "filmRole": "opening"
+      "filmRole": "opening",
+      "overlays": []
     },
     {
       "id": "scene-1",
@@ -283,6 +290,9 @@
             "continuous": true
           },
           "responseReason": "Let sustained energy move the light gradually.",
+          "aboveVisual": false,
+          "imageSampling": "smooth",
+          "cellTreatment": "faceted",
           "gradient": 0,
           "perspectiveX": 0.5,
           "perspectiveY": 0.5,
@@ -334,6 +344,9 @@
           "locked": true,
           "textStyle": "wordslide",
           "textWrap": true,
+          "aboveVisual": false,
+          "imageSampling": "smooth",
+          "cellTreatment": "faceted",
           "substyle": "auto",
           "gradient": 0,
           "depth": 0.5,
@@ -360,7 +373,8 @@
       "recipe": "Soft light",
       "familyVariant": "structured",
       "lookName": "Glass planes",
-      "filmRole": "peak"
+      "filmRole": "peak",
+      "overlays": []
     },
     {
       "id": "scene-2",
@@ -431,6 +445,9 @@
           },
           "responseReason": "Let sustained energy move the light gradually.",
           "filmSettle": true,
+          "aboveVisual": false,
+          "imageSampling": "smooth",
+          "cellTreatment": "faceted",
           "gradient": 0,
           "perspectiveX": 0.5,
           "perspectiveY": 0.5,
@@ -482,6 +499,9 @@
           "locked": true,
           "textStyle": "outline",
           "textWrap": true,
+          "aboveVisual": false,
+          "imageSampling": "smooth",
+          "cellTreatment": "faceted",
           "substyle": "auto",
           "gradient": 0,
           "depth": 0.5,
@@ -508,7 +528,8 @@
       "recipe": "Soft light",
       "familyVariant": "structured",
       "lookName": "Glass planes",
-      "filmRole": "ending"
+      "filmRole": "ending",
+      "overlays": []
     }
   ],
   "rolePalette": {
@@ -526,7 +547,16 @@
       "ending"
     ]
   },
+  "grade": {
+    "enabled": true,
+    "exposure": 0,
+    "brightness": 1,
+    "contrast": 1,
+    "saturation": 1,
+    "highlights": 0
+  },
   "gain": 0.8,
+  "overlays": [],
   "markers": [],
   "cycleMode": "off",
   "cycleTarget": "artwork",

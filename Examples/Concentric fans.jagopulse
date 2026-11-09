@@ -87,8 +87,8 @@
           "opacity": 1,
           "motion": "still",
           "amount": 0.40565226566977797,
-          "react": "beat",
-          "reactAmount": 0.35750000000000004,
+          "react": "bass",
+          "reactAmount": 0.26,
           "blend": "source-over",
           "mask": "none",
           "fit": "contain",
@@ -96,10 +96,10 @@
           "end": 1,
           "keys": null,
           "coverage": "frame",
-          "density": 0.33632249999999997,
+          "density": 0.32132249999999996,
           "detail": 0.47905000000000003,
-          "flow": 0.44467324999999996,
-          "reactTarget": "scale",
+          "flow": 0.47617325,
+          "reactTarget": "flow",
           "release": 0.3,
           "anticipation": 0,
           "responseGate": "all",
@@ -125,13 +125,13 @@
           "localMusic": true,
           "musicBoost": 1,
           "drift": {
-            "mode": "pan",
+            "mode": "none",
             "angle": 180,
             "rate": 0.02,
             "amount": 0.08,
             "continuous": true
           },
-          "responseReason": "Clear beat pulses and slow tiled movement suit graphic repeats."
+          "responseReason": "The family supplies its own characteristic animation. Add drift separately if wanted."
         },
         {
           "id": "s0-title",
@@ -180,7 +180,7 @@
           "secondaryAmount": 0.2,
           "localMusic": true,
           "musicBoost": 1,
-          "responseReason": "Clear beat pulses and slow tiled movement suit graphic repeats."
+          "responseReason": "The family supplies its own characteristic animation. Add drift separately if wanted."
         },
         {
           "id": "s0-label",
@@ -229,7 +229,7 @@
           "secondaryAmount": 0.2,
           "localMusic": true,
           "musicBoost": 1,
-          "responseReason": "Clear beat pulses and slow tiled movement suit graphic repeats."
+          "responseReason": "The family supplies its own characteristic animation. Add drift separately if wanted."
         }
       ],
       "recipe": "Concentric fans",
@@ -261,8 +261,8 @@
           "opacity": 1,
           "motion": "still",
           "amount": 0.2171874197665602,
-          "react": "beat",
-          "reactAmount": 0.35750000000000004,
+          "react": "bass",
+          "reactAmount": 0.26,
           "blend": "source-over",
           "mask": "none",
           "fit": "contain",
@@ -270,10 +270,10 @@
           "end": 1,
           "keys": null,
           "coverage": "frame",
-          "density": 0.553095,
+          "density": 0.538095,
           "detail": 0.7271249999999999,
-          "flow": 0.5879125,
-          "reactTarget": "scale",
+          "flow": 0.6194124999999999,
+          "reactTarget": "flow",
           "release": 0.3,
           "anticipation": 0,
           "responseGate": "all",
@@ -299,13 +299,13 @@
           "localMusic": true,
           "musicBoost": 1,
           "drift": {
-            "mode": "pan",
+            "mode": "none",
             "angle": 180,
             "rate": 0.02,
             "amount": 0.08,
             "continuous": true
           },
-          "responseReason": "Clear beat pulses and slow tiled movement suit graphic repeats."
+          "responseReason": "The family supplies its own characteristic animation. Add drift separately if wanted."
         },
         {
           "id": "s1-title",
@@ -354,7 +354,7 @@
           "secondaryAmount": 0.2,
           "localMusic": true,
           "musicBoost": 1,
-          "responseReason": "Clear beat pulses and slow tiled movement suit graphic repeats."
+          "responseReason": "The family supplies its own characteristic animation. Add drift separately if wanted."
         },
         {
           "id": "s1-label",
@@ -403,7 +403,7 @@
           "secondaryAmount": 0.2,
           "localMusic": true,
           "musicBoost": 1,
-          "responseReason": "Clear beat pulses and slow tiled movement suit graphic repeats."
+          "responseReason": "The family supplies its own characteristic animation. Add drift separately if wanted."
         }
       ],
       "recipe": "Concentric fans",
@@ -435,8 +435,8 @@
           "opacity": 1,
           "motion": "still",
           "amount": 0.26124778925441206,
-          "react": "beat",
-          "reactAmount": 0.35750000000000004,
+          "react": "bass",
+          "reactAmount": 0.26,
           "blend": "source-over",
           "mask": "none",
           "fit": "contain",
@@ -444,10 +444,10 @@
           "end": 1,
           "keys": null,
           "coverage": "frame",
-          "density": 0.7155475,
+          "density": 0.7005475,
           "detail": 0.6623,
-          "flow": 0.5449027499999999,
-          "reactTarget": "scale",
+          "flow": 0.5764027499999999,
+          "reactTarget": "flow",
           "release": 0.3,
           "anticipation": 0,
           "responseGate": "all",
@@ -473,13 +473,13 @@
           "localMusic": true,
           "musicBoost": 1,
           "drift": {
-            "mode": "pan",
+            "mode": "none",
             "angle": 180,
             "rate": 0.02,
             "amount": 0.08,
             "continuous": true
           },
-          "responseReason": "Clear beat pulses and slow tiled movement suit graphic repeats."
+          "responseReason": "The family supplies its own characteristic animation. Add drift separately if wanted."
         },
         {
           "id": "s2-title",
@@ -528,7 +528,7 @@
           "secondaryAmount": 0.2,
           "localMusic": true,
           "musicBoost": 1,
-          "responseReason": "Clear beat pulses and slow tiled movement suit graphic repeats."
+          "responseReason": "The family supplies its own characteristic animation. Add drift separately if wanted."
         },
         {
           "id": "s2-label",
@@ -577,7 +577,7 @@
           "secondaryAmount": 0.2,
           "localMusic": true,
           "musicBoost": 1,
-          "responseReason": "Clear beat pulses and slow tiled movement suit graphic repeats."
+          "responseReason": "The family supplies its own characteristic animation. Add drift separately if wanted."
         }
       ],
       "recipe": "Concentric fans",

@@ -96,9 +96,9 @@
           "end": 1,
           "keys": null,
           "coverage": "frame",
-          "density": 0.11097,
+          "density": 0.11547,
           "detail": 0.525775,
-          "flow": 0.40119799999999994,
+          "flow": 0.4326979999999999,
           "reactTarget": "flow",
           "release": 0.3,
           "anticipation": 0,
@@ -125,13 +125,13 @@
           "localMusic": true,
           "musicBoost": 1,
           "drift": {
-            "mode": "breathe",
+            "mode": "none",
             "angle": 180,
             "rate": 0.02,
             "amount": 0.08,
             "continuous": true
           },
-          "responseReason": "Gentle bass-led changes preserve the organic movement."
+          "responseReason": "The family supplies its own characteristic animation. Add drift separately if wanted."
         },
         {
           "id": "s0-title",
@@ -180,7 +180,7 @@
           "secondaryAmount": 0.2,
           "localMusic": true,
           "musicBoost": 1,
-          "responseReason": "Gentle bass-led changes preserve the organic movement."
+          "responseReason": "The family supplies its own characteristic animation. Add drift separately if wanted."
         },
         {
           "id": "s0-label",
@@ -229,7 +229,7 @@
           "secondaryAmount": 0.2,
           "localMusic": true,
           "musicBoost": 1,
-          "responseReason": "Gentle bass-led changes preserve the organic movement."
+          "responseReason": "The family supplies its own characteristic animation. Add drift separately if wanted."
         }
       ],
       "recipe": "Branching growth",
@@ -270,9 +270,9 @@
           "end": 1,
           "keys": null,
           "coverage": "frame",
-          "density": 0.5295875,
+          "density": 0.5445875,
           "detail": 0.7062999999999999,
-          "flow": 0.63859075,
+          "flow": 0.67009075,
           "reactTarget": "flow",
           "release": 0.3,
           "anticipation": 0,
@@ -299,13 +299,13 @@
           "localMusic": true,
           "musicBoost": 1,
           "drift": {
-            "mode": "breathe",
+            "mode": "none",
             "angle": 180,
             "rate": 0.02,
             "amount": 0.08,
             "continuous": true
           },
-          "responseReason": "Gentle bass-led changes preserve the organic movement."
+          "responseReason": "The family supplies its own characteristic animation. Add drift separately if wanted."
         },
         {
           "id": "s1-title",
@@ -354,7 +354,7 @@
           "secondaryAmount": 0.2,
           "localMusic": true,
           "musicBoost": 1,
-          "responseReason": "Gentle bass-led changes preserve the organic movement."
+          "responseReason": "The family supplies its own characteristic animation. Add drift separately if wanted."
         },
         {
           "id": "s1-label",
@@ -403,7 +403,7 @@
           "secondaryAmount": 0.2,
           "localMusic": true,
           "musicBoost": 1,
-          "responseReason": "Gentle bass-led changes preserve the organic movement."
+          "responseReason": "The family supplies its own characteristic animation. Add drift separately if wanted."
         }
       ],
       "recipe": "Branching growth",
@@ -444,9 +444,9 @@
           "end": 1,
           "keys": null,
           "coverage": "frame",
-          "density": 0.680035,
+          "density": 0.695035,
           "detail": 0.582325,
-          "flow": 0.5271524999999999,
+          "flow": 0.5586525,
           "reactTarget": "flow",
           "release": 0.3,
           "anticipation": 0,
@@ -473,13 +473,13 @@
           "localMusic": true,
           "musicBoost": 1,
           "drift": {
-            "mode": "breathe",
+            "mode": "none",
             "angle": 180,
             "rate": 0.02,
             "amount": 0.08,
             "continuous": true
           },
-          "responseReason": "Gentle bass-led changes preserve the organic movement."
+          "responseReason": "The family supplies its own characteristic animation. Add drift separately if wanted."
         },
         {
           "id": "s2-title",
@@ -528,7 +528,7 @@
           "secondaryAmount": 0.2,
           "localMusic": true,
           "musicBoost": 1,
-          "responseReason": "Gentle bass-led changes preserve the organic movement."
+          "responseReason": "The family supplies its own characteristic animation. Add drift separately if wanted."
         },
         {
           "id": "s2-label",
@@ -577,7 +577,7 @@
           "secondaryAmount": 0.2,
           "localMusic": true,
           "musicBoost": 1,
-          "responseReason": "Gentle bass-led changes preserve the organic movement."
+          "responseReason": "The family supplies its own characteristic animation. Add drift separately if wanted."
         }
       ],
       "recipe": "Branching growth",

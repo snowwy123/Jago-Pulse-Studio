@@ -119,3 +119,25 @@ Major.surprise owns palette and cutting exploration; runGeneration no longer pre
 analysis.cuts supports measured/breathing/bursts/build duration weights before snapping to the selected evidence. Sparse candidates cap the scene target. It does not change the detector, BPM or corrected grid. New model defaults omit generated text; examples explicitly opt into their established typography. The standalone text control does not change imported lyrics.
 
 Run all model tests (116), plus surprise-browser.cjs. The browser check requires three named supplied tracks in PULSE_TEST_AUDIO_FOLDER (defaults to Downloads), Playwright on NODE_PATH and PULSE_TEST_WORK for private output. It exercises actual buttons, text off/on, same-seed generation, colour locks, Undo, comparison descriptions and three-track cut evidence. Track results validate integration/marker adherence, not human-labelled beat accuracy or listening quality. Windows --check remains startup evidence only.
+
+## Experimental feedback and depth branch
+
+The top-bar Experimental visuals lab adds optional scene-bound settings (`scene.experimental`). `experimental.js` validates plain settings and renders stateless perspective depth; `feedback.js` adapts pinned local Butterchurn with bounded resources and local PCM audio. `experimental-ui.js` owns draft audition, scope/Undo and source-free examples. The ordinary family generator remains available. No arbitrary preset code is accepted from project files.
+
+Run `node --test Source/Tests/*.test.cjs`. For `Source/Tests/experimental-browser.cjs`, install Playwright outside the source tree (or set PULSE_PLAYWRIGHT) and set PULSE_TEST_WORK to a private output folder. PULSE_TEST_AUDIO_FOLDER selects the private test-track directory. Do not publish its supplied music or test artifacts.
+
+Feedback seeking is approximate. Exact feedback exports are blocked; use still PNG or real-time WebM. The separate phosphor-history filter is bypassed with feedback to prevent recursive GPU contexts. Depth supports ordinary exact-frame output. Artist presets retain their own colours/camera behaviour. Windows experimental builds use a separate Pulse-Experimental WebView2 profile. See Notices/Butterchurn.md for dependency versions and provenance.
+
+
+## Musical styles and environments (0.13.0 experimental)
+
+musical-style.js owns stateless beat subdivisions, causal envelope averaging, signal routing, local hue policies and reviewed scene-cut planning. style-atlas.js owns three direct-time instruments; cosmic-environment.js owns bounded WebGL2 space/sky surfaces. The ringed planet analytically intersects an orthographic sphere and ring plane, uses spherical rotating procedural textures and mutual shadow tests. No external renderer or texture dependency was added. Source-referenced shaders are not copied.
+
+Keep source audio time separate from motion time. Pixel worlds now sample audio before travel scaling. Preview excerpt offsets restore manual beat offsets in depth rendering; pixel/water receive the current scene span so auditions and full-film renders use the same cyclic interval. Musical smoothing is evaluated from fixed past samples, never accumulated playback state.
+
+design-engine.js adds aspect-correct radial copies, independent delayed signals/motion, gradients, stars/arcs/waves and closed/smoothed paths. Instance limits remain 1024 and element limit 24. manual sliders preview without rebuilding during a drag. lab-precision.js edits the existing range input; it is not a second property model. Whole-song option nodes are shared between home and lab; colour movement is one extended existing chooser.
+
+Tests: musical-style.test.cjs, design-instruments.test.cjs; musical-style-browser.cjs, environment-styles-browser.cjs, planet-browser.cjs, design-instruments-browser.cjs, instrument-export-browser.cjs and musical-tracks-browser.cjs. Private track paths are supplied with PULSE_TEST_TRACKS JSON; no private audio enters examples or packages. Existing authoring/journey and pixel/water/wallpaper regressions remain relevant. Quantitative tests establish timing/render/seek behaviour, not a human listening judgement.
+
+
+Preview budgeting: preview-budget.js is a pure preview-copy policy; do not apply it to export projects. preview-budget-ui.js reuses one local quality selector across main/lab. Run preview-budget.test.cjs and preview-budget-browser.cjs (JAGO_TEST_OUTPUT for evidence). CPU throttle4x is synthetic: report frame times and unchanged authored/export state, not lower-end hardware certification.

@@ -141,6 +141,9 @@
                 "localMusic": true,
                 "musicBoost": 1,
                 "responseReason": "Clear beat pulses and slow tiled movement suit graphic repeats.",
+                "aboveVisual": false,
+                "imageSampling": "smooth",
+                "cellTreatment": "faceted",
                 "gradient": 0,
                 "perspectiveX": 0.5,
                 "perspectiveY": 0.5,
@@ -158,7 +161,8 @@
             "recipe": "Living tiles",
             "familyVariant": "structured",
             "lookName": "Turning blocks",
-            "filmRole": "opening"
+            "filmRole": "opening",
+            "overlays": []
           },
           {
             "id": "scene-1",
@@ -229,6 +233,9 @@
                 "localMusic": true,
                 "musicBoost": 1,
                 "responseReason": "Clear beat pulses and slow tiled movement suit graphic repeats.",
+                "aboveVisual": false,
+                "imageSampling": "smooth",
+                "cellTreatment": "faceted",
                 "gradient": 0,
                 "perspectiveX": 0.5,
                 "perspectiveY": 0.5,
@@ -246,7 +253,8 @@
             "recipe": "Rotating repeats",
             "familyVariant": "layered",
             "lookName": "Offset wheels",
-            "filmRole": "build"
+            "filmRole": "build",
+            "overlays": []
           },
           {
             "id": "scene-2",
@@ -272,8 +280,8 @@
                 "opacity": 1,
                 "motion": "still",
                 "amount": 0.31734304926358164,
-                "react": "beat",
-                "reactAmount": 0.55,
+                "react": "bass",
+                "reactAmount": 0.4,
                 "blend": "source-over",
                 "mask": "none",
                 "fit": "contain",
@@ -281,10 +289,10 @@
                 "end": 1,
                 "keys": null,
                 "coverage": "frame",
-                "density": 0.4459599999999999,
+                "density": 0.43095999999999995,
                 "detail": 0.41657500000000003,
-                "flow": 0.54864,
-                "reactTarget": "scale",
+                "flow": 0.5936400000000001,
+                "reactTarget": "flow",
                 "release": 0.3,
                 "anticipation": 0,
                 "responseGate": "all",
@@ -316,7 +324,10 @@
                 },
                 "localMusic": true,
                 "musicBoost": 1,
-                "responseReason": "Clear beat pulses and slow tiled movement suit graphic repeats.",
+                "responseReason": "The family supplies its own characteristic animation. Add drift separately if wanted.",
+                "aboveVisual": false,
+                "imageSampling": "smooth",
+                "cellTreatment": "faceted",
                 "gradient": 0,
                 "perspectiveX": 0.5,
                 "perspectiveY": 0.5,
@@ -334,7 +345,8 @@
             "recipe": "Concentric fans",
             "familyVariant": "soft",
             "lookName": "Arc rhythm",
-            "filmRole": "build"
+            "filmRole": "build",
+            "overlays": []
           },
           {
             "id": "scene-3",
@@ -405,6 +417,9 @@
                 "localMusic": true,
                 "musicBoost": 1,
                 "responseReason": "Clear beat pulses and slow tiled movement suit graphic repeats.",
+                "aboveVisual": false,
+                "imageSampling": "smooth",
+                "cellTreatment": "faceted",
                 "gradient": 0,
                 "perspectiveX": 0.5,
                 "perspectiveY": 0.5,
@@ -422,7 +437,8 @@
             "recipe": "Rotating repeats",
             "familyVariant": "structured",
             "lookName": "Diamond clockwork",
-            "filmRole": "return"
+            "filmRole": "return",
+            "overlays": []
           },
           {
             "id": "scene-4",
@@ -493,6 +509,9 @@
                 "localMusic": true,
                 "musicBoost": 1,
                 "responseReason": "Clear beat pulses and slow tiled movement suit graphic repeats.",
+                "aboveVisual": false,
+                "imageSampling": "smooth",
+                "cellTreatment": "faceted",
                 "gradient": 0,
                 "perspectiveX": 0.5,
                 "perspectiveY": 0.5,
@@ -510,7 +529,8 @@
             "recipe": "Staggered motifs",
             "familyVariant": "soft",
             "lookName": "Crescent tide",
-            "filmRole": "breathing"
+            "filmRole": "breathing",
+            "overlays": []
           },
           {
             "id": "scene-5",
@@ -581,6 +601,9 @@
                 "localMusic": true,
                 "musicBoost": 1,
                 "responseReason": "Clear beat pulses and slow tiled movement suit graphic repeats.",
+                "aboveVisual": false,
+                "imageSampling": "smooth",
+                "cellTreatment": "faceted",
                 "gradient": 0,
                 "perspectiveX": 0.5,
                 "perspectiveY": 0.5,
@@ -598,7 +621,8 @@
             "recipe": "Halftone drift",
             "familyVariant": "structured",
             "lookName": "Diamond screen",
-            "filmRole": "flow"
+            "filmRole": "flow",
+            "overlays": []
           },
           {
             "id": "scene-6",
@@ -669,6 +693,9 @@
                 "localMusic": true,
                 "musicBoost": 1,
                 "responseReason": "Clear beat pulses and slow tiled movement suit graphic repeats.",
+                "aboveVisual": false,
+                "imageSampling": "smooth",
+                "cellTreatment": "faceted",
                 "gradient": 0,
                 "perspectiveX": 0.5,
                 "perspectiveY": 0.5,
@@ -686,7 +713,8 @@
             "recipe": "Woven ribbons",
             "familyVariant": "layered",
             "lookName": "Shifting overpass",
-            "filmRole": "peak"
+            "filmRole": "peak",
+            "overlays": []
           },
           {
             "id": "scene-7",
@@ -758,6 +786,9 @@
                 "musicBoost": 1,
                 "responseReason": "Clear beat pulses and slow tiled movement suit graphic repeats.",
                 "filmSettle": true,
+                "aboveVisual": false,
+                "imageSampling": "smooth",
+                "cellTreatment": "faceted",
                 "gradient": 0,
                 "perspectiveX": 0.5,
                 "perspectiveY": 0.5,
@@ -775,7 +806,8 @@
             "recipe": "Halftone drift",
             "familyVariant": "soft",
             "lookName": "Dot tide",
-            "filmRole": "ending"
+            "filmRole": "ending",
+            "overlays": []
           }
         ],
         "familyScope": "collection",
@@ -813,7 +845,16 @@
             "ending"
           ]
         },
+        "grade": {
+          "enabled": true,
+          "exposure": 0,
+          "brightness": 1,
+          "contrast": 1,
+          "saturation": 1,
+          "highlights": 0
+        },
         "gain": 0.8,
+        "overlays": [],
         "markers": [],
         "cycleMode": "off",
         "cycleTarget": "artwork",
@@ -983,6 +1024,9 @@
                 "localMusic": true,
                 "musicBoost": 1,
                 "responseReason": "Clear beat pulses and slow tiled movement suit graphic repeats.",
+                "aboveVisual": false,
+                "imageSampling": "smooth",
+                "cellTreatment": "faceted",
                 "gradient": 0,
                 "perspectiveX": 0.5,
                 "perspectiveY": 0.5,
@@ -1000,7 +1044,8 @@
             "recipe": "Rotating repeats",
             "familyVariant": "structured",
             "lookName": "Diamond clockwork",
-            "filmRole": "opening"
+            "filmRole": "opening",
+            "overlays": []
           },
           {
             "id": "scene-1",
@@ -1071,6 +1116,9 @@
                 "localMusic": true,
                 "musicBoost": 1,
                 "responseReason": "Clear beat pulses and slow tiled movement suit graphic repeats.",
+                "aboveVisual": false,
+                "imageSampling": "smooth",
+                "cellTreatment": "faceted",
                 "gradient": 0,
                 "perspectiveX": 0.5,
                 "perspectiveY": 0.5,
@@ -1088,7 +1136,8 @@
             "recipe": "Staggered motifs",
             "familyVariant": "soft",
             "lookName": "Crescent tide",
-            "filmRole": "build"
+            "filmRole": "build",
+            "overlays": []
           },
           {
             "id": "scene-2",
@@ -1114,8 +1163,8 @@
                 "opacity": 1,
                 "motion": "still",
                 "amount": 0.7117285282816739,
-                "react": "beat",
-                "reactAmount": 0.55,
+                "react": "bass",
+                "reactAmount": 0.4,
                 "blend": "source-over",
                 "mask": "none",
                 "fit": "contain",
@@ -1123,10 +1172,10 @@
                 "end": 1,
                 "keys": null,
                 "coverage": "frame",
-                "density": 0.7231425,
+                "density": 0.7081425,
                 "detail": 0.62485,
-                "flow": 0.7468275,
-                "reactTarget": "scale",
+                "flow": 0.7918274999999999,
+                "reactTarget": "flow",
                 "release": 0.3,
                 "anticipation": 0,
                 "responseGate": "all",
@@ -1158,7 +1207,10 @@
                 },
                 "localMusic": true,
                 "musicBoost": 1,
-                "responseReason": "Clear beat pulses and slow tiled movement suit graphic repeats.",
+                "responseReason": "The family supplies its own characteristic animation. Add drift separately if wanted.",
+                "aboveVisual": false,
+                "imageSampling": "smooth",
+                "cellTreatment": "faceted",
                 "gradient": 0,
                 "perspectiveX": 0.5,
                 "perspectiveY": 0.5,
@@ -1176,7 +1228,8 @@
             "recipe": "Concentric fans",
             "familyVariant": "layered",
             "lookName": "Interwoven fans",
-            "filmRole": "build"
+            "filmRole": "build",
+            "overlays": []
           },
           {
             "id": "scene-3",
@@ -1247,6 +1300,9 @@
                 "localMusic": true,
                 "musicBoost": 1,
                 "responseReason": "Clear beat pulses and slow tiled movement suit graphic repeats.",
+                "aboveVisual": false,
+                "imageSampling": "smooth",
+                "cellTreatment": "faceted",
                 "gradient": 0,
                 "perspectiveX": 0.5,
                 "perspectiveY": 0.5,
@@ -1264,7 +1320,8 @@
             "recipe": "Staggered motifs",
             "familyVariant": "structured",
             "lookName": "Star cascade",
-            "filmRole": "return"
+            "filmRole": "return",
+            "overlays": []
           },
           {
             "id": "scene-4",
@@ -1335,6 +1392,9 @@
                 "localMusic": true,
                 "musicBoost": 1,
                 "responseReason": "Clear beat pulses and slow tiled movement suit graphic repeats.",
+                "aboveVisual": false,
+                "imageSampling": "smooth",
+                "cellTreatment": "faceted",
                 "gradient": 0,
                 "perspectiveX": 0.5,
                 "perspectiveY": 0.5,
@@ -1352,7 +1412,8 @@
             "recipe": "Woven ribbons",
             "familyVariant": "soft",
             "lookName": "Warp & weft",
-            "filmRole": "breathing"
+            "filmRole": "breathing",
+            "overlays": []
           },
           {
             "id": "scene-5",
@@ -1423,6 +1484,9 @@
                 "localMusic": true,
                 "musicBoost": 1,
                 "responseReason": "Clear beat pulses and slow tiled movement suit graphic repeats.",
+                "aboveVisual": false,
+                "imageSampling": "smooth",
+                "cellTreatment": "faceted",
                 "gradient": 0,
                 "perspectiveX": 0.5,
                 "perspectiveY": 0.5,
@@ -1440,7 +1504,8 @@
             "recipe": "Halftone drift",
             "familyVariant": "layered",
             "lookName": "Interference dots",
-            "filmRole": "flow"
+            "filmRole": "flow",
+            "overlays": []
           },
           {
             "id": "scene-6",
@@ -1510,6 +1575,9 @@
                 "localMusic": true,
                 "musicBoost": 1,
                 "responseReason": "Clear beat pulses and slow tiled movement suit graphic repeats.",
+                "aboveVisual": false,
+                "imageSampling": "smooth",
+                "cellTreatment": "faceted",
                 "gradient": 0,
                 "perspectiveX": 0.5,
                 "perspectiveY": 0.5,
@@ -1527,7 +1595,8 @@
             "recipe": "Living tiles",
             "familyVariant": "structured",
             "lookName": "Turning blocks",
-            "filmRole": "peak"
+            "filmRole": "peak",
+            "overlays": []
           },
           {
             "id": "scene-7",
@@ -1599,6 +1668,9 @@
                 "musicBoost": 1,
                 "responseReason": "Clear beat pulses and slow tiled movement suit graphic repeats.",
                 "filmSettle": true,
+                "aboveVisual": false,
+                "imageSampling": "smooth",
+                "cellTreatment": "faceted",
                 "gradient": 0,
                 "perspectiveX": 0.5,
                 "perspectiveY": 0.5,
@@ -1616,7 +1688,8 @@
             "recipe": "Halftone drift",
             "familyVariant": "soft",
             "lookName": "Dot tide",
-            "filmRole": "ending"
+            "filmRole": "ending",
+            "overlays": []
           }
         ],
         "familyScope": "collection",
@@ -1654,7 +1727,16 @@
             "ending"
           ]
         },
+        "grade": {
+          "enabled": true,
+          "exposure": 0,
+          "brightness": 1,
+          "contrast": 1,
+          "saturation": 1,
+          "highlights": 0
+        },
         "gain": 0.8,
+        "overlays": [],
         "markers": [],
         "cycleMode": "off",
         "cycleTarget": "artwork",
@@ -1819,6 +1901,9 @@
           "localMusic": true,
           "musicBoost": 1,
           "responseReason": "Clear beat pulses and slow tiled movement suit graphic repeats.",
+          "aboveVisual": false,
+          "imageSampling": "smooth",
+          "cellTreatment": "faceted",
           "gradient": 0,
           "perspectiveX": 0.5,
           "perspectiveY": 0.5,
@@ -1836,7 +1921,8 @@
       "recipe": "Living tiles",
       "familyVariant": "structured",
       "lookName": "Turning blocks",
-      "filmRole": "opening"
+      "filmRole": "opening",
+      "overlays": []
     },
     {
       "id": "scene-1",
@@ -1907,6 +1993,9 @@
           "localMusic": true,
           "musicBoost": 1,
           "responseReason": "Clear beat pulses and slow tiled movement suit graphic repeats.",
+          "aboveVisual": false,
+          "imageSampling": "smooth",
+          "cellTreatment": "faceted",
           "gradient": 0,
           "perspectiveX": 0.5,
           "perspectiveY": 0.5,
@@ -1924,7 +2013,8 @@
       "recipe": "Rotating repeats",
       "familyVariant": "layered",
       "lookName": "Offset wheels",
-      "filmRole": "build"
+      "filmRole": "build",
+      "overlays": []
     },
     {
       "id": "scene-2",
@@ -1950,8 +2040,8 @@
           "opacity": 1,
           "motion": "still",
           "amount": 0.31734304926358164,
-          "react": "beat",
-          "reactAmount": 0.55,
+          "react": "bass",
+          "reactAmount": 0.4,
           "blend": "source-over",
           "mask": "none",
           "fit": "contain",
@@ -1959,10 +2049,10 @@
           "end": 1,
           "keys": null,
           "coverage": "frame",
-          "density": 0.4459599999999999,
+          "density": 0.43095999999999995,
           "detail": 0.41657500000000003,
-          "flow": 0.54864,
-          "reactTarget": "scale",
+          "flow": 0.5936400000000001,
+          "reactTarget": "flow",
           "release": 0.3,
           "anticipation": 0,
           "responseGate": "all",
@@ -1994,7 +2084,10 @@
           },
           "localMusic": true,
           "musicBoost": 1,
-          "responseReason": "Clear beat pulses and slow tiled movement suit graphic repeats.",
+          "responseReason": "The family supplies its own characteristic animation. Add drift separately if wanted.",
+          "aboveVisual": false,
+          "imageSampling": "smooth",
+          "cellTreatment": "faceted",
           "gradient": 0,
           "perspectiveX": 0.5,
           "perspectiveY": 0.5,
@@ -2012,7 +2105,8 @@
       "recipe": "Concentric fans",
       "familyVariant": "soft",
       "lookName": "Arc rhythm",
-      "filmRole": "build"
+      "filmRole": "build",
+      "overlays": []
     },
     {
       "id": "scene-3",
@@ -2083,6 +2177,9 @@
           "localMusic": true,
           "musicBoost": 1,
           "responseReason": "Clear beat pulses and slow tiled movement suit graphic repeats.",
+          "aboveVisual": false,
+          "imageSampling": "smooth",
+          "cellTreatment": "faceted",
           "gradient": 0,
           "perspectiveX": 0.5,
           "perspectiveY": 0.5,
@@ -2100,7 +2197,8 @@
       "recipe": "Rotating repeats",
       "familyVariant": "structured",
       "lookName": "Diamond clockwork",
-      "filmRole": "return"
+      "filmRole": "return",
+      "overlays": []
     },
     {
       "id": "scene-4",
@@ -2171,6 +2269,9 @@
           "localMusic": true,
           "musicBoost": 1,
           "responseReason": "Clear beat pulses and slow tiled movement suit graphic repeats.",
+          "aboveVisual": false,
+          "imageSampling": "smooth",
+          "cellTreatment": "faceted",
           "gradient": 0,
           "perspectiveX": 0.5,
           "perspectiveY": 0.5,
@@ -2188,7 +2289,8 @@
       "recipe": "Staggered motifs",
       "familyVariant": "soft",
       "lookName": "Crescent tide",
-      "filmRole": "breathing"
+      "filmRole": "breathing",
+      "overlays": []
     },
     {
       "id": "scene-5",
@@ -2259,6 +2361,9 @@
           "localMusic": true,
           "musicBoost": 1,
           "responseReason": "Clear beat pulses and slow tiled movement suit graphic repeats.",
+          "aboveVisual": false,
+          "imageSampling": "smooth",
+          "cellTreatment": "faceted",
           "gradient": 0,
           "perspectiveX": 0.5,
           "perspectiveY": 0.5,
@@ -2276,7 +2381,8 @@
       "recipe": "Halftone drift",
       "familyVariant": "structured",
       "lookName": "Diamond screen",
-      "filmRole": "flow"
+      "filmRole": "flow",
+      "overlays": []
     },
     {
       "id": "scene-6",
@@ -2347,6 +2453,9 @@
           "localMusic": true,
           "musicBoost": 1,
           "responseReason": "Clear beat pulses and slow tiled movement suit graphic repeats.",
+          "aboveVisual": false,
+          "imageSampling": "smooth",
+          "cellTreatment": "faceted",
           "gradient": 0,
           "perspectiveX": 0.5,
           "perspectiveY": 0.5,
@@ -2364,7 +2473,8 @@
       "recipe": "Woven ribbons",
       "familyVariant": "layered",
       "lookName": "Shifting overpass",
-      "filmRole": "peak"
+      "filmRole": "peak",
+      "overlays": []
     },
     {
       "id": "scene-7",
@@ -2436,6 +2546,9 @@
           "musicBoost": 1,
           "responseReason": "Clear beat pulses and slow tiled movement suit graphic repeats.",
           "filmSettle": true,
+          "aboveVisual": false,
+          "imageSampling": "smooth",
+          "cellTreatment": "faceted",
           "gradient": 0,
           "perspectiveX": 0.5,
           "perspectiveY": 0.5,
@@ -2453,7 +2566,8 @@
       "recipe": "Halftone drift",
       "familyVariant": "soft",
       "lookName": "Dot tide",
-      "filmRole": "ending"
+      "filmRole": "ending",
+      "overlays": []
     }
   ],
   "familyScope": "collection",
@@ -2491,7 +2605,16 @@
       "ending"
     ]
   },
+  "grade": {
+    "enabled": true,
+    "exposure": 0,
+    "brightness": 1,
+    "contrast": 1,
+    "saturation": 1,
+    "highlights": 0
+  },
   "gain": 0.8,
+  "overlays": [],
   "markers": [],
   "cycleMode": "off",
   "cycleTarget": "artwork",

@@ -1355,8 +1355,8 @@
           "opacity": 1,
           "motion": "still",
           "amount": 0.771706292964518,
-          "react": "accent",
-          "reactAmount": 0.22749999999999998,
+          "react": "bass",
+          "reactAmount": 0.26,
           "blend": "source-over",
           "mask": "none",
           "fit": "contain",
@@ -1364,10 +1364,10 @@
           "end": 1,
           "keys": null,
           "coverage": "frame",
-          "density": 0.36057749999999994,
+          "density": 0.3455775,
           "detail": 0.37020000000000003,
-          "flow": 0.4661877499999999,
-          "reactTarget": "rotation",
+          "flow": 0.47668775,
+          "reactTarget": "flow",
           "release": 0.3,
           "anticipation": 0,
           "responseGate": "all",
@@ -1393,13 +1393,13 @@
           "localMusic": true,
           "musicBoost": 1,
           "drift": {
-            "mode": "rotate",
+            "mode": "none",
             "angle": 180,
             "rate": 0.02,
             "amount": 0.08,
             "continuous": true
           },
-          "responseReason": "Geometric accents work with small rotational changes."
+          "responseReason": "The family supplies its own characteristic animation. Add drift separately if wanted."
         }
       ],
       "recipe": "Log spirals",
@@ -1431,8 +1431,8 @@
           "opacity": 1,
           "motion": "still",
           "amount": 0.4983307360205799,
-          "react": "accent",
-          "reactAmount": 0.22749999999999998,
+          "react": "bass",
+          "reactAmount": 0.26,
           "blend": "source-over",
           "mask": "none",
           "fit": "contain",
@@ -1440,10 +1440,10 @@
           "end": 1,
           "keys": null,
           "coverage": "frame",
-          "density": 0.5176924999999999,
+          "density": 0.5026925,
           "detail": 0.7619499999999999,
-          "flow": 0.6844582499999999,
-          "reactTarget": "rotation",
+          "flow": 0.69495825,
+          "reactTarget": "flow",
           "release": 0.3,
           "anticipation": 0,
           "responseGate": "all",
@@ -1469,13 +1469,13 @@
           "localMusic": true,
           "musicBoost": 1,
           "drift": {
-            "mode": "rotate",
+            "mode": "none",
             "angle": 180,
             "rate": 0.02,
             "amount": 0.08,
             "continuous": true
           },
-          "responseReason": "Geometric accents work with small rotational changes."
+          "responseReason": "The family supplies its own characteristic animation. Add drift separately if wanted."
         }
       ],
       "recipe": "Kaleidoscope",
@@ -1729,9 +1729,9 @@
           "end": 1,
           "keys": null,
           "coverage": "frame",
-          "density": 0.180123,
+          "density": 0.184623,
           "detail": 0.519675,
-          "flow": 0.5434449999999998,
+          "flow": 0.5749449999999999,
           "reactTarget": "flow",
           "release": 0.3,
           "anticipation": 0,
@@ -1758,13 +1758,13 @@
           "localMusic": true,
           "musicBoost": 1,
           "drift": {
-            "mode": "breathe",
+            "mode": "none",
             "angle": 180,
             "rate": 0.02,
             "amount": 0.08,
             "continuous": true
           },
-          "responseReason": "Gentle bass-led changes preserve the organic movement."
+          "responseReason": "The family supplies its own characteristic animation. Add drift separately if wanted."
         }
       ],
       "recipe": "Curl streams",
@@ -1805,9 +1805,9 @@
           "end": 1,
           "keys": null,
           "coverage": "frame",
-          "density": 0.37394249999999996,
+          "density": 0.38894249999999997,
           "detail": 0.37825000000000003,
-          "flow": 0.43163925,
+          "flow": 0.46313925,
           "reactTarget": "flow",
           "release": 0.3,
           "anticipation": 0,
@@ -1834,13 +1834,13 @@
           "localMusic": true,
           "musicBoost": 1,
           "drift": {
-            "mode": "breathe",
+            "mode": "none",
             "angle": 180,
             "rate": 0.02,
             "amount": 0.08,
             "continuous": true
           },
-          "responseReason": "Gentle bass-led changes preserve the organic movement."
+          "responseReason": "The family supplies its own characteristic animation. Add drift separately if wanted."
         }
       ],
       "recipe": "Branching growth",
@@ -1957,9 +1957,9 @@
           "end": 1,
           "keys": null,
           "coverage": "frame",
-          "density": 0.38790749999999996,
+          "density": 0.4029075,
           "detail": 0.45630000000000004,
-          "flow": 0.44553075,
+          "flow": 0.4770307499999999,
           "reactTarget": "flow",
           "release": 0.3,
           "anticipation": 0,
@@ -1986,13 +1986,13 @@
           "localMusic": true,
           "musicBoost": 1,
           "drift": {
-            "mode": "breathe",
+            "mode": "none",
             "angle": 180,
             "rate": 0.02,
             "amount": 0.08,
             "continuous": true
           },
-          "responseReason": "Gentle bass-led changes preserve the organic movement."
+          "responseReason": "The family supplies its own characteristic animation. Add drift separately if wanted."
         }
       ],
       "recipe": "Ink blooms",
@@ -2437,8 +2437,8 @@
           "opacity": 1,
           "motion": "still",
           "amount": 0.7360691881272943,
-          "react": "energy",
-          "reactAmount": 0.29250000000000004,
+          "react": "bass",
+          "reactAmount": 0.26,
           "blend": "source-over",
           "mask": "none",
           "fit": "contain",
@@ -2446,10 +2446,10 @@
           "end": 1,
           "keys": null,
           "coverage": "frame",
-          "density": 0.351445,
+          "density": 0.321445,
           "detail": 0.486225,
           "flow": 0.43286949999999996,
-          "reactTarget": "speed",
+          "reactTarget": "flow",
           "release": 0.3,
           "anticipation": 0,
           "responseGate": "all",
@@ -2481,7 +2481,7 @@
             "amount": 0.08,
             "continuous": true
           },
-          "responseReason": "Let the signal visual do the work, with restrained extra movement."
+          "responseReason": "The family supplies its own characteristic animation. Add drift separately if wanted."
         }
       ],
       "recipe": "Oscilloscope forms",
@@ -2665,8 +2665,8 @@
           "opacity": 1,
           "motion": "still",
           "amount": 0.20621754894964398,
-          "react": "energy",
-          "reactAmount": 0.29250000000000004,
+          "react": "bass",
+          "reactAmount": 0.26,
           "blend": "source-over",
           "mask": "none",
           "fit": "contain",
@@ -2674,10 +2674,10 @@
           "end": 1,
           "keys": null,
           "coverage": "frame",
-          "density": 0.45201749999999996,
+          "density": 0.4220175,
           "detail": 0.4724,
           "flow": 0.42112175,
-          "reactTarget": "speed",
+          "reactTarget": "flow",
           "release": 0.3,
           "anticipation": 0,
           "responseGate": "all",
@@ -2709,7 +2709,7 @@
             "amount": 0.08,
             "continuous": true
           },
-          "responseReason": "Let the signal visual do the work, with restrained extra movement."
+          "responseReason": "The family supplies its own characteristic animation. Add drift separately if wanted."
         }
       ],
       "recipe": "Waveform ribbons",
@@ -4244,9 +4244,9 @@
           "end": 1,
           "keys": null,
           "coverage": "frame",
-          "density": 0.18008099999999996,
+          "density": 0.184581,
           "detail": 0.663075,
-          "flow": 0.6021469999999999,
+          "flow": 0.633647,
           "reactTarget": "flow",
           "release": 0.3,
           "anticipation": 0,
@@ -4273,13 +4273,13 @@
           "localMusic": true,
           "musicBoost": 1,
           "drift": {
-            "mode": "breathe",
+            "mode": "none",
             "angle": 180,
             "rate": 0.02,
             "amount": 0.08,
             "continuous": true
           },
-          "responseReason": "Gentle bass-led changes preserve the organic movement."
+          "responseReason": "The family supplies its own characteristic animation. Add drift separately if wanted."
         }
       ],
       "recipe": "Ribbon helix",
@@ -4472,9 +4472,9 @@
           "end": 1,
           "keys": null,
           "coverage": "frame",
-          "density": 0.48867249999999995,
+          "density": 0.5036725,
           "detail": 0.66955,
-          "flow": 0.60857825,
+          "flow": 0.64007825,
           "reactTarget": "flow",
           "release": 0.3,
           "anticipation": 0,
@@ -4501,13 +4501,13 @@
           "localMusic": true,
           "musicBoost": 1,
           "drift": {
-            "mode": "breathe",
+            "mode": "none",
             "angle": 180,
             "rate": 0.02,
             "amount": 0.08,
             "continuous": true
           },
-          "responseReason": "Gentle bass-led changes preserve the organic movement."
+          "responseReason": "The family supplies its own characteristic animation. Add drift separately if wanted."
         }
       ],
       "recipe": "Chromatic blobs",
@@ -4615,8 +4615,8 @@
           "opacity": 1,
           "motion": "still",
           "amount": 0.4384523031767458,
-          "react": "beat",
-          "reactAmount": 0.35750000000000004,
+          "react": "bass",
+          "reactAmount": 0.26,
           "blend": "source-over",
           "mask": "none",
           "fit": "contain",
@@ -4624,10 +4624,10 @@
           "end": 1,
           "keys": null,
           "coverage": "frame",
-          "density": 0.5723275,
+          "density": 0.5573275,
           "detail": 0.6293,
-          "flow": 0.59125675,
-          "reactTarget": "scale",
+          "flow": 0.62275675,
+          "reactTarget": "flow",
           "release": 0.3,
           "anticipation": 0,
           "responseGate": "all",
@@ -4653,13 +4653,13 @@
           "localMusic": true,
           "musicBoost": 1,
           "drift": {
-            "mode": "pan",
+            "mode": "none",
             "angle": 180,
             "rate": 0.02,
             "amount": 0.08,
             "continuous": true
           },
-          "responseReason": "Clear beat pulses and slow tiled movement suit graphic repeats."
+          "responseReason": "The family supplies its own characteristic animation. Add drift separately if wanted."
         }
       ],
       "recipe": "Concentric fans",
